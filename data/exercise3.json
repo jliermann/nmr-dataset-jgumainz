@@ -1,0 +1,17 @@
+[
+    {
+        "groupName": "List of Exercise",
+        "children": [
+            {
+                "file": "./106-48-9/ex.json",
+                "title": "Aufgabe 2: C6H5ClO",
+                "view": "Exercise"
+            },
+            {
+                "file": "./2759-55-9/ex.json",
+                "title": "Aufgabe 3: C5H10O",
+                "view": "Exercise"
+            }
+        ]
+    }
+]
