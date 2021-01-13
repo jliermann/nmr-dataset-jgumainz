@@ -5,7 +5,7 @@
             "source": {
                 "original": [],
                 "jcamp": null,
-                "jcampURL": "./106-48-9/13c.dx"
+                "jcampURL": "./107-87-9/13c.dx"
             },
             "display": {
                 "name": "13c",
@@ -20,7 +20,7 @@
             "source": {
                 "original": [],
                 "jcamp": null,
-                "jcampURL": "./106-48-9/1h.dx"
+                "jcampURL": "./107-87-9/1h.dx"
             },
             "display": {
                 "name": "1h",
@@ -35,7 +35,7 @@
             "source": {
                 "original": [],
                 "jcamp": null,
-                "jcampURL": "./106-48-9/cosy.dx"
+                "jcampURL": "./107-87-9/cosy.dx"
             },
             "display": {
                 "name": "cosy",
@@ -50,7 +50,7 @@
             "source": {
                 "original": [],
                 "jcamp": null,
-                "jcampURL": "./106-48-9/hmbc.dx"
+                "jcampURL": "./107-87-9/hmbc.dx"
             },
             "display": {
                 "name": "hmbc",
@@ -65,7 +65,7 @@
             "source": {
                 "original": [],
                 "jcamp": null,
-                "jcampURL": "./106-48-9/hsqc.dx"
+                "jcampURL": "./107-87-9/hsqc.dx"
             },
             "display": {
                 "name": "hsqc",
