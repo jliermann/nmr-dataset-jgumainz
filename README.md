@@ -1,3 +1,3 @@
 # nmr-dataset-jgumainz
 
-Exercise 3: [./data/exercise3.json]
+- [Exercise 3](./data/exercise3.json)
