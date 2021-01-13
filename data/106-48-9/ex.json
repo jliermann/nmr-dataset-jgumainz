@@ -1,0 +1,24 @@
+{
+    "spectra": [
+        {
+            "data": {},
+            "source": {
+                "original": [],
+                "jcamp": null,
+                "jcampURL": "./106-48-9/1h.dx"
+            },
+            "display": {
+                "name": "1h",
+                "color": "#C10020",
+                "isVisible": true,
+                "isPeaksMarkersVisible": true,
+                "isRealSpectrumVisible": true
+            }
+        },
+     ],
+    "molecules": [
+        {
+            "molfile": "structure.mol"
+        }
+    ]
+}
