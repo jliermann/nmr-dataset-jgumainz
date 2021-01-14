@@ -13,21 +13,24 @@
                 "isVisible": true,
                 "isPeaksMarkersVisible": true,
                 "isRealSpectrumVisible": true
-            },
-        
-                "data": {},
-                "source": {
+            }
+        },
+        {
+            "data": {},
+            "source": {
                     "original": [],
                     "jcamp": null,
                     "jcampURL": "./98-86-2/13c.dx"
-                },
-                "display": {
+            },
+            "display": {
                     "name": "13c",
                     "color": "#C10020",
                     "isVisible": true,
                     "isPeaksMarkersVisible": true,
                     "isRealSpectrumVisible": true
-           },
+           }
+        },
+        {
                 "data": {},
                 "source": {
                     "original": [],
