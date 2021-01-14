@@ -1,0 +1,3452 @@
+##TITLE=	AV600-1602E8.3.fid
+AK nmr
+Name schenk
+Code 1-Brombutan
+CAS: 109-65-9
+ca. 23 mg
+dept135.tci CDCl3 {C:\Bruker\av3-600\av600} nmrsu 8
+##JCAMP-DX=	6.0	$$ MestReNova 14.2.0-26256
+##DATA TYPE=	LINK
+##BLOCK_ID=	1
+##BLOCKS=	1    
+##ORIGIN=	Mestrelab Research S.L.
+##OWNER=	Homeoffice
+##$MNOVA/LINK_BLOCK_TYPE=	ITEM	$$ NMR Spectrum
+##$MNOVA/ITEM/POLYGON=	(XY..XY)
+5321,5835
+8722,5835
+8722,8208
+5321,8208
+5321,5835
+##$MNOVA/ITEM/Z=	0
+##$MNOVA/ITEM/ANGLE=	0
+##TITLE=	AV600-1602E8.3.fid
+##JCAMP-DX=	6.0	$$ MestReNova 14.2.0-26256
+##BLOCK_ID=	2
+##DATA TYPE=	NMR SPECTRUM
+##DATA CLASS=	XYDATA
+##NUMDIM=	1
+##ORIGIN=	Bruker BioSpin GmbH
+##OWNER=	nmrsu
+##.OBSERVE FREQUENCY=	150.91940830899000048
+##.OBSERVE NUCLEUS=	^13C
+##.SOLVENT NAME=	CDCl3
+##.PULSE SEQUENCE=	deptsp135
+##LONGDATE=	2016/02/27 02:31:21.000
+##.ACQUISITIONMODE=	SIMULTANEOUS (DQD)
+##$ORIGINAL FORMAT=	Bruker XWIN-NMR
+##$MNOVA/SCALES_VERSION=	6
+##$PARAMETER FILE=	(acqus, ASCII, n:/JGU-NMR/Lehre/chemikalienlager/AV600-1602E8/3/acqus, 0)
+$$ ##TITLE= Parameter file, TopSpin 3.5 pl 4
+$$ ##JCAMPDX= 5.0
+$$ ##DATATYPE= Parameter Values
+$$ ##NPOINTS= 13	$$ modification sequence number
+$$ ##ORIGIN= Bruker BioSpin GmbH
+$$ ##OWNER= nmrsu
+$$ $$ 2016-02-27 02:31:21.112 +0100  nmrsu@av3-600
+$$ $$ C:/Bruker/av3-600/av600/AV600-1602E8/3/acqus
+$$ $$ process C:\Bruker\TopSpin3.5pl4\prog\mod\go4.exe
+$$ ##$ACQT0= -7.32112738222719
+$$ ##$AMP= (0..31)
+$$ 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+$$ 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+$$ ##$AMPCOIL= (0..19)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ANAVPT= -1
+$$ ##$AQSEQ= 0
+$$ ##$AQ_mod= 3
+$$ ##$AUNM= <au_zg>
+$$ ##$AUTOPOS= <8 >
+$$ ##$BF1= 150.902809
+$$ ##$BF2= 600.13
+$$ ##$BF3= 150.902809
+$$ ##$BF4= 150.902809
+$$ ##$BF5= 150.902809
+$$ ##$BF6= 150.902809
+$$ ##$BF7= 150.902809
+$$ ##$BF8= 150.902809
+$$ ##$BWFAC= (0..63)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$BYTORDA= 0
+$$ ##$CAGPARS= (0..11)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$CHEMSTR= <none>
+$$ ##$CNST= (0..63)
+$$ 1 1 145 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+$$ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+$$ ##$CPDPRG= (0..8)
+$$ <> <> <waltz16> <> <> <> <> <> <>
+$$ ##$D= (0..63)
+$$ 0 2 0.003448276 0 0 0 0 0 0 0 0 0 2e-005 0 0 0 0.0002 0 0 0 0 0 0 0 0 0
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0
+$$ ##$DATE= 1456536681
+$$ ##$DE= 18
+$$ ##$DECBNUC= <off>
+$$ ##$DECIM= 552
+$$ ##$DECNUC= <off>
+$$ ##$DECSTAT= 4
+$$ ##$DIGMOD= 1
+$$ ##$DIGTYP= 12
+$$ ##$DQDMODE= 0
+$$ ##$DR= 21
+$$ ##$DS= 4
+$$ ##$DSPFIRM= 0
+$$ ##$DSPFVS= 20
+$$ ##$DTYPA= 0
+$$ ##$EXP= <dept135.tci>
+$$ ##$FCUCHAN= (0..9)
+$$ 0 1 2 0 0 0 0 0 0 0
+$$ ##$FL1= 1
+$$ ##$FL2= 90
+$$ ##$FL3= 1
+$$ ##$FL4= 90
+$$ ##$FN_INDIRECT= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$FOV= 20
+$$ ##$FQ1LIST= <>
+$$ ##$FQ2LIST= <>
+$$ ##$FQ3LIST= <>
+$$ ##$FQ4LIST= <>
+$$ ##$FQ5LIST= <>
+$$ ##$FQ6LIST= <>
+$$ ##$FQ7LIST= <>
+$$ ##$FQ8LIST= <>
+$$ ##$FRQLO3= 1229029.19101
+$$ ##$FRQLO3N= 0
+$$ ##$FS= (0..7)
+$$ 83 83 83 83 83 83 83 83
+$$ ##$FTLPGN= 0
+$$ ##$FW= 250000
+$$ ##$FnILOOP= 0
+$$ ##$FnMODE= 0
+$$ ##$FnTYPE= 0
+$$ ##$GPNAM= (0..31)
+$$ <> <> <> <> <> <> <> <> <> <> <> <> <> <> <> <> <> <> <> <> <> <> <> <>
+$$ <> <> <> <> <> <> <> <>
+$$ ##$GPX= (0..31)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$GPY= (0..31)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$GPZ= (0..31)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$GRDPROG= <>
+$$ ##$GRPDLY= 68.0126800537109
+$$ ##$HDDUTY= 20
+$$ ##$HDRATE= 1
+$$ ##$HGAIN= (0..3)
+$$ 0 0 0 0
+$$ ##$HL1= 1
+$$ ##$HL2= 55
+$$ ##$HL3= 9
+$$ ##$HL4= 23
+$$ ##$HOLDER= 8
+$$ ##$HPMOD= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$HPPRGN= 0
+$$ ##$IN= (0..63)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$INF= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$INP= (0..63)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$INSTRUM= <spect>
+$$ ##$INTEGFAC= (0..63)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$L= (0..31)
+$$ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+$$ ##$LFILTER= 100
+$$ ##$LGAIN= -12
+$$ ##$LINPSTP= 0
+$$ ##$LOCKED= yes
+$$ ##$LOCKFLD= -5839
+$$ ##$LOCKGN= 112.804969787598
+$$ ##$LOCKPOW= -30
+$$ ##$LOCKPPM= 7.23999977111816
+$$ ##$LOCNUC= <2H>
+$$ ##$LOCPHAS= 198.9025
+$$ ##$LOCSHFT= yes
+$$ ##$LOCSW= 0
+$$ ##$LTIME= 0.400000005960464
+$$ ##$MASR= 4200
+$$ ##$MASRLST= <masrlst>
+$$ ##$MULEXPNO= (0..15)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$NBL= 1
+$$ ##$NC= -5
+$$ ##$NLOGCH= 4
+$$ ##$NOVFLW= 0
+$$ ##$NS= 64
+$$ ##$NUC1= <13C>
+$$ ##$NUC2= <1H>
+$$ ##$NUC3= <off>
+$$ ##$NUC4= <off>
+$$ ##$NUC5= <off>
+$$ ##$NUC6= <off>
+$$ ##$NUC7= <off>
+$$ ##$NUC8= <off>
+$$ ##$NUCLEUS= <off>
+$$ ##$NUSLIST= <automatic>
+$$ ##$NusAMOUNT= 25
+$$ ##$NusFPNZ= no
+$$ ##$NusJSP= 0
+$$ ##$NusSEED= 54321
+$$ ##$NusSPTYPE= 0
+$$ ##$NusT2= 1
+$$ ##$NusTD= 0
+$$ ##$O1= 16599.30899
+$$ ##$O2= 1919.29284812886
+$$ ##$O3= 12071.0397021071
+$$ ##$O4= 12071.0397021071
+$$ ##$O5= 12071.0397021071
+$$ ##$O6= 12071.0397021071
+$$ ##$O7= 12071.0397021071
+$$ ##$O8= 12071.0397021071
+$$ ##$OVERFLW= 0
+$$ ##$P= (0..63)
+$$ 11.5 11.5 23 7.5 15 16.5 25 50 350 25 50 40000 40000 2000 0 0 1000 2000
+$$ 500 600 2500 0 0 0 1000 0 500 11.5 0 2000 0 0 3700 0 0 0 80000 0 0 1700
+$$ 4000 0 0 10000 740 0 40000 1050 2000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1400
+$$ ##$PACOIL= (0..15)
+$$ 1 0 0 2 3 4 0 0 0 0 0 0 0 0 0 0
+$$ ##$PAPS= 0
+$$ ##$PARMODE= 0
+$$ ##$PCPD= (0..9)
+$$ 0 60 70 0 0 0 0 0 0 0
+$$ ##$PEXSEL= (0..9)
+$$ 1 1 1 1 1 1 1 1 1 1
+$$ ##$PHCOR= (0..31)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$PHLIST= <>
+$$ ##$PHP= 2
+$$ ##$PH_ref= 0
+$$ ##$PL= (0..63)
+$$ 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120
+$$ 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120
+$$ 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120
+$$ 120 120 120 120 120 120 120 120 120 120
+$$ ##$PLSTEP= 0.1
+$$ ##$PLSTRT= -6
+$$ ##$PLW= (0..63)
+$$ 0 75 6.4 0 0 0 0 0 0 0 15.87 0.6348 0.073469 0.036955 0 0.576 0 0 75 2.7552
+$$ 0 3.6e-006 0 0 0.0002304 0 0.018367 0 0 15.87 0.073469 0.29388 0 0 0 0
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$PLWMAX= (0..7)
+$$ 318.868 63.3064 0 0 0 0 0 0
+$$ ##$PQPHASE= 0
+$$ ##$PQSCALE= 1
+$$ ##$PR= 4
+$$ ##$PRECHAN= (0..15)
+$$ -1 3 0 5 4 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ ##$PRGAIN= 0
+$$ ##$PROBHD= <Z75812_0080 (CP TCI 600S3 H-C/N-D-05 Z)>
+$$ ##$PULPROG= <deptsp135>
+$$ ##$PW= 0
+$$ ##$PYNM= <>
+$$ ##$ProjAngle= 0
+$$ ##$QNP= 0
+$$ ##$RD= 0
+$$ ##$RECCHAN= (0..15)
+$$ 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$RECPH= 0
+$$ ##$RECPRE= (0..15)
+$$ -1 3 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ ##$RECPRFX= (0..15)
+$$ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$RECSEL= (0..15)
+$$ 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$RG= 2050
+$$ ##$RO= 20
+$$ ##$RSEL= (0..15)
+$$ 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$S= (0..7)
+$$ 83 1 21 21 21 23 83 83
+$$ ##$SELREC= (0..9)
+$$ 0 0 0 0 0 0 0 0 0 0
+$$ ##$SFO1= 150.91940830899
+$$ ##$SFO2= 600.131919292848
+$$ ##$SFO3= 150.914880039702
+$$ ##$SFO4= 150.914880039702
+$$ ##$SFO5= 150.914880039702
+$$ ##$SFO6= 150.914880039702
+$$ ##$SFO7= 150.914880039702
+$$ ##$SFO8= 150.914880039702
+$$ ##$SOLVENT= <CDCl3>
+$$ ##$SOLVOLD= <off>
+$$ ##$SP= (0..63)
+$$ 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120
+$$ 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120
+$$ 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120
+$$ 120 120 120 120 120 120 120 120 120 120
+$$ ##$SPECTR= 0
+$$ ##$SPINCNT= 0
+$$ ##$SPNAM= (0..63)
+$$ <> <Q5.1000> <Q3_surbop.1> <0.0> <Eburp2tr.1000> <Crp60comp.4> <Crp60,0.5,20.1>
+$$ <Sinc1.1000> <Crp60,0.5,20.1> <> <Crp60comp.4> <Crp60comp.4> <> <> <Eburp2.1000>
+$$ <> <> <> <0.0> <Q5tr_sebop.1> <Q5tr_sebop.1> <Q5tr_sebop.1> <Q5tr_sebop.1>
+$$ <> <> <> <Gaus1_180r.1000> <> <> <Q5tr.1000> <Q3_surbop.1> <Reburp.1000>
+$$ <Q3.1000> <> <Q3_surbop.1> <Q3_surbop.1> <Q5.1000> <> <> <> <> <> <> <>
+$$ <> <> <> <> <> <> <> <> <> <> <> <> <> <> <> <> <> <> <> <>
+$$ ##$SPOAL= (0..63)
+$$ 0.5 1 0.5 0.5 0 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 1 0.5 0.5 0.5 0.5 0
+$$ 0 0 0 0.5 0.5 0.5 0.5 0.5 0.5 0 0.5 0.5 0.5 0.5 0.5 0.5 1 0.5 0.5 0.5 0.5
+$$ 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5
+$$ 0.5 0.5 0.5 0.5 0.5
+$$ ##$SPOFFS= (0..63)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$SPPEX= (0..63)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$SPW= (0..63)
+$$ 0 0.0020863 0.0017082 0 0.033444 15.155 0 0.0010381 15.155 0 15.155 15.155
+$$ 0 0 0.033444 0 0 0 0 29.5321 45.90669 21.43517 115.5981 0 0 0 1.3282e-006
+$$ 0 0 0.24384 4.991 0.11534 0.00062756 0 2.479 0.0017082 0.83454 0 0 0 0
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$SUBNAM= (0..9)
+$$ <> <> <> <> <> <> <> <> <> <>
+$$ ##$SW= 240.074384493944
+$$ ##$SWIBOX= (0..19)
+$$ 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$SW_h= 36231.884057971
+$$ ##$SWfinal= 0
+$$ ##$SigLockShift= 0
+$$ ##$TD= 65536
+$$ ##$TD0= 1
+$$ ##$TD_INDIRECT= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$TDav= 1
+$$ ##$TE= 294.0011
+$$ ##$TE1= 294.0011
+$$ ##$TE2= 0
+$$ ##$TE3= 0
+$$ ##$TE4= 0
+$$ ##$TEG= 300
+$$ ##$TE_MAGNET= 0
+$$ ##$TE_PIDX= 1
+$$ ##$TE_STAB= (0..9)
+$$ 2 2 0 0 0 0 0 0 0 0
+$$ ##$TL= (0..7)
+$$ 120 120 120 120 120 120 120 120
+$$ ##$TOTROT= (0..63)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$TUBE_TYPE= <>
+$$ ##$USERA1= <>
+$$ ##$USERA2= <>
+$$ ##$USERA3= <>
+$$ ##$USERA4= <>
+$$ ##$USERA5= <>
+$$ ##$V9= 5
+$$ ##$VALIDCODE= -1
+$$ ##$VALIST= <>
+$$ ##$VCLIST= <>
+$$ ##$VDLIST= <>
+$$ ##$VPLIST= <>
+$$ ##$VTLIST= <>
+$$ ##$WBST= 1024
+$$ ##$WBSW= 4
+$$ ##$XGAIN= (0..3)
+$$ 0 0 0 0
+$$ ##$XL= 0
+$$ ##$YL= 0
+$$ ##$YMAX_a= 152726
+$$ ##$YMIN_a= -139954
+$$ ##$ZGOPTNS= <>
+$$ ##$ZL1= 120
+$$ ##$ZL2= 120
+$$ ##$ZL3= 120
+$$ ##$ZL4= 120
+$$ ##END=
+$$ 
+##$PARAMETER FILE=	(audita.txt, ASCII, n:/JGU-NMR/Lehre/chemikalienlager/AV600-1602E8/3/audita.txt, 0)
+$$ ##TITLE= Audit trail, TopSpin 3.5 pl 4
+$$ ##JCAMPDX= 5.01
+$$ ##ORIGIN= Bruker BioSpin GmbH
+$$ ##OWNER= nmrsu
+$$ $$ C:/Bruker/av3-600/av600/AV600-1602E8/3/audita.txt
+$$ ##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+$$ (   1,<2016-02-27 02:31:21.112 +0100>,<nmrsu>,<av3-600>,<go4>,<TopSpin 3.5.4>,
+$$       <created by zg
+$$ 	started at 2016-02-27 02:27:58.281 +0100,
+$$ 	POWCHK enabled, PULCHK disabled,
+$$        configuration hash MD5:
+$$        0E 6B 10 07 3B 74 35 87 64 B9 C0 87 16 B6 69 62
+$$        data hash MD5: 64K
+$$        B4 79 BB E9 6F 41 8C 12 CB A6 0C BF E5 4B 71 F5>)
+$$ (   2,<2016-02-27 02:31:21.175 +0100>,<nmrsu>,<av3-600>,<audit>,<TopSpin 3.5.4>,
+$$       <user comment:
+$$        ICON-NMR User ID: nmrsu
+$$        data hash MD5: 64K
+$$        B4 79 BB E9 6F 41 8C 12 CB A6 0C BF E5 4B 71 F5>)
+$$ ##END=
+$$ 
+$$ $$ hash MD5
+$$ $$ 44 FE A2 53 D2 5F AF DB 90 3A 05 A4 B0 A5 B2 AD
+$$ 
+##$PARAMETER FILE=	(cpdprg2, ASCII, n:/JGU-NMR/Lehre/chemikalienlager/AV600-1602E8/3/cpdprg2, 0)
+$$ 1 pcpd*3:180
+$$   pcpd*4:0
+$$   pcpd*2:180
+$$   pcpd*3:0
+$$   pcpd  :180
+$$   pcpd*2:0
+$$   pcpd*4:180
+$$   pcpd*2:0
+$$   pcpd*3:180
+$$ 2 pcpd*3:0
+$$   pcpd*4:180
+$$   pcpd*2:0
+$$   pcpd*3:180
+$$   pcpd  :0
+$$   pcpd*2:180
+$$   pcpd*4:0
+$$   pcpd*2:180
+$$   pcpd*3:0
+$$   lo to 2 times 2
+$$ 3 pcpd*3:180
+$$   pcpd*4:0
+$$   pcpd*2:180
+$$   pcpd*3:0
+$$   pcpd  :180
+$$   pcpd*2:0
+$$   pcpd*4:180
+$$   pcpd*2:0
+$$   pcpd*3:180
+$$   jump to 1
+$$ 
+##$PARAMETER FILE=	(datafile, ASCII, n:/JGU-NMR/Lehre/chemikalienlager/AV600-1602E8/3/fid, 0)
+$$ 
+##$PARAMETER FILE=	(format.temp, ASCII, n:/JGU-NMR/Lehre/chemikalienlager/AV600-1602E8/3/format.temp, 0)
+$$ EDIT_PAR COMMAND FILE
+$$ 
+$$ DI_MODE         LONG
+$$ ED_ENTRY        ACQU
+$$ ORDER           FILE
+$$ 
+$$ 
+$$ HEADER		"F2 - Acquisition Parameters"
+$$ T_NAME		Date_
+$$ 		TYPE	R64
+$$ 		CLASS	ACQU
+$$ 		SUBRANGE 0.0 50000000
+$$ 		REL	"Date_=itodate(DATE)"
+$$ 		INV_REL	"DATE=datetoi(Date_,DATE)"
+$$ 		FORMAT	"%14.0f"
+$$ 		TEXT	" "
+$$ END
+$$ T_NAME		Time
+$$ 		TYPE	R32
+$$ 		CLASS	ACQU
+$$ 		SUBRANGE 0.0 1000000
+$$ 		REL	"Time=itotime(DATE)"
+$$ 		INV_REL	"DATE=timetoi(Time,DATE)"
+$$ 		FORMAT	"%14.2f h"
+$$ 		TEXT	" "
+$$ END
+$$ NAME		INSTRUM
+$$ 		TEXT	" "
+$$ END
+$$ NAME		PROBHD
+$$ 		FORMAT	"%14.14s"
+$$ 		TEXT	" "
+$$ END
+$$ NAME		PULPROG
+$$ 		TEXT	" "
+$$ END
+$$ NAME		TD
+$$ 		TEXT	" "
+$$ END
+$$ NAME		SOLVENT
+$$ 		TEXT	" "
+$$ END
+$$ NAME		NS
+$$ 		TEXT	" "
+$$ END
+$$ NAME		DS
+$$ 		TEXT	" "
+$$ END
+$$ T_NAME		SWH
+$$ 		TYPE	R32
+$$ 		CLASS	ACQU
+$$ 		SUBRANGE 0.0 1e8
+$$ 		REL	"SWH=SW*SFO1"
+$$ 		INV_REL "SW=SWH/SFO1"
+$$ 		UNIT	"Hz"
+$$ 		FORMAT	"%14.3f Hz"
+$$ 		TEXT	" "
+$$ END
+$$ T_NAME          FIDRES
+$$                 TYPE    R32
+$$                 CLASS   ACQU
+$$                 SUBRANGE 0.0 100000
+$$                 REL     "FIDRES=2*SW*SFO1/TD"
+$$                 INV_REL "TD = nextpow(2*SW*SFO1/FIDRES)"
+$$ 		UNIT	"Hz"
+$$ 		FORMAT	"%14.6f Hz"
+$$ 		TEXT	" "
+$$ END
+$$ T_NAME          AQ
+$$ 		TYPE	R32
+$$ 		CLASS	ACQU
+$$ 		SUBRANGE 0.0 1000
+$$ 		REL	"AQ=aqcalc(SW,SFO1,TD,DIGTYP)"
+$$ 		INV_REL	"TD=tdcalc(SW,SFO1,1.0e6*AQ,DIGTYP)"
+$$ 		UNIT	"sec"
+$$ 		FORMAT	"%14.7f sec"
+$$ 		TEXT	" "
+$$ END
+$$ NAME		RG
+$$ 		TEXT	" "
+$$ END
+$$ T_NAME          DW
+$$ 		TYPE	R32
+$$ 		CLASS	ACQU
+$$ 		SUBRANGE 0.0 1000000
+$$ 		REL	"DW=1/(2*SW*SFO1)"
+$$ 		INV_REL	"SW=1000000/(2*(0.005+DW)*SFO1)"
+$$ 		UNIT	"usec"
+$$ 		FORMAT	"%14.3lf usec"
+$$ 		TEXT	" "
+$$ END
+$$ NAME		DE
+$$ 		FORMAT	"%14.2f usec"
+$$ 		TEXT	" "
+$$ END
+$$ NAME		TE
+$$ 		FORMAT	"%14.1f K"
+$$ 		TEXT	" "
+$$ END
+$$ T_NAME		CNST2
+$$ 		TYPE	R32
+$$ 		CLASS	ACQU
+$$ 		SUBRANGE -1e38 1e38
+$$ 		REL	"CNST2=CNST[2]"
+$$ 		INV_REL	"CNST[2]=CNST2"
+$$ 		FORMAT	"%14.7f"
+$$ 		TEXT	" "
+$$ END
+$$ T_NAME		D1
+$$ 		TYPE	R32
+$$ 		CLASS	ACQU
+$$ 		SUBRANGE 0.0 1e38
+$$ 		REL	"D1=D[1]"
+$$ 		INV_REL	"D[1]=D1"
+$$ 		UNIT	"sec"
+$$ 		FORMAT	"%14.8f sec"
+$$ 		TEXT	" "
+$$ END
+$$ T_NAME		D2
+$$ 		TYPE	R32
+$$ 		CLASS	ACQU
+$$ 		SUBRANGE 0.0 1e38
+$$ 		REL	"D2=D[2]"
+$$ 		INV_REL	"D[2]=D2"
+$$ 		UNIT	"sec"
+$$ 		FORMAT	"%14.8f sec"
+$$ 		TEXT	" "
+$$ END
+$$ T_NAME		D12
+$$ 		TYPE	R32
+$$ 		CLASS	ACQU
+$$ 		SUBRANGE 0.0 1e38
+$$ 		REL	"D12=D[12]"
+$$ 		INV_REL	"D[12]=D12"
+$$ 		UNIT	"sec"
+$$ 		FORMAT	"%14.8f sec"
+$$ 		TEXT	" "
+$$ END
+$$ NAME		TD0
+$$ 		TEXT	" "
+$$ END
+$$ NAME		SFO1
+$$ 		FORMAT	"%14.7f MHz"
+$$ 		TEXT	" "
+$$ END
+$$ NAME		NUC1
+$$ 		NONEDIT
+$$ 		TEXT	" "
+$$ END
+$$ T_NAME		P1
+$$ 		TYPE	R32
+$$ 		CLASS	ACQU
+$$ 		SUBRANGE 0.0 1.0e10
+$$ 		REL	"P1=P[1]"
+$$ 		INV_REL	"P[1]=P1"
+$$ 		UNIT	"usec"
+$$ 		FORMAT	"%14.2f usec"
+$$ 		TEXT	" "
+$$ END
+$$ T_NAME		P13
+$$ 		TYPE	R32
+$$ 		CLASS	ACQU
+$$ 		SUBRANGE 0.0 1.0e10
+$$ 		REL	"P13=P[13]"
+$$ 		INV_REL	"P[13]=P13"
+$$ 		UNIT	"usec"
+$$ 		FORMAT	"%14.2f usec"
+$$ 		TEXT	" "
+$$ END
+$$ T_NAME		PLW0
+$$ 		TYPE	R32
+$$ 		CLASS	ACQU
+$$ 		REL	"PLW0=PLW[0]"
+$$ 		INV_REL	"PLW[0]=PLW0"
+$$ 		UNIT	"W"
+$$ 		FORMAT	"%14.8f W"
+$$ 		TEXT	"power PLW0 "
+$$ END
+$$ T_NAME		PLW1
+$$ 		TYPE	R32
+$$ 		CLASS	ACQU
+$$ 		REL	"PLW1=PLW[1]"
+$$ 		INV_REL	"PLW[1]=PLW1"
+$$ 		UNIT	"W"
+$$ 		FORMAT	"%14.8f W"
+$$ 		TEXT	"power PLW1 "
+$$ END
+$$ NAME		SPNAM[5]
+$$ 		TEXT	" "
+$$ END
+$$ T_NAME		SPOAL5
+$$ 		TYPE	R32
+$$ 		CLASS	ACQU
+$$ 		SUBRANGE -1.0 1.0
+$$ 		REL	"SPOAL5=SPOAL[5]"
+$$ 		INV_REL	"SPOAL[5]=SPOAL5"
+$$ 		FORMAT	"%14.3f"
+$$ 		TEXT	" "
+$$ END
+$$ T_NAME		SPOFFS5
+$$ 		TYPE	R32
+$$ 		CLASS	ACQU
+$$ 		SUBRANGE -1e38 1e38
+$$ 		REL	"SPOFFS5=SPOFFS[5]"
+$$ 		INV_REL	"SPOFFS[0]=SPOFFS0"
+$$ 		UNIT	"Hz"
+$$ 		FORMAT	"%14.2f Hz"
+$$ 		TEXT	" "
+$$ END
+$$ T_NAME		SPW5
+$$ 		TYPE	R32
+$$ 		CLASS	ACQU
+$$ 		REL	"SPW5=SPW[5]"
+$$ 		INV_REL	"SPW[5]=SPW5"
+$$ 		UNIT	"W"
+$$ 		FORMAT	"%14.8f W"
+$$ 		TEXT	"shaped pulse power SPW5"
+$$ END
+$$ NAME		SFO2
+$$ 		FORMAT	"%14.7f MHz"
+$$ 		TEXT	" "
+$$ END
+$$ NAME		NUC2
+$$ 		NONEDIT
+$$ 		TEXT	" "
+$$ END
+$$ NAME		CPDPRG[2]
+$$ 		TEXT	" "
+$$ END
+$$ T_NAME		P3
+$$ 		TYPE	R32
+$$ 		CLASS	ACQU
+$$ 		SUBRANGE 0.0 1.0e10
+$$ 		REL	"P3=P[3]"
+$$ 		INV_REL	"P[3]=P3"
+$$ 		UNIT	"usec"
+$$ 		FORMAT	"%14.2f usec"
+$$ 		TEXT	" "
+$$ END
+$$ T_NAME		P4
+$$ 		TYPE	R32
+$$ 		CLASS	ACQU
+$$ 		SUBRANGE 0.0 1.0e10
+$$ 		REL	"P4=P[4]"
+$$ 		INV_REL	"P[4]=P4"
+$$ 		UNIT	"usec"
+$$ 		FORMAT	"%14.2f usec"
+$$ 		TEXT	" "
+$$ END
+$$ T_NAME		PCPD2
+$$ 		TYPE	R32
+$$ 		CLASS	ACQU
+$$ 		SUBRANGE 0 1e38
+$$ 		REL	"PCPD2=PCPD[2]"
+$$ 		INV_REL	"PCPD[2]=PCPD2"
+$$ 		UNIT	"usec"
+$$ 		FORMAT	"%14.2f usec"
+$$ 		TEXT	" "
+$$ END
+$$ T_NAME		PLW2
+$$ 		TYPE	R32
+$$ 		CLASS	ACQU
+$$ 		REL	"PLW2=PLW[2]"
+$$ 		INV_REL	"PLW[2]=PLW2"
+$$ 		UNIT	"W"
+$$ 		FORMAT	"%14.8f W"
+$$ 		TEXT	"power PLW2 "
+$$ END
+$$ T_NAME		PLW12
+$$ 		TYPE	R32
+$$ 		CLASS	ACQU
+$$ 		REL	"PLW12=PLW[12]"
+$$ 		INV_REL	"PLW[12]=PLW12"
+$$ 		UNIT	"W"
+$$ 		FORMAT	"%14.8f W"
+$$ 		TEXT	"power PLW12 "
+$$ END
+$$ 
+##$PARAMETER FILE=	(procs, ASCII, n:/JGU-NMR/Lehre/chemikalienlager/AV600-1602E8/3/pdata/1/procs, 0)
+$$ ##TITLE= Parameter file, TopSpin 3.5 pl 4
+$$ ##JCAMPDX= 5.0
+$$ ##DATATYPE= Parameter Values
+$$ ##NPOINTS= 3	$$ modification sequence number
+$$ ##ORIGIN= Bruker BioSpin GmbH
+$$ ##OWNER= nmrsu
+$$ $$ 2016-02-27 02:26:41.435 +0100  nmrsu@av3-600
+$$ $$ C:/Bruker/av3-600/av600/AV600-1602E8/3/pdata/1/procs
+$$ $$ process C:\Bruker\TopSpin3.5pl4\prog\mod\xwish3.exe
+$$ ##$ABSF1= 170
+$$ ##$ABSF2= -5
+$$ ##$ABSG= 5
+$$ ##$ABSL= 3
+$$ ##$ALPHA= 0
+$$ ##$AQORDER= 0
+$$ ##$ASSFAC= 0
+$$ ##$ASSFACI= 0
+$$ ##$ASSFACX= 0
+$$ ##$ASSWID= 0
+$$ ##$AUNMP= <proc_1d>
+$$ ##$AXLEFT= 0
+$$ ##$AXNAME= <>
+$$ ##$AXNUC= <off>
+$$ ##$AXRIGHT= 0
+$$ ##$AXTYPE= 0
+$$ ##$AXUNIT= <>
+$$ ##$AZFE= 0.1
+$$ ##$AZFW= 0.5
+$$ ##$BCFW= 1
+$$ ##$BC_mod= 2
+$$ ##$BYTORDP= 0
+$$ ##$COROFFS= 0
+$$ ##$CY= 15
+$$ ##$DATMOD= 1
+$$ ##$DC= 1
+$$ ##$DFILT= <>
+$$ ##$DTYPP= 0
+$$ ##$ERETIC= no
+$$ ##$F1P= 0
+$$ ##$F2P= 0
+$$ ##$FCOR= 0.5
+$$ ##$FTSIZE= 0
+$$ ##$FT_mod= 0
+$$ ##$GAMMA= 1
+$$ ##$GB= 0
+$$ ##$INTBC= 1
+$$ ##$INTSCL= 1
+$$ ##$ISEN= 30
+$$ ##$LB= 1
+$$ ##$LEV0= 0
+$$ ##$LPBIN= 0
+$$ ##$MAXI= 10000
+$$ ##$MC2= 0
+$$ ##$MEAN= 0
+$$ ##$ME_mod= 0
+$$ ##$MI= 0
+$$ ##$MddCEXP= no
+$$ ##$MddCT_SP= no
+$$ ##$MddF180= no
+$$ ##$MddLAMBDA= 0
+$$ ##$MddMEMORY= 0
+$$ ##$MddMERGE= 0
+$$ ##$MddNCOMP= 0
+$$ ##$MddNITER= 0
+$$ ##$MddNOISE= 0
+$$ ##$MddPHASE= 0
+$$ ##$MddSEED= 0
+$$ ##$MddSRSIZE= 0
+$$ ##$Mdd_CsALG= 0
+$$ ##$Mdd_CsLAMBDA= 1
+$$ ##$Mdd_CsNITER= 10
+$$ ##$Mdd_CsNORM= 0
+$$ ##$Mdd_CsVE= yes
+$$ ##$Mdd_CsZF= 2
+$$ ##$Mdd_mod= 0
+$$ ##$NCOEF= 0
+$$ ##$NC_proc= 0
+$$ ##$NLEV= 6
+$$ ##$NOISF1= 0
+$$ ##$NOISF2= 0
+$$ ##$NSP= 1
+$$ ##$NTH_PI= 0
+$$ ##$NZP= 1
+$$ ##$OFFSET= 53.33597
+$$ ##$PC= 1.4
+$$ ##$PHC0= 243.679
+$$ ##$PHC1= -251.059
+$$ ##$PH_mod= 0
+$$ ##$PKNL= yes
+$$ ##$PPARMOD= 0
+$$ ##$PPDIAG= 0
+$$ ##$PPIPTYP= 0
+$$ ##$PPMPNUM= 2147483647
+$$ ##$PPRESOL= 1
+$$ ##$PSCAL= 4
+$$ ##$PSIGN= 2
+$$ ##$PYNMP= <proc.py>
+$$ ##$RDF1= 0
+$$ ##$RDF2= 0
+$$ ##$RDFWHM= 0
+$$ ##$RDINT= 0
+$$ ##$RDPOS= 0
+$$ ##$REVERSE= no
+$$ ##$SF= 150.902809
+$$ ##$SI= 32768
+$$ ##$SIGF1= 0
+$$ ##$SIGF2= 0
+$$ ##$SINO= 0
+$$ ##$SIOLD= 32768
+$$ ##$SPECTYP= <>
+$$ ##$SREF_mod= 1
+$$ ##$SREGLST= <13C.CDCl3>
+$$ ##$SSB= 0
+$$ ##$STSI= 0
+$$ ##$STSR= 0
+$$ ##$SW_p= 10
+$$ ##$SYMM= 0
+$$ ##$S_DEV= 0
+$$ ##$TDeff= 0
+$$ ##$TDoff= 0
+$$ ##$TI= <>
+$$ ##$TILT= no
+$$ ##$TM1= 0
+$$ ##$TM2= 0
+$$ ##$TOPLEV= 0
+$$ ##$USERP1= <>
+$$ ##$USERP2= <>
+$$ ##$USERP3= <>
+$$ ##$USERP4= <>
+$$ ##$USERP5= <>
+$$ ##$WDW= 1
+$$ ##$XDIM= 0
+$$ ##$YMAX_p= 0
+$$ ##$YMIN_p= 0
+$$ ##END=
+$$ 
+##$PARAMETER FILE=	(pulseprogram, ASCII, n:/JGU-NMR/Lehre/chemikalienlager/AV600-1602E8/3/pulseprogram, 0)
+$$ # 1 "C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/deptsp135"
+$$ ;deptsp135
+$$ ;avance-version (14/10/09)
+$$ ;dept polarization transfer
+$$ ;with decoupling during acquisition
+$$ ;using shaped pulse for 180degree pulse on f1 - channel
+$$ ;with 135 degree read pulse to give XH, XH3 positive and XH2 negative
+$$ ;
+$$ ;$CLASS=HighRes
+$$ ;$DIM=1D
+$$ ;$TYPE=
+$$ ;$SUBTYPE=
+$$ ;$COMMENT=
+$$ ;$RECOMMEND=y
+$$ 
+$$ 
+$$ # 1 "C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/Avance.incl" 1
+$$ ;Avance3.incl
+$$ ;   for AV III
+$$ ;
+$$ ;avance-version (13/06/17)
+$$ ;
+$$ ;$CLASS=HighRes Incl
+$$ ;$COMMENT=
+$$ # 169 "C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/Avance.incl"
+$$ ;$Id: Avance3.incl,v 1.10.2.2 2013/08/30 09:43:33 ber Exp $
+$$ # 16 "C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/deptsp135" 2
+$$ 
+$$ # 1 "C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/Delay.incl" 1
+$$ ;Delay.incl  -  include file for commonly used delays
+$$ ;
+$$ ;version (13/08/07)
+$$ ;
+$$ ;$CLASS=HighRes Incl
+$$ ;$COMMENT=
+$$ 
+$$ # 9 "C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/Delay.incl"
+$$ ;general delays
+$$ 
+$$ define delay DELTA
+$$ define delay DELTA1
+$$ define delay DELTA2
+$$ define delay DELTA3
+$$ define delay DELTA4
+$$ define delay DELTA5
+$$ define delay DELTA6
+$$ define delay DELTA7
+$$ define delay DELTA8
+$$ define delay DELTA9
+$$ define delay DELTA10
+$$ define delay DELTA11
+$$ define delay DELTA12
+$$ define delay DELTA13
+$$ define delay DELTA14
+$$ define delay DELTA15
+$$ define delay DELTA16
+$$ 
+$$ define delay TAU
+$$ define delay TAU1
+$$ define delay TAU2
+$$ define delay TAU3
+$$ define delay TAU4
+$$ define delay TAU5
+$$ define delay TAU6
+$$ define delay TAU7
+$$ define delay TAU8
+$$ define delay TAU9
+$$ # 40 "C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/Delay.incl"
+$$ define delay INCR1
+$$ define delay INCR2
+$$ define delay INCR3
+$$ define delay INCR4
+$$ define delay INCR5
+$$ define delay INCR6
+$$ 
+$$ 
+$$ ;delays for centering pulses
+$$ # 50 "C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/Delay.incl"
+$$ define delay CEN_HN1
+$$ define delay CEN_HN2
+$$ define delay CEN_HN3
+$$ define delay CEN_HC1
+$$ define delay CEN_HC2
+$$ define delay CEN_HC3
+$$ define delay CEN_HC4
+$$ define delay CEN_HP1
+$$ define delay CEN_HP2
+$$ define delay CEN_CN1
+$$ define delay CEN_CN2
+$$ define delay CEN_CN3
+$$ define delay CEN_CN4
+$$ define delay CEN_CP1
+$$ define delay CEN_CP2
+$$ 
+$$ 
+$$ ;loop counters
+$$ # 69 "C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/Delay.incl"
+$$ define loopcounter COUNTER
+$$ define loopcounter SCALEF
+$$ define loopcounter FACTOR1
+$$ define loopcounter FACTOR2
+$$ define loopcounter FACTOR3
+$$ define loopcounter FACTOR4
+$$ define loopcounter FACTOR5
+$$ define loopcounter FACTOR6
+$$ 
+$$ 
+$$ # 80 "C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/Delay.incl"
+$$ ;$Id: Delay.incl,v 1.14.2.1 2013/08/30 09:43:33 ber Exp $
+$$ # 17 "C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/deptsp135" 2
+$$ 
+$$ 
+$$ # 20 "C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/deptsp135"
+$$ "p4=p3*2"
+$$ "d2=1s/(cnst2*2)"
+$$ "d12=20u"
+$$ 
+$$ 
+$$ "DELTA=p1*4/PI"
+$$ # 28 "C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/deptsp135"
+$$ "acqt0=-p1*2/PI"
+$$ 
+$$ 
+$$ # 1 "mc_line 31 file C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/deptsp135 exp. def. part of mc cmd. before ze"
+$$ ; dimension 1D; AQ_mode 
+$$ define delay MCWRK
+$$ define delay MCREST
+$$ "MCREST = 30m - 30m"
+$$ "MCWRK = 0.333333*30m"
+$$ 
+$$     dccorr
+$$ # 31 "C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/deptsp135"
+$$ 1 ze
+$$ # 1 "mc_line 31 file C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/deptsp135 exp. def. of mc cmd. after ze"
+$$ # 32 "C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/deptsp135"
+$$ # 1 "mc_line 32 file C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/deptsp135 exp. start label for mc cmd."
+$$ 2 MCWRK  * 2 do:f2
+$$ LBLF0, MCWRK 
+$$   MCREST
+$$ # 33 "C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/deptsp135"
+$$   d1
+$$   d12 pl1:f1 pl2:f2
+$$   (p3 ph1):f2
+$$   d2
+$$   (p4 ph2):f2 
+$$   (p1 ph4):f1
+$$   d2 pl0:f1
+$$   (p3*1.5 ph3):f2 (p13:sp5 ph5):f1
+$$   d2
+$$   DELTA pl12:f2
+$$   go=2 ph31 cpd2:f2
+$$ # 1 "mc_line 44 file C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/deptsp135 exp. mc cmd. in line"
+$$   MCWRK do:f2 wr #0
+$$   MCWRK zd
+$$   lo to LBLF0 times td0
+$$ 
+$$ # 45 "C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/deptsp135"
+$$ exit
+$$ # 48 "C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/deptsp135"
+$$ ph1=0
+$$ ph2=0 2 1 3
+$$ ph3=1 1 1 1 3 3 3 3
+$$ ph4=0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1
+$$     2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3
+$$ ph5=0 2 0 2 0 2 0 2 1 3 1 3 1 3 1 3
+$$ ph31=1 1 3 3 3 3 1 1 2 2 0 0 0 0 2 2
+$$      3 3 1 1 1 1 3 3 0 0 2 2 2 2 0 0
+$$ 
+$$ 
+$$ ;pl0 : 0W
+$$ ;pl1 : f1 channel - power level for pulse (default)
+$$ ;pl2 : f2 channel - power level for pulse (default)
+$$ ;pl12: f2 channel - power level for CPD/BB decoupling
+$$ ;sp5: f1 channel - shaped pulse (180degree)
+$$ ;spnam5: Crp60comp.4
+$$ ;p1 : f1 channel -  90 degree high power pulse
+$$ ;p3 : f2 channel -  90 degree high power pulse
+$$ ;p4 : f2 channel - 180 degree high power pulse
+$$ ;p13: f1 channel - 180 degree shaped pulse
+$$ ;     = 2msec for Crp60comp.4
+$$ ;d1 : relaxation delay; 1-5 * T1
+$$ ;d2 : 1/(2J(XH))
+$$ ;d12: delay for power switching                      [20 usec]
+$$ ;cnst2: = J(XH)
+$$ ;ns: 4 * n, total number of scans: NS * TD0
+$$ ;ds: 8
+$$ ;cpd2: decoupling according to sequence defined by cpdprg2
+$$ ;pcpd2: f2 channel - 90 degree pulse for decoupling sequence
+$$ # 79 "C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/deptsp135"
+$$ ;DELTA: delay to compensate for chemical shift evolution during
+$$ ;          RF pulse in order to give same phase correction as
+$$ ;          for reference 1D spectrum
+$$ 
+$$ 
+$$ # 85 "C:/Bruker/TopSpin3.5pl4/exp/stan/nmr/lists/pp/deptsp135"
+$$ ;$Id: deptsp135,v 1.13.2.1 2014/10/10 09:21:10 ber Exp $
+$$ 
+##$PARAMETER FILE=	(title, ASCII, n:/JGU-NMR/Lehre/chemikalienlager/AV600-1602E8/3/pdata/1/title, 0)
+$$ AK nmr
+$$ Name schenk
+$$ Code 1-Brombutan
+$$ CAS: 109-65-9
+$$ ca. 23 mg
+$$ dept135.tci CDCl3 {C:\Bruker\av3-600\av600} nmrsu 8
+$$ 
+##$PARAMETER FILE=	(uxnmr.par, ASCII, n:/JGU-NMR/Lehre/chemikalienlager/AV600-1602E8/3/uxnmr.par, 0)
+$$ ##TITLE= Parameter file, TopSpin 3.5 pl 4
+$$ ##JCAMPDX= 5.0
+$$ ##DATATYPE= Parameter Values
+$$ ##NPOINTS= 339	$$ modification sequence number
+$$ ##ORIGIN= Bruker BioSpin GmbH
+$$ ##OWNER= nmrsu
+$$ $$ 2016-01-28 18:44:03.487 +0100  nmrsu@av3-600
+$$ $$ C:/Bruker/TopSpin3.5pl4/conf/instr/spect/uxnmr.par
+$$ $$ process C:\Bruker\TopSpin3.5pl4\prog\mod\cfserverav3.exe
+$$ ##$ACB= 0
+$$ ##$ACBTAT= (0..23)
+$$ 0 88 72 88 50 50 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ACBTBA= (0..23)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ACBTBLK= (0..23)
+$$ 0 35 34 33 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ACBTCTL= (0..23)
+$$ 0 6 6 6 6 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ACBTDI= (0..23)
+$$ 0 -1779670018 -1779670019 -1779670019 -1779670019 -1779670252 0 0 0 0 0
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ACBTDM= (0..23)
+$$ 0 10 25 10 10 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ACBTFHI= (0..23)
+$$ 0 365 600 365 92 93 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ACBTFL= (0..23)
+$$ 0 248 248 248 88 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ACBTFLO= (0..23)
+$$ 0 6 180 6 30 91 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ACBTINP= (0..23)
+$$ 0 3 2 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ACBTOUT= (0..23)
+$$ 0 1 1 2 3 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ACBTPO= (0..23)
+$$ 0 300000 100000 300000 150000 5000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ACBTPW= (0..23)
+$$ 0 100 100 100 5 1000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ACBTSB= (0..23)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ACBTSDT= (0..23)
+$$ 0 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ACBTY= <no>
+$$ ##$AMPDFLT= no
+$$ ##$AQSBDCH= (0..95)
+$$ 0 0 0 0 0 0 0 0 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255
+$$ ##$AQSBDHW= (0..95)
+$$ 4 1 8 8 8 0 0 0 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255
+$$ ##$AQSBDID= (0..95)
+$$ 82 88 83 83 83 80 66 66 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255
+$$ ##$AQSBDNO= (0..95)
+$$ 1 1 1 2 3 1 1 1 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255
+$$ ##$AQSBDSL= (0..95)
+$$ 2 3 4 5 6 21 255 1 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255
+$$ ##$AQSBDTY= (0..95)
+$$ 66 192 25 25 25 207 209 7 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255
+$$ ##$AQSBUAD= (0..95)
+$$ 16 52 36 37 38 33 32 32 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255
+$$ ##$AQSECL= (0..95)
+$$ 5 2 2 2 2 10 3 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255
+$$ ##$AQSECLS= (0..95)
+$$ 0 2 7 7 7 0 2 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+$$ 255 255
+$$ ##$AQSETH1= <no>
+$$ ##$AQSETH2= <no>
+$$ ##$AQSSPLT= no
+$$ ##$ATT19F= (0..1)
+$$ 0 0
+$$ ##$ATT1H= (0..1)
+$$ 0 0
+$$ ##$ATT3H= (0..1)
+$$ 0 0
+$$ ##$ATTX= (0..1)
+$$ 0 0
+$$ ##$ATTY= (0..1)
+$$ 0 0
+$$ ##$ATTZ= (0..1)
+$$ 0 0
+$$ ##$BACSAIR= yes
+$$ ##$BACSCAP= 60
+$$ ##$BACSDEL= 10
+$$ ##$BACSFCM= no
+$$ ##$BACSOPT= <>
+$$ ##$BACSTY= <tty04>
+$$ ##$BARPTY= <no>
+$$ ##$BFREQ= 600.13
+$$ ##$BGAETH= (0..9)
+$$ <no> <no> <no> <no> <no> <no> <no> <no> <no> <no>
+$$ ##$BIRDS= yes
+$$ ##$BMPC= 0
+$$ ##$BMPCTY= <no>
+$$ ##$BPSUTY= <no>
+$$ ##$BSMS= 2
+$$ ##$BSMS19FLock= no
+$$ ##$BSMSETH= <149.236.99.20>
+$$ ##$BSMSTY= <no>
+$$ ##$BgaChFac2= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$BgaChMap= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$BgaChMaxv= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$BgaChRouting= (0..63)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$BgaChShimMap= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$BgaChShimMaxv= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$Bla01Eth= <149.236.99.254>
+$$ ##$Bla01Nam= <BLAX300 E 6-365MHZ INR>
+$$ ##$Bla01PN= <W1345092>
+$$ ##$Bla01SN= <0421>
+$$ ##$Bla02Eth= <149.236.99.253>
+$$ ##$Bla02Nam= <BLAXH2H300/100/150 E 200-600MHZ>
+$$ ##$Bla02PN= <W1345096>
+$$ ##$Bla02SN= <0666>
+$$ ##$Bla03Eth= <149.236.99.20>
+$$ ##$Bla03Nam= <BSMS/2 LOCK TRANSCEIVER 600>
+$$ ##$Bla03PN= <Z109890>
+$$ ##$Bla03SN= <00158>
+$$ ##$Bla04Eth= <no>
+$$ ##$Bla04Nam= <>
+$$ ##$Bla04PN= <>
+$$ ##$Bla04SN= <>
+$$ ##$Bla05Eth= <no>
+$$ ##$Bla05Nam= <>
+$$ ##$Bla05PN= <>
+$$ ##$Bla05SN= <>
+$$ ##$Bla06Eth= <no>
+$$ ##$Bla06Nam= <>
+$$ ##$Bla06PN= <>
+$$ ##$Bla06SN= <>
+$$ ##$Bla07Eth= <no>
+$$ ##$Bla07Nam= <>
+$$ ##$Bla07PN= <>
+$$ ##$Bla07SN= <>
+$$ ##$Bla08Eth= <no>
+$$ ##$Bla08Nam= <>
+$$ ##$Bla08PN= <>
+$$ ##$Bla08SN= <>
+$$ ##$BlaEth= (0..9)
+$$ <149.236.99.254> <149.236.99.253> <149.236.99.20> <no> <no> <no> <no> <no>
+$$ <> <>
+$$ ##$BlaNam= (0..9)
+$$ <BLAX300 E 6-365MHZ INR> <BLAXH2H300/100/150 E 200-600MHZ > <BSMS/2 LOCK TRANSCEIVER 600>
+$$ <> <> <> <> <> <> <>
+$$ ##$BlaPN= (0..9)
+$$ <W1345092> <W1345096> <Z109890> <> <> <> <> <> <> <>
+$$ ##$BlaSN= (0..9)
+$$ <0421> <0666> <00158> <> <> <> <> <> <> <>
+$$ ##$BsmsAuxEth= <no>
+$$ ##$CFASMOD= (0..7)
+$$ 1 1 1 1 1 1 1 1
+$$ ##$CFASMUL= (0..7)
+$$ 1 1 1 1 1 1 1 1
+$$ ##$CNFTXDR= (0..7)
+$$ 6 6 6 0 0 0 0 0
+$$ ##$COMDIG2= 0
+$$ ##$CPDBTY= <no>
+$$ ##$CRCOTY= <tty05>
+$$ ##$CSW1= (0..31)
+$$ 3 3 0 2 2 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$CSW2= (0..31)
+$$ 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$CSWNUM= (0..7)
+$$ 3 4 1 0 0 0 0 0
+$$ ##$Ctb1Eth= <no>
+$$ ##$CubeEth= (0..7)
+$$ <no> <no> <no> <no> <no> <no> <no> <no>
+$$ ##$DATSTAT= no
+$$ ##$DIGI140= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$DIGIB12= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$DIGIB16= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$DIGIFA= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$DIGIFOURIER= 0
+$$ ##$DIGIHA= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$DIGIHAF= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$DIGIHRD= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$DIGIIA= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$DIGIO16= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$DIGISA= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$DIGISAF= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$DIGISL= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$DIGITYI= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$DIGITYP= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$DIGITZ= 0
+$$ ##$DPPFAC= 1
+$$ ##$DRMSETH= <no>
+$$ ##$DRU= yes
+$$ ##$DRUETH= (0..33)
+$$ <no> <149.236.99.89> <no> <no> <no> <no> <no> <no> <no> <no> <no> <no>
+$$ <no> <no> <no> <no> <no> <no> <no> <no> <no> <no> <no> <no> <no> <no> <no>
+$$ <no> <no> <no> <no> <no> <no> <>
+$$ ##$Description= <Avance III 600>
+$$ ##$DppType= 0
+$$ ##$FCUMEM= (0..7)
+$$ 16777208 16777208 16777208 0 0 0 0 0
+$$ ##$FCUPAL= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$FGSVTY= <no>
+$$ ##$FQMIX= 0
+$$ ##$FUNCMOD= <>
+$$ ##$FourPeriBdEth= <no>
+$$ ##$FourShimBdEth= <no>
+$$ ##$FourierPicsCon= no
+$$ ##$GCUTYPE= 10
+$$ ##$GCUTYPE2= 0
+$$ ##$GPREDEL= 0
+$$ ##$GPSCUTY= <no>
+$$ ##$GRADRES= 5
+$$ ##$GTUTY= <no>
+$$ ##$GcConn= (0..1)
+$$ 1 0
+$$ ##$GradAmpGain= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$GradAmpMaxCurX= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$GradAmpMaxCurY= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$GradAmpMaxCurZ= (0..7)
+$$ 9.99999904632568 0 0 0 0 0 0 0
+$$ ##$GradAmpName= (0..7)
+$$ <GAB in BSMS> <> <> <> <> <> <> <>
+$$ ##$GradAmpPN= (0..7)
+$$ <> <> <> <> <> <> <> <>
+$$ ##$GradAmpSN= (0..7)
+$$ <> <> <> <> <> <> <> <>
+$$ ##$GradAmpType= (0..7)
+$$ 2 0 0 0 0 0 0 0
+$$ ##$GradPowClkCtrl= 0
+$$ ##$GradPowClkTime= 0
+$$ ##$GradPowImax= 0
+$$ ##$GradPowType= 0
+$$ ##$GradPowVmax= 0
+$$ ##$HDIETH= (0..5)
+$$ <> <no> <no> <no> <no> <>
+$$ ##$HFAC= 3
+$$ ##$HPCU= 0
+$$ ##$HPCUTY= <no>
+$$ ##$HPTXLP= (0..3)
+$$ -1 -1 -1 -1
+$$ ##$HPTXPI= (0..3)
+$$ 0 0 0 0
+$$ ##$HPTXPO= (0..3)
+$$ 0 0 0 0
+$$ ##$HPTXTY= (0..3)
+$$ 0 0 0 0
+$$ ##$HpprCoverType= 1
+$$ ##$IF451= 0
+$$ ##$IFREQ= 1
+$$ ##$INJPTY= <no>
+$$ ##$INTFPR= 0
+$$ ##$IPSOETH= <149.236.99.252>
+$$ ##$IPSOTYPE= 1
+$$ ##$LDUETH= (0..0)
+$$ <no>
+$$ ##$LOCKCONF= <DLM>
+$$ ##$LOCKTY= <no>
+$$ ##$LOCSWID= 0
+$$ ##$LOCSWIF= 0
+$$ ##$LVDSSPLITETH= (0..5)
+$$ <> <no> <no> <no> <no> <>
+$$ ##$Location= <Universitaet Mainz>
+$$ ##$M2FAC= 0
+$$ ##$MAS= 0
+$$ ##$MASETIME= 10
+$$ ##$MASITIME= 10
+$$ ##$MASTY= <no>
+$$ ##$MAS_CT= 5
+$$ ##$MAS_SG= 0
+$$ ##$MAS_TO= 0
+$$ ##$MEMPRM= 0
+$$ ##$MHFAC= 0
+$$ ##$MXFAC= 0
+$$ ##$MasEth= <no>
+$$ ##$NAMPD= (0..17)
+$$ <> <1H LNA> <XBB19F 2HS> <XBB19F 2HS> <13C> <15N> <2H> <> <> <> <> <> <>
+$$ <> <> <> <> <>
+$$ ##$NFCU= 3
+$$ ##$NFRED= 0
+$$ ##$NMRCH= 2
+$$ ##$NMRMEM= 16384
+$$ ##$NPSGU= 0
+$$ ##$NRCU= 1
+$$ ##$NROUT= 0
+$$ ##$NSGU= 3
+$$ ##$OrderNo= <10029758>
+$$ ##$PAMPF1= (0..15)
+$$ 75 24 64 64 80 80 96 0 0 0 0 0 0 0 0 0
+$$ ##$PAMPF2= (0..15)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$PAMPF3= (0..15)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$PAMPF4= (0..15)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$PAMPF5= (0..15)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$PAMPF6= (0..15)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$PAMPF7= (0..15)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$PAMPF8= (0..15)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$PH4= 0
+$$ ##$PHF4TY= <no>
+$$ ##$POWCHK= yes
+$$ ##$PRAMD1= (0..7)
+$$ 2 0 0 536870912 0 0 0 0
+$$ ##$PRAMD10= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$PRAMD11= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$PRAMD12= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$PRAMD13= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$PRAMD14= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$PRAMD15= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$PRAMD16= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$PRAMD17= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$PRAMD18= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$PRAMD19= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$PRAMD2= (0..7)
+$$ 2147483644 2131230719 2147483647 603979775 0 0 0 0
+$$ ##$PRAMD20= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$PRAMD21= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$PRAMD3= (0..7)
+$$ 2147483644 2131230719 2147483647 603979775 0 0 0 0
+$$ ##$PRAMD4= (0..7)
+$$ 16777216 0 0 536870912 0 0 0 0
+$$ ##$PRAMD5= (0..7)
+$$ 0 0 4 536870912 0 0 0 0
+$$ ##$PRAMD6= (0..7)
+$$ 0 1048576 0 536870912 0 1048576 0 536870912
+$$ ##$PRAMD7= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$PRAMD8= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$PRAMD9= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$PRAMLED= (0..1)
+$$ 15 15
+$$ ##$PRAMP= (0..9)
+$$ <> <tty10> <no> <no> <no> <no> <no> <no> <no> <>
+$$ ##$PRAMPTP= 1
+$$ ##$PREEMPTYPE= 0
+$$ ##$PREPTY= <no>
+$$ ##$PREREC= (0..15)
+$$ 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+$$ ##$PRESHLD= 0
+$$ ##$PTS160= -1
+$$ ##$PTSA2X= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$PTSF2X= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$PTSFMX= (0..19)
+$$ 643.52499 643.52499 643.52499 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$PULCHK= no
+$$ ##$PerMagATempSens= no
+$$ ##$PerMagEth= <no>
+$$ ##$PerMagFluxSens= no
+$$ ##$PerMagMTempSens= no
+$$ ##$PramDutyCycPerc= (0..15)
+$$ 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0
+$$ ##$PramPeakPowerW= (0..15)
+$$ 100 500 500 500 500 500 0 0 0 0 0 0 0 0 0 0
+$$ ##$PramPowerSwitch= (0..15)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$PramPulWidthMs= (0..15)
+$$ 0.02 0.1 0.1 0.1 0.1 0.1 0 0 0 0 0 0 0 0 0 0
+$$ ##$PreampMod01PN= <Z003462>
+$$ ##$PreampMod01SN= <00785>
+$$ ##$PreampMod02PN= <Z003506>
+$$ ##$PreampMod02SN= <00942>
+$$ ##$PreampMod03PN= <Z003506>
+$$ ##$PreampMod03SN= <00943>
+$$ ##$PreampMod04PN= <Z003524>
+$$ ##$PreampMod04SN= <00674>
+$$ ##$PreampMod05PN= <Z003530>
+$$ ##$PreampMod05SN= <00672>
+$$ ##$PreampMod06PN= <Z003473>
+$$ ##$PreampMod06SN= <00811>
+$$ ##$PreampMod07PN= <>
+$$ ##$PreampMod07SN= <>
+$$ ##$PreampMod08PN= <>
+$$ ##$PreampMod08SN= <>
+$$ ##$PreampMod09PN= <>
+$$ ##$PreampMod09SN= <>
+$$ ##$PreampMod10PN= <>
+$$ ##$PreampMod10SN= <>
+$$ ##$PreampMod11PN= <>
+$$ ##$PreampMod11SN= <>
+$$ ##$PreampMod12PN= <>
+$$ ##$PreampMod12SN= <>
+$$ ##$PreampMod13PN= <>
+$$ ##$PreampMod13SN= <>
+$$ ##$PreampMod14PN= <>
+$$ ##$PreampMod14SN= <>
+$$ ##$PreampMod15PN= <>
+$$ ##$PreampMod15SN= <>
+$$ ##$PreampMod16PN= <>
+$$ ##$PreampMod16SN= <>
+$$ ##$PreampModBisDat= (0..15)
+$$ 20110222 20110217 20110217 20110513 20110614 20110120 0 0 0 0 0 0 0 0 0
+$$ 0
+$$ ##$PreampModPN= (0..17)
+$$ <Z003462> <Z003506> <Z003506> <Z003524> <Z003530> <Z003473> <> <> <> <>
+$$ <> <> <> <> <> <> <> <>
+$$ ##$PreampModSN= (0..17)
+$$ <00785> <00942> <00943> <00674> <00672> <00811> <> <> <> <> <> <> <> <>
+$$ <> <> <> <>
+$$ ##$ProdigyEth= <no>
+$$ ##$RCUCDS= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$RCUCFS= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$RCUCSS= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$RCUI2C1= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$RCUI2C2= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$RCUI2C3= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$RCUI2C4= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$RCUI2C5= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$RCUI2C6= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$RCUI2C7= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$RCUI2C8= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$RDCU= 0
+$$ ##$RFSINPUT= (0..1)
+$$ 0 0
+$$ ##$RFSVTY= <no>
+$$ ##$RGTYPE= (0..31)
+$$ 9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$RG_max= (0..31)
+$$ 2050 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ ##$RG_min= (0..31)
+$$ 0.25 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ ##$RG_tab1= (0..255)
+$$ 0.25 0.28 0.32 0.35 0.4 0.44 0.5 0.56 0.64 0.7 0.8 0.89 1 1.12 1.28 1.4
+$$ 1.6 1.78 2 2.25 2.56 2.8 3.2 3.56 4 4.5 5 5.6 6.35 7.12 8 9 10 11.3 12.7
+$$ 14.2 16 18 20.2 22.6 25.4 28.5 32 36 40.3 45.2 50.8 57 64 71.8 80.6 90.5
+$$ 101 114 128 144 161 181 203 228 256 287 322 362 406 456 512 575 645 724
+$$ 812 912 1030 1150 1290 1440 1620 1820 2050 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ ##$RG_tab2= (0..255)
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ ##$RG_tab3= (0..255)
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ ##$RG_tab4= (0..255)
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ ##$RG_tab5= (0..255)
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ ##$RG_tab6= (0..255)
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ ##$RG_tab7= (0..255)
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ ##$RG_tab8= (0..255)
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ ##$RG_tabA= (0..255)
+$$ 0.25 0.28 0.32 0.35 0.4 0.44 0.5 0.56 0.64 0.7 0.8 0.89 1 1.12 1.28 1.4
+$$ 1.6 1.78 2 2.25 2.56 2.8 3.2 3.56 4 4.5 5 5.6 6.35 7.12 8 9 10 11.3 12.7
+$$ 14.2 16 18 20.2 22.6 25.4 28.5 32 36 40.3 45.2 50.8 57 64 71.8 80.6 90.5
+$$ 101 114 128 144 161 181 203 228 256 287 322 362 406 456 512 575 645 724
+$$ 812 912 1030 1150 1290 1440 1620 1820 2050 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+$$ ##$ROBOTTY= <no>
+$$ ##$ROUT14= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$ROUTER= -1
+$$ ##$RX22TY= <no>
+$$ ##$RXFMAX= (0..7)
+$$ 647.5 -1 -1 -1 -1 -1 -1 -1
+$$ ##$RXFMIN= (0..7)
+$$ 5 -1 -1 -1 -1 -1 -1 -1
+$$ ##$RXINTLV= (0..7)
+$$ 1 0 0 0 0 0 0 0
+$$ ##$RXMSTY= <no>
+$$ ##$RockSwitchEth= <no>
+$$ ##$SCMTY= <no>
+$$ ##$SGUC1= (0..15)
+$$ 33 34 17 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$SGUC2= (0..15)
+$$ 18 256 36 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$SLCBCONF= <SHNV>
+$$ ##$SPECTR= 10
+$$ ##$SY2FLAG= 0
+$$ ##$SYNCTRIG= 11
+$$ ##$SamChgEth= (0..3)
+$$ <149.236.99.249> <no> <no> <no>
+$$ ##$Sgu1PowerLevels= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$Sgu2PowerLevels= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$Sgu3PowerLevels= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$Sgu4PowerLevels= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$Sgu5PowerLevels= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$Sgu6PowerLevels= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$Sgu7PowerLevels= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$Sgu8PowerLevels= (0..7)
+$$ 0 0 0 0 0 0 0 0
+$$ ##$SguType= 2
+$$ ##$ShimMaxVal= 32760
+$$ ##$ShimPow1Ch2Sh= (0..38)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0
+$$ ##$ShimPow1Imax= (0..38)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0
+$$ ##$ShimPow1NChan= 0
+$$ ##$ShimPow1TotIMax= 0
+$$ ##$ShimPow1Vmax= (0..38)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0
+$$ ##$ShimPow2Ch2Sh= (0..38)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0
+$$ ##$ShimPow2Imax= (0..38)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0
+$$ ##$ShimPow2NChan= 0
+$$ ##$ShimPow2TotIMax= 0
+$$ ##$ShimPow2Vmax= (0..38)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0
+$$ ##$ShimPow3Ch2Sh= (0..38)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0
+$$ ##$ShimPow3Imax= (0..38)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0
+$$ ##$ShimPow3NChan= 0
+$$ ##$ShimPow3TotIMax= 0
+$$ ##$ShimPow3Vmax= (0..38)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0
+$$ ##$ShimPow4Ch2Sh= (0..38)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0
+$$ ##$ShimPow4Imax= (0..38)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0
+$$ ##$ShimPow4NChan= 0
+$$ ##$ShimPow4TotIMax= 0
+$$ ##$ShimPow4Vmax= (0..38)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0
+$$ ##$ShimPowMaxUA= (0..63)
+$$ 130000 130000 130000 130000 130000 130000 130000 130000 130000 130000 130000
+$$ 130000 130000 130000 130000 130000 130000 130000 130000 130000 130000 130000
+$$ 130000 130000 130000 130000 130000 130000 130000 130000 130000 130000 130000
+$$ 130000 130000 130000 130000 130000 130000 130000 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ShimPowMaxUC= (0..63)
+$$ 130000 130000 130000 130000 130000 130000 130000 130000 130000 130000 130000
+$$ 130000 130000 130000 130000 130000 130000 130000 130000 130000 130000 130000
+$$ 130000 130000 130000 130000 130000 130000 130000 130000 130000 130000 130000
+$$ 130000 130000 130000 130000 130000 130000 130000 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ShimPowMaxUG= (0..63)
+$$ 524287 524287 524287 524287 524287 524287 524287 524287 524287 524287 524287
+$$ 524287 524287 524287 524287 524287 524287 524287 524287 524287 524287 524287
+$$ 524287 524287 524287 524287 524287 524287 524287 524287 524287 524287 524287
+$$ 524287 524287 524287 524287 524287 524287 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0 0 0 0 0 0 0 0
+$$ ##$ShimPowNum= 0
+$$ ##$ShimPowRcbType= 3
+$$ ##$ShimPowRes= (0..63)
+$$ 1e-020 1e-020 1e-020 1e-020 1e-020 1e-020 1e-020 1e-020 1e-020 1e-020 1e-020
+$$ 1e-020 1e-020 1e-020 1e-020 1e-020 1e-020 1e-020 1e-020 1e-020 1e-020 1e-020
+$$ 1e-020 1e-020 1e-020 1e-020 1e-020 1e-020 1e-020 1e-020 1e-020 1e-020 1e-020
+$$ 1e-020 1e-020 1e-020 1e-020 1e-020 1e-020 1e-020 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ShimPowRng0= (0..63)
+$$ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+$$ 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ShimPowRng1= (0..63)
+$$ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+$$ 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ShimPowRng2= (0..63)
+$$ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+$$ 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ShimPowRng3= (0..63)
+$$ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+$$ 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$ShimPowType1= 0
+$$ ##$ShimPowType2= 0
+$$ ##$ShimPowType3= 0
+$$ ##$ShimPowType4= 0
+$$ ##$ShimSysFunc= (0..63)
+$$ 1 2 3 4 5 6 7 8 9 10 0 37 38 35 16 15 14 13 12 11 28 27 26 25 24 23 36
+$$ 22 30 29 20 21 34 33 32 31 17 18 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ 0 0 0 0 0 0 0
+$$ ##$ShimSysMatId= <no>
+$$ ##$ShimSysMatrix= 1
+$$ ##$ShimSysType= 4
+$$ ##$ShimUnit= 0
+$$ ##$TFXNUM= 0
+$$ ##$TOSITY= <no>
+$$ ##$TRIPLO2= 0
+$$ ##$VTU= 2
+$$ ##$VTUETH= <149.236.99.20>
+$$ ##$VTUTY= <no>
+$$ ##$WBREFAM= (0..15)
+$$ 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+$$ ##$WBREFLM= (0..15)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$WBREFPH= (0..15)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$WBSGU= (0..15)
+$$ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+$$ ##$XFAC= 2
+$$ ##END=
+$$ 
+##$DECIM=	552
+##$DSPFVS=	20
+##XUNITS=	HZ
+##YUNITS=	ARBITRARY UNITS
+##FIRSTX=	34711.952425504015991
+##LASTX=	-1519.3787777908082717
+##DELTAX=	-0.55285467617753603076
+##XFACTOR=	1
+##YFACTOR=	0.13345564824289343764
+##FIRSTY=	2.326904296875
+##MINY=	-2843.00439453125
+##MAXY=	2697.453857421875
+##NPOINTS=	65536
+##XYDATA=	(X++(Y..Y))
+34712A7K3K4k7k8k3k5K6K5KKk8k8J9K0J8K0pqpqj0j2J7J9MMNMK2K2k9k8j2j1j0j2lmmmRRk2
+34688c9k1lklkK4K4opklK8K7j1j0j0j1RQRQJ5J4J6J7J0M0Lm7n9k7KKJ1J2j7j8jkjknoK4K4
+34663A2L5L5j5j5o5o5l5l5K7K7K7K7mmmmJ6J6J5J5opppj4j4j3j4J1J1RRJl0j0M0K8K8j9j8
+34641a6MMMMj2j2J8J7K0J9K0K0MMMMk1k1k1k1KJKKpppoK1K1K1K1k1k0k1k0j9k0J0J1JJJJn
+34616a5nnmJ0J1RJ1OOm4m5mnnmL0L0K9L0J3J3J3J3JKp0o8KKL3L2j9j8J2J1pnopj4j4j3j4n
+34592g7ml4l5qrK2K2M6M6J6J5K5K5K5K6JJk9k9nmnnKJJJj2j1j1j1nonnJ9J9j0j1K1K1K2K1
+34568F7k7k7LLOOk5k4noonJ2J2J2J1J5J4J4J4opK4K4K0J9l1l1l8l8oqNOMNJ0RJ0J0MMk7k6
+34544@J2J3J3J3J3J4j7j7l8l7J4J3LLLMj6j8L3L3J8J7l3l3J%L1L1J3J2J3J3k9k9KKQQk2n2
+34522A2o6oK8K9nnK5K6J0J1J2J2LL4N0j0m1m0j4j4opl6l6J5J5J4J4j1j2J9J8K0J9J9K0o5o3
+34501a2l4l4j5j4j3j3J3M3M4J3j%lknmnmL7L5POj9k0j8k0MMMMKKKL%JL0L1J4J4J4J4k1k1k1
+34476D2k1l7l8pqLLMLJ7J6Ok6mK7K3nk8k9j8J4L2L2MMJ4J5j5j4l2lJ1J0JJJJNOL5j6k9k8l0
+34452e8l0j7J4K6K7L8L7QQOPm3m1%L0J3J4PPPPk1k0j9j8k4PRk2l4nK7K7N2N2J0m0l3l1l6l5
+34429h7J3J4L1%nnqpQQQQj4j3Lk6l7l6nK6K1K2opJ2J2K3N2J9j2rpm2m3qK1K1K1pqlmpK3N2
+34404A2K3rrj0qk3k3J3M2J5j6QL9NNnnK4K3J7j3k8KL0L1j7j6k5NMLLKMk6k8k8%JLLK1j0j9
+34380B0k0k0k1J8J8J4M5L9Rllnoppol6l0l1l0K0M1M0J5j6k7k6OL6J9K0J2J2llm0m0nK3qrk1
+34356a6k1%JJ7J6j4j4J6J5j7j8J3J2POprk9l0k8K3K0K0K2K2J7J7J7J8k2k1k2k0LMKLj8k0J1
+34334b4J1M2M3J3J2rrk4k5o0o1m6m6J6J5j5j5K4K3K4K4K3K4ppk3k3PQL1L1k0k0j5j5J6J5J3
+34313d9J3lkL8L7PPk6k5k6k6QQQQk6k7K4K4K7K6J2J2PPOPk4k4k4k3J2J1k0k1j2m2n2jL7O8
+34291c9N5K5m0m0QQOPk4k4rqqqK1K1j8o8n0JK0K0N1N0N0N0NONOnnnmQPQQk5k5k6k4J3J4j7
+34266Am5k2K9jjOOPOrrj0rJ%%%L3L2j6j8j0j0j1j0k6k6NML9L8L8L9J3J4j7j7j7j7J3J4QQQ
+34241F1QL4L4LMM1M1n0n0n7n7oonoooJ9J9K0K0k1k2k1k2J4J5J3J4j0j1M0M0j1j1j1j1j8j8
+34220Dj7j8j0j1j0j0NONONOONONNOK5K6K7K6n3n2kkK2K3N8mn0n0J6J6NMk6k5RQk1k2K7K7O1
+34195F7Jj0j1j4j5%%J%j7j6J4J3mlllj0j0j0rk1k1k0k1M8M7lkJ7J7J8J8j0j1j1j0j0j1j1j0
+34172d6K6K5K7K6NOk5k5j9j7j9j8j3j3j3j3L0K9K9K8mmkmJ1J3J3J2K4K3K0K0qo9o0o1LO3O4
+34151F4Lk4k4k7k8k8k8K2K2rj0j0j0OOOO%%J%nnK5K5K5K6k1K9Q1L0l0l0l3l4llQPqql5l6n
+34126f2oK3K3ppk3k2QPL4L3J8J8onl6l6K3K3PQK3K3k8k8l7l8J2J3J%N0N2J2J2j9j8lkK5K4
+34104H9L2j9m1m2j1j0J9J9OPPORRRRk4k4k4k5k6k8k8k7nnnnN3N3M9N0K9k1o0n9jN0L8Rj9j9
+34081B4ool6l8J3J3L1K9%%PPOPJ1J0nnj4j3m2p4p4j4K2K1O2O3K9l0p9j8L5L5PPL6L7j7j7j7
+34058Gj6LKKKJ%k8l0J2J2lmj9j9j8j9N3N3J7m2k6NJ4J5J4J3J4J4m7m7j7j8M0M0j1j1m0m1j0
+34036a33j0NONOK0K0P1P0QRk2k2J0J0J0J0%jj5j6l8l6qpOOrj0%%N0N0kjj6j7L2L2KJj6j6J5
+34011E9J4rrrrl3l2J7J7J7J8KKk8k7%Jjl1m2QP0O9K2K2k3k3k3k2J4J3J4J4K0K1j1j0l2l3k
+33989B5kj7j5j4j3j7L3P2P2K1l1l2l3n2n4k3k3j1j1J9K0JJJJM7M5nmMNL4L5L1L0ro0k9K1K0
+33967H3K0l4l3l3l3n1n1jjk0j9L1L1RRRRJ3J3M3M2LLLKQQQQk7k6K5K4pppqNNm5m5l4l5lmM2
+33942f8M3M1M2J5J5J1J1jn2n4n3j0j1K0J9K5K5noJ2J2J2J2j3j4m3m4k2k3K9K8L4L2L4L4j8
+33922F9j8j9j8k8k8K2K1JJJJ%j%jJ3J2J2J2j5j5j4j4OOk3k3j6j6N5N4rj0rrJKl6K5N1rjjJ2
+33898D4J2j9j8k0k1J0J0k4k4k4k4QQQQK2K2k5k5J4P4Ok2J3J5J2J3RRk2k2j5j4j5j5J7J5J7
+33877A7J6K9K8m3m2l4l4mmrj0l6l6j1M8O1L0K4oj0K0j3m2k8L3K0K1nml8qM2J3l4l3nnRRRR
+33854e6J2J2J2J2j0j1j1j1QQJ0RJK9Jk9l1l1m9k0j0j0LL3Rk1kkL0L0l8l7lM8L6OJ6J6J4J5
+33832a2j5j5J6J6rrrrKKKJl8l8qpK7K7K7K7RRm2m2m3m4kM8M5J5NNj8j8J2J2M4M4poopopl9
+33807f1l8J2J2K3K3K1K0K0j0m0j0K3K1rpL1Jm6j7ML3L6Ol0k8%jm7m7nM7M1M1J4J5L3L3J1m0
+33785H5o9o9l0K0J1J2J4J4ooool6l6J5J5j1j1j0j1J0J0N7N7N2Lk0k0MMNMk2k2k0k2klklN3
+33763BN4LMl4l2kn3q4l3PL7L4LrqL3L4j7j8LKLKj8j8J3J3JJKJKJJKJ3J3j7j8llmlRRQ0Q0J9
+33736A07J9K0J9m0l9j0rj4j4j4j4K6K5K6K5K0K0l1o1n1JL7L8N5Nn5n5k5K5K7K8k3k2k2k2%
+33716BjN1N0ool6l7opl6l7k6k6MNJ2J2J2J2L5L4L5L5j7j8m6m8MML4L3L2L2JKk6k6k6k4NNL5
+33693C1L6K3K3pql3l3l1l0mK8Ql9j3J7llJJKJm6m7lM6L7L7L9L9l3l4l3l3qqpqj7j6L4L4NO
+33669d9NOK7K7K8K8O3O4l0l0k2n2l4J7J5J4l3l2m4m4K7K7K4K6m5m5j2j1J9J9j0j1j0j0j7j7
+33649a22j7j7QQQQJ1J2M2M2M1M2J2J2K1K1K1K1RJ0m1m1l1l1l0l0k2k1k1k1nmmmJ3J4J3J4r
+33628f8rqrRRRRK1K2K0K1k6k7k8k7J7J6J6J6L4L5NNl3l3lljjK8L0m2m0l9l8j8L3N1N1K3k7
+33605@o4l4L5O4L6NRk1NL6K3qJ1J1k1k1k2k1K2K1K0K0l2o3p3k4M9M9j8j9j4j4j5j4poooJ2
+33584i5J3J3J3k0k1J1J0kjK9K9J6J6l4l4LKL3L2J4J4j7j6kjK9K8rrK1K1j0j0m0l9J7J9J8J9
+33562F0poK4K5J1J2j9j9k4k4k4k3J2J1J3J2JKL0k1n7n9j1j1K5K5K5K4J6J6J5J6j8j8j8j7j7
+33542a8j8j8j8j2j2j3j2j2j1J8J9K8K8K8K7j9k0k0k1K6K5nnKJk9k9J9J8J6J6J1l9n3J7P5K3
+33521A3n4n5%%N0M9M6M6k4k5j0j0rj0k1k1k2k2klK8K7L0L0%jk4k3k5k4LLLLk2k2RRKKKLJ1
+33497f0J2J2J1j3j3j3j3m1m2qN2N2qK9L0M2M3M4M3OPo5o5k4k3OOnlmnK4K6K5K5j4j4j4j4j1
+33475B3j1j1j0jjM9N0qrqqK8K9kjJ1J1m0m0mmmnppqpJ3J2J3J3j0j0j0j0J1J1QPK1m0l5l6l
+33451d0mllKLKLQRQRl3l2J8J8K1K0K1K1OPm5m3j5j6J5J5L8L8j2m1o4j3M8M7MMj1j1mmmmj9
+33427c6j9L1L1J8J7l3l2JJL1L1poK4K4l5l5j8k0K6K5mmK0K1K0K0j5j6l0l1L5L5j5j5k5k4j0
+33406a9rK2K0k8k9K6K6Pm3n9rL1L1NOj0rk7k6MMKKKJK9K8K8K8k8k7KKj1j2K0J9J2J3j7j6k7
+33382c6k7MLm2m2k6k7L2L2L2L2J0J1l7l7j5L5L8L7k3k3qqK2K2POj3j3j3j3J5J4J5J5j2j1L
+33361d1MJ4J4j7j6KKL1L0K3qpK3j4j4j3j2L1L0k0k0j5j4J4J5J3J3%l1l0l0J8J9llK8jl2l4
+33340e1k2QL2L2l6l5k8KN5N5L3L3K0j1n2n2jK9L8L9Pk4m7m5j6J6j0rQQJ2J2K7jj7j5k0J0N
+33318a1OJ6M7M6om2j3NNPPj1j1%L0ll4l3jM1M0Rk1l2l3l1l2NL6L5Ok8k9KJjK8N9K9n4n2k6
+33295d4k5pppqJ5J5J5J5PPQPqpqqK2K2qqRRRJ0%%%%l0l1l0l1L3L2L2L3j5j4j3j4K0K0K1K0
+33270E8n8n8m3j1K9Q0Q1L1klj5m6p1k1L9L9j9j8J0J2kkkkL8L8MMj9p0p0p1LLk7k8J4J4J4J4
+33248a33M2M2J2J2J3J2J6J6j7L4N0K1j3m3j4J6MMOOJ0RJ0J0l5l5mnk1k2K9K9O2O2qrm4m5P
+33226H6OK5K5J2j9k9l0l1l2MMK1rj5j5j6j6NNNNj3j3j2j3RJ0J1J2%K9L0%j1j2j3j3k4k4k4
+33204h0k4J3J3M4M2jkjjJ1J0J1J1K0K1K0K0k6k6NMPPpl6n9o0j0K0Rk2k0J0K7K6K5K7J7j3j3
+33182A9J8J1J2J3J3J%jjj7m8m7j7K1K0L8Rl8l8l8l8J2M2N4N6L0L1j0o0q4n4kK8J1j9j8J3J7
+33161f1J7J9J9J2J2J1J0ql8l9qKLMNK0J9k6k5OPM1M2j3j4j3j3j4j4j4j4J0J0RQnl6k4K7M3
+33139b3J2j3j3J5J5J4J5mnL1L2m2m1J4J4j4j3K1K2klk7k7k9k9J6J7j1j0j0j0K0K1K0K1j6j5
+33119c7j6j5K4K3j1j2J%K3K2J3l7p1l9j4J7N8N8PPQPl2l3l4l3OOM2P1O4J4l2l1j4j3J0J1j6
+33097Bj6QQQPpl7j9L2K6K6PPj8j8rqK6K7KLk3k3j1j2LLJ2J3klklJ9m1k4OJ%k2k2J4J3MMj2
+33072e1j1K3K4L7L8J8J7j8j8k0k0MNONNNk4k4j7m8m6J6N3K2k3k3J0J1L6L5%%lmj9j8K8K9j7
+33050B3j6l4l4K1K2NOl0l0nml0l0K3K3k3k3NOM0M1J9J8po%Jj5j5j9j8j9j9k1k2MMk9k8j3j3
+33027b42J5J5M9Q0P3J1k7k8%%K6K5qqPQPQL4L4K3K2j3j2k7k6k7k5j0rrrLML0K9Qm2l1kKLL4
+33003eL3ppqoJ9K0j0j0k4k5QPM2P2N4Lnorrl0l0l1l0l2l3k8n8l2J8L8L9J8J8J8J8J6J7j3j2
+32980bm2m2QRK6K7K6K6J4J3j8j7KLPk3k6K2O1L0kkl4l5l4l5mnJ9J9J9J9K3K4k7k7k4k5k5K5
+32958b7P0M0J0J0j2j1j2j1n4n3lmN7N5OOMMj1j2j7j7kkrqk4k4K1K1N0N1MNm3m4k2K5L1%n0
+32936bn2l1K0L1L1LMPQPQj3j3KKJ5J4j6j5KKKKl1l2kK9K7k2l9rL0L1J6J7m8m9JKNNNOj4j4
+32911f8j3j4L7L6OORQRQj7j7j8j8J7J7j3j4J2J1J1J0ONONj6j5l2J8M2qm3j3j0j1qqK7K7N6
+32888C3N7K8K8k4k3k9k9JK%JJ%m2m2j2j2KLNMK8N7N4Lk3k3NMMLMMO2O2J1J1l0l1l1l1rrj0
+32864F7rpqLL3J4l6k2PK0J9rrqql8l7j1j1j1j1L0L1K9L0l1l1l1l2K8K8klKJP2P2K0K0j1j1
+32841A39j6j6j6j6NNNNj9k0j7j6l5J4L5NPL7L5Nm0l9j1j1PQPQm1l9j0j1nnmlN6Q6M1l0m2j2
+32818C6llNNL6L5l6l6noqqqpj%jjL1L3L2L2KJKKj2j1j1j1l3l4k9k9l6K4J0k1k5OJ6J7J1J2
+32794b7J1J1j4j3J7J6M6M6nmk4k3k4k3MLLKj7j8J2J2J5J6j4j3kkjkkkl3l3%jL0L0K9L0%jL2
+32770F7L2JJRRk1k2NNk6k5k2k1o9o9kN9onJ5J5J5J5M0M1k9k9m1m0j1j0k1k1M9N0K9L0K4K6
+32748D7j0o9p0rJ8J7K0K0k3n4m0K0K5K6K9K9j6j7j6j7rrrrJ2J1J1J2J2J3j8j8K3K4N3N4RQ
+32727H0k1k2j8j8j8j8K5K3K5K5l8l7qpK7K6N4N4N2rm5m5k6k5k5k4j%jjLKLKl1l1K0K0kjL0
+32705aK8j%n0n1mmqN3M6M6%%j6j7J4J4L1L0L4k6n3n3pnNNL3L2K3l7l4l2onK4K6RRJ0Rl7l7
+32681cJ3J3J0Rk1k1QPQPkkklJ%%%l2l2l3l3J0J0J0J0J5J6J5J6j5j5J6J5PPL8L7j6j6m7m5J3
+32657b7J4J3J3m8m8KLMLMMO8O9J8J9K8K9m3m2j8j7j7j8OOOPJ3J4J1J0Jn1j9L0K0J9qqmmK7
+32634H9K6L7L7OPk3k3j2J8Pm2l0JK5K6k3k4l0l0J%ppqpL0L1L0L1k3k3k3k2l3l2l3l2LLNOJ5
+32611e3M6K6k3j7j6J1J1K2K4K3K4PQm3m3J0RM1M0jjjjm1m1j0j1J8J9J9J8J2J2j9j8j6j6j6
+32590A3j5m2m2RRK3K4K2K4j7j6j6j7j0j1K0K0L4L4j6m6j4L5OOk0k0J0J0K2K3K3K3jjn2n0J0
+32569fRj8j9J1M1K3k8m0m1POL3L2LKj3j2j4j3%JL1K9%jjjJ5J5j5j6%%%%J3J3j7j7m1m3K8K8
+32545a6N1N3LKj3j3j3j3j1j1j1j0k9k8LKL2L2L0L1l1o1k2K9J9J9pqkkkkl3l5j4L6M6J6OOL0
+32522E9L0L0L0k7k7k6k7K7K7mlQQPQl7l7ppK7K7j3o4n2k3j2j3J8J8J8J8j7j6J4J4K1K1K1K2
+32501F1k0k0J1J1popoK8K9K9K9j1j1o2o1jkjkk4k3K7K7K5K7k4k3j3j3J7J6j5j6j6j7lmK7K7
+32478a7rqqqOPOPklkkL5L6L6L6k7k7k6k7j1j3j2j2J6J5M5M6K6K5noM1M0J8l3n3n3k6k5nnl5
+32455a9J5Rk0%jQQQQJ1J0j6j7j7L2P0M0Jk8o4o4m0m0m1m0j6j6J5J5J3J4M4M4OOk1k1j1M1O2
+32433a2O1l2l2jkkjK8N9mn5k3k5J1J1J1J0K6K6nmk9k7JKk3k4PPJ3J3j7j7L2L1L1L2m5m5j5
+32410b8j5J%JJJ1J1QQKm8o7l7j1j0rrk9l0M1M2M2M3J3J2J3J4l8o8p4k3%L1O6O7k3k2J3J3J3
+32388g5J3mll4l4K7K8K8K7J3J2M2M3k7k6k6k6K3K4pon5n6nmK1K1K1K1l3l3J8J8L2L2L2L2p
+32367F7pppn1n2k2k2J8J7J7J7K8K8kkj1j1j1j1j3j4j3j3J3J4J4J3rronJ2P2N4K4rm0OOj7j6
+32345D0N4N4M5M5qql0o1p8j7M3M2J6J6J1J1j9j9m9n0m8m9k6k6j1M9Q3N3K4K3kjl3l2k2k1k2
+32324b3k2L3L2L3L4OPk4k4m4m4K6K6L3L2LKo5o4m9J2L8L8J0J2J5J5J6J5k7k6k6k6K1K0rqK7
+32303B5K9K8K9QQll4m3j3J6j5j7j8j8k0K3K1pqjjJ5j3m5m4j5j6nnmlOL7N0jj6J3ooJJL2L1
+32279dj8j8j8j9J4J4j9n0%JmlL1%j1j0rK3N5N5%jj%MNMMl2l4k0J0K0K0L8Rrqk6LK9L0M9J9
+32255A23m2m3m3m5j4j5j3j3j9J1O2O2K5ml6l6j2J9L2L0K2K1K1K2l0l0j1m2k1PJ7J7J9j1OO
+32235D2lkklK9L0kjk5k6NNONOOl4l4moQk1l6J4L9j2k8KJ6J5l4l3J9K0J9K0mnmnkln3n3J1J1
+32210a07J2J1poM0M1k2p4k2K8K7K7L0K9K2K3qqj3j3j2j3J5J6M6M7l3l2l3l2l2l2kjK6K6nm
+32189d5ooK4K4j5j5j5j5M3M1J1J2JKJJJ7J7J7l3n3lL4Lk5k4k4k5kK9L9j0l9m0QQJ3J3M3M4
+32167E0J8J8l2l3MLk8k6J6J5L7Ol4K7M1M1RRRRj5j4j5j5j1j0j1j1m4m4m4m4J9J9j1j1rrM2
+32145g9M2L6L5%n9m9j8J5P7M9K0J1J1rqj0j1l6o5q2k1K8N9L2Kj3j4m6m5J4J5J5J4L8L7PPj0
+32124a1rj0j0l6l7J4J5L0L0K9L0J%J%J4J3J4J3MMOOmK6J3m8o7o5m1m0M5M4J4J4n2n2k2k2r
+32102a55j0j0j0K2K2K2K2L6L6j5j5j1j1j1j1J4J5j4j3j2K0L2L3L0L2k0j8j3j4j3j3%%k8k8
+32083a09k1J0K3K3j9j9J2J1L2L2J2M2P0L8Lk9k4n5n4k5KL3Lk6k4k4PL8M1M3poj0j0K1K0J%
+32062E5%Jk3k2QQj4j3j4j4nnRL8RJ0K8lk8k7%%qqrqk6k7MMm2m1J3M3M1M1K9jnoJ1j7o0j0K8
+32037e6K9K8jj5j6j7j7J2J1Kk8J1O0K4K5K7K7K8K9ml3k9Lj7j7jj%jj1j0K0K0l6l6l5l5m4m5
+32015a49K7K7M5M5ooJ7J5J6J7LLL3L3m3m4j4j3prqqL7L9QQk4k4ll2p9qL2j9l0%L1L1KLLLN4
+31991FN6J4l5o6l6noj0j1j1j0k6k5K5K6J3J3j6j5J9N0L3j8nK5NNJ6J8J8J7rj0rj0kjkknmm
+31968FnnoopJJk9k9n0n1K1K1O1O2L0L1j%jjJ2J2J2J2k8k9k8k7K1K1j0rpql8l8J1J1J1J1ml
+31944e2mmJ0J1J0J0OPPQJ2M3N9jm8m8J9J9j6j7j6j6J9J9j1j1m0m2j1j2LLLKk9k9k9l0J2J2
+31922a72M3M2K1K1K0K1nnnoJ5J4J5J4j3j3j2j4K5K6K6K5MMLM%%l4r4n5k3OOK3K4K3K3J3J4
+31900B4J4J4J4J4J0J0J9m3l8l8J9K1K0K1KLk8k8j9j8j8j9K7K6m2m4o2o1RRK6K5N3N3P2K1m1
+31880B7m0m0m1J0J1onK3K4J7j3j3J8kkL0K9PPJ0Rk3PL8Qj2j2Nk5l3lK7K7M0Rm2m3NL4J6J6
+31857I9Rk1l4l4j0rk7MJ5J5J7J8J2J2j9j8jkjjj3j1j2j2J7J7K9N9N4K4pql1l0k0J2K3pl8l9
+31835C1k3k2j0K0klK7K8J6j5k8k7l2l1l0K0N3N2P4M3KKl0l0j1j0M0M0QRRm1n2jJ8J9onl4l4
+31813C4l4mM9N0K0K1j0j0jkL2k8o8o6k1k1M7M5k4k3j1j1L9M0K7K8k3k3QPQQj5j5J6J6j3j3
+31792E9m3m2k4k3PPRRRRJ8J6j2j3K4K5k6k4n5n5l9K3O4O4J6J8l8l8k2L9P5P6RRj4j3j3j3k3
+31770E5k2n2n3j1j1L9M0j6j5j6j5llllkkK8K8L7L8K1l9l7l8j2j1L5L6NMM6M6mmj4j4j4j4L5
+31748F5L5j6j5lll4l2mllll3l2lkj4j4J5J5K7lJ2J2J1j9l3l2l1l1j7J3OPK2N2P0O8L1k0j1
+31726E0J9J6j5j9k0k1k0l0l1K1K1L2L3K0j1m6m8JKl5l5J4J4j0m0m0rK4K5K7K6kkK6K6Jl1l0
+31705i7JK2K3M2J0j8j9rK0M0Rk2n1n3kJ9J8J8J8L3Nl4l5pK4L2j8j7L4J5J6J8J7K9kj5j5j7
+31684C2j8j6j8J9J7J9J8j9j9pK3K0j0n9o0l9rM3M4K9%J5J7OPj3J8L2Jk9JJ2j7k8k6k5OK0J8
+31662EL1L0k0k0J4J5J4J4mmPL8ql9k0k0pqnnML4L4Ml8l8J2M2K1j0RJ0j6j6j6j6%%jkJ6j5j5
+31639A1J5K9K9%%j4j4kK8J3j8m7m7KL2L2Kj9j9RRj3j4j2j4J1J1L9M0rl9k2k0J0J0J1J1opK5
+31617D3K4QRK6mj9j8K8K9L0jn3n2n8k8j1j1LN5M1J3n2n1ml%J%%K1K1J0k0mM5O2L1Pk4pooK5
+31593A00K6lk9KL1%j6j5l5mN4N3Kk9k0k0RQJ1J1K9ll8l9J0J0k3k2PQj7j6j7j6PQQPk7k5M1
+31570B8M3J0j9k0J1L8L8j2j2j9m8%L1Qk2n1j9K1K2K2K2J4j6l0l0J4J3J4J3j3j4j4j3J7J7J8
+31550F2J7onl6l5j7j7j7j7j5j4J7J6KJJ5M6J6J8K0J9J5J5l5l6k3k3n2n2k5NN7N8M0J1k2k2
+31530a9j5j6L6L4K6K6nl5m5MLm9m7m7j2M0Q2L2qpOOONKJKKj2j3j2j3LLLLl1l2J9J9J7J6J7
+31506eJ6KLk6k7NOL4L6lmlmj4j4j4j4qpj0rrm0n0%O8O9M1M1j9j9k0j8K7K8m2m3l2l3L9L9L3
+31483@L2KLj8j7RJ0j7o7r8m7L7L7j0j1J3J4J3J4O1O1k9k9pqppJ1J2J2J2MNL4L5L6L5j5j5M1
+31461A41M1rj0j0j0j1j0l2l2kkK1K1rj0k8k9k8k8J4J4J4J4j6j5J1J0J9m1n5k5J8J8K0K0j5
+31441c1j4L6L4%jp0p2l3l3klJ7J6J6J7JJJJJ6J7n1n1J5P5P5J5rrj3j3LLMLK7K6lmprrrj1j1
+31416d9pom6J5J2J1L0L0K9L0L1L2K8K8J8m3m4J6Kk9l8l8j7j9J2J1J%%%J0J0RJ0j8j8j7j8L2
+31394@L2L2L3j6j6j6j5MNMNk9k7KKl2l1%jJ2J2J2J2K0K1K2K1l0l0K0K1j8j8j6j8QQQQj4j4
+31372a7j5j4K7K6llJ0RM1M0k7k7n7n7l3l2J9J8L7L8j3j4ppM4M2K9K9kjm4m4m4m5KKKKj1j1
+31349a11j1j1N5N4K4K3KKKKN0N0K0J9mmmnrrrj0QPm3m3j5j4j5j4OONOj4j4j5j5j%L0K9j0r
+31325ij0j0PPPPooooJ9J8J8J9j1j2j1j1O4O4L1L0Kn8k3k4l9l8l8l8j6j5J4J5KJL2L1J4J4J3
+31302D2J4jjn2n0PQQQj1j1L7L5L7k4m1l9o0o1J1J0J6J6J5J6J1J2J2J2j7j6J5J4J8J7Kn8n3
+31281a02n4ppM3M4ppjjl2l2K2K3K2K2J7J8J7J7M5M7nmj3j2J8J8kjLn8o7o8k1k2M1M2J0J1P
+31259c6OOPNNk6k5L3L2L3L3JJk9k9k2k3PPK1K2qqk0k0k0k0m0l9rrK9K9K9K9K8K7k2k3KJL1
+31236dO1K1m9l6J4J9K0qpPPPQnmmmk7k6K0K0J0m0k9JJ1J2J2J3j5j5L5L5j0rj0rj6j5J4J4k
+31213A7kkkJ2J3J2J3k6k7k5k6PQL7L9PPk4k3J3J3J3J3lmlmK4K4K5K4k8k8k8k8l3l1l3l2kk
+31190i5M9M8JJk8k9kkK8K8PPQPmll4l4J8J8J6J8k1k1RRj4j5m1m1k4L7P0O9M2j9l6l4n0m9M1
+31168f5M2K6K7lmJ9J8J8J8l1l1M0M0j2j2j2j2j5j5j6j5kkkkrrOOk6k6MMonl6l6%%L0L1k6k5
+31144a26rj0K5K6K5K5LMJ8J8l4l4J7J6K5K3RJ0j3j2k6k8ONK1J9j0j2MMmlK2K4K7l4J%rrqr
+31121a3LMLLK7K8llk6k5k6k6o3o3k7L4J6J6L5L5M7M5L2L2j9j8j9j8j9k0J1J0j5j6j0m1k5K6
+31100h8M5M5N2N1JJm0m0rj0k0k0n1n2j3j3L7L7K7K7J2J2K5K6M1M1QQk4k4m1o9l2J9M6M7jj
+31079F0RQopk5k4OOJ6J6j5j5k9k9K1K0j5j6J4J4K1K1rj0k4k4M2M3Nm7m4m5J0N9M8J9k2k2K7
+31057E7K7j7j7J4J3j9k0J1J1K5K4k7k6qqpqk5k6MMJ3J2M3M3k5k6K6K5k8k8rM2L3j8j7j7l1
+31036B0l1m6m7j1j1K0J9L8L8PPK6K7J1J1j9j9l4l4ONJ5M5L5j5%jk5k5k4k5opRQJ5J5l5l6Q
+31014f6RpoMML5L4lmkmjjK9K9j6j5j6j5j0j0K0J9K8K8lkppk2k2k2k3ppqpK4K3K7K6J2J2on
+30989C9J1J0j2j1k7k6nok0k1k4k4kM9N3N2K5K6l0l1%%M4M3J3J2k2k3QPM6M6M2rm6p6o2o0p
+30967a8pM0M1J5l6m1j2J9ro3o2K7K6M2M1K7K8m4m2j2j1J8J9j0j1K1J9K1K1k9k9J7J8j2j2k3
+30948b3k4k4k4j6j6J5J4K1K2L5j6n1n0llL3L4KLj4j3J6J7K2K2qrLLLLK1K0K1K0j6j5J4J4%
+30925E3%l1l0L7L7L7L8l9l8k3k3J5J5j5j5onK5K5KKk8k8l1l1jkL0L0mmJ2l7m9K2Q1Q1J6J5
+30904A33l2l3l3J8M1J1m1m0k9l0J8J7J4l6k5NNMrrl1l1K0K0K7K8llJ0J1L7L9K2k9m9j8jl2
+30883c4k9%jkJ%JJL2L1M0M2M1M2j%p2p1k4k6k5k5l8l8l7J5O1O2L4L3k6k7LLK7K5K7K6j1j2
+30861D8j1j2J3J3j8j7j5j3L5L7mlK7K7J0Rro0n7pL0L2M0M0n1n2n8n9J2J1K1K2j0rJ7J6J6J7
+30840B8J1J2J1J2qpn8n6k4k3QPK2K2m9n0J1J0J1J0J1J2J1J1jjM9M8M1M1J0J1JKk9k9k5k5Q
+30818D6Pk1RK3K2j5j5J5J5j3j3j3j3J0RJ0R%%J7j3j6j5l5mK4K5k5k4p0p1j7J3K3K3k4k4mK6
+30797a19N8N8K2qRRK8K8M5J5k5k5m5j6pl8j9j9J5J5J3J2J0j9l1l1qK3L7L5J5J5J5J5k1k1j9
+30776B1k0QL9K1K1j2j2Pk4n2k2K8L0PPL5L5m7r6q2n1l0M0P2P2Pk1nnlklkJ0J1oK4M0M1Rk1
+30754F9k1k0k1j9m9j9J8M9K3K5k2k0K1P2P2K1k6k7n9o0l6l8opJ8J7J8J7L5L7OOk2k2k2k1j8
+30733c1j8J2J2K7K7K7K7k1k1RRJ6J5J5J5jjl1l1J9J9j1j1k2k3QQJ4J5j6j7J3J2j8j8%%%%Q
+30711C6RL9L9j7j7j7j8k1k2M9N0L0L0m1m1m0m0qrk1k2J0RJ1J1j7j8K0M8O1J1n9n8l1l2lmM4
+30690d9M3J1l8m0J2O6O6K8k4j7j7J1J0l2l1J7J9K1K2rqj7j7j6j6%jjjj8j9j8j9QPL8L7j1j1
+30668a4j2j2j9k0J1J1QQQQK6K8K7K8kjjkk9l0k8k9lmllQQPQK0K0rj0k0k0J0J0J2J1l4l5k1
+30645h4M0K7mj0M9P9J8kkooK2K2k9k9ooqqj3m3l3K7O8Qm1m1l3K8M1J0n5n6k8k8M2M1M2M1K
+30622C6LKKRQoo7m8j7J2J2k7k6MMM4M3J2J3j3j5L5L6j2j2j2j2J3J2J2J3RRRRJ8J8l3l3m4m3
+30600b3j4j4kkkkM0L8M0M0M4M4K2k8o8o8%%l1l0%jl0l1%%j4j5j5j5L5L5L6L4noooJ7J6j1j1
+30577im5j4K9P9P2M2J1J1j7j7m8m8K5K5oom9m8k7K3M1M1ooppqpJ8J7j3j3%%l0k9J2J3J2J3
+30554B4%%%%K1K1l0l0j8k0k0k0k0k0N1N1M3M3M3M3j0j1m0m1n3n2kkL1K9J%J2J2j9j7J6J7j4
+30533A9j3j8j9L1L1K6K6nmj4j4j3j4k4k4K6K5L5L5j6j6mmmmL8L8L6j4l7l8J0J1K4K4opppl7
+30511G2l7J7J8J7J7QQQQj1j0j1j1POPOm0m1J1M0nn5j4J6J7j4k3k2J6M7L0k1m7j6J2J3lkll
+30488A2J7J6J6J7j5j5m5m4K2K0K2K1J2J2J2J2j8j8j8j8j8j7j8j7j4j3j4j3K4K5K5K4%J%%%
+30468e%J%k0j9j9j9LMLMRJ0J0RL5L6L5L6J4J4j7j7nnl6l6j3j2j2j3K5K4nok3k5k5k5K5K4K5
+30444a1K4J5J5j5j5j5j6j6j6JJJJNNNMMLMLJ1J0Jk8QN8M3J3J7j3m9m9%Jk9l0nnK5K5j9k0j9
+30420f7k0J0J1M0M0KLm7m9k8k9K2K2L4L4L2L4k8k7k8k9m0m0k1L0M5om2j1L9M0l0k9klK9K8
+30400h1K2K2K2K1J0J0k0j9JJL0L2nnonjkkjqpppj9k0J1J0onooL9L8K0l0n4nJ4J5m1m0J1J0
+30375f9K5K5noJ5J5M2pp3p4k6M6M0M1oojjk9k9L6O6K9k1m2j1L7L9L7L6j4j4j1j1K0J9j6j6
+30354H0j6j6M1M1J0J1ooooqpK3K3j2j3j2j3nmnnk5k4NOK2K1qrk6k6oM5L8Pk0J1K3K3onl9l8
+30330E8l9l7J6J5J6J6nnllo0l2j6j6OL6O4L5Lk8k8Jl2l2LL4K4K3J5j6nK5L6L7j6j6j7j6j1
+30308C0j0j1rj6j5j3j3k6ML9L8MNNNl8l9J5M5J9K1qrk0j9j8j9m6j6J8M9L2KqqJL1L1Jlknn
+30285A9j4j2J5J7J0J1J2J2j9J1M1M1J8l4o5j5L4Lk7k7K1K1J9J9M5J4l9m0nnnoppppj9k0j8
+30263a5k0j1j1j1j1qqqqmmM7M7J5J5J5J5J8J8l3l3J7J6J7J6l1l1K0K0K0K1K1K1j0rK1K0j4
+30242A40j4j4j4j6j5j6j6j9j8j9j9lll3o3l6K5M0M0QPk2n3n5NM1M0RJ0RRk4k4OOJ1J2M1M1
+30221DONONn1n2k2k1OOPOnmK5K6J2J3J2J3j4j3j3j4%%l0l1K1K2K1K1J5J4j6j6M8M9k1k2po
+30197EK4K4j8j7J3J2j5j5j4j5rrrj0K9K8kkK8K7lkm6m5MN%%l0l0K0K0J8J7j0m1l0L2K1qj8
+30175g1j9nnK5K6K4K4k7k7KKL1L0l3o3l1L1M7M6%Jk8k8k8k9k8k7K2K3J2J1j9j9L2L2L3L2J9
+30154A8K1l0k9K7K7K7K7POOPm2m1l7l8j9M2K4nk5k4LMK1K0N4oj2j2j6j5J7J8K6l5n7KJ6J5
+30132hJ6J6J7J6k7k7k6k7MLL3L1ml3n1J0M5M5J9J9kjkkj6j6j6j6K2K3K3K2j0j0j0j0NOOOn4
+30109A9n2k3k4l4l4K7P8N0K1M1M2K9K9k2k2l1l1jjj0j0j1M1P2M1J2J1l4l4q4q4j1j1j1j1K1
+30090e2K1K2K0j4j5j5j4J2J2M1M3PQQPl4l4l3l4j3j2N5N4J3l8l9m0J0RM0L9l4l3l4l4kkM9
+30069e6M9L9L9l1l2l2l3l3l4k0k0L1L0O9O7J8J8LKKLjjj%K2K3K3K2nnnok9k8k9k9m7m8j8j7
+30046a00KLk8k8KKKKL7L7K2rj4m4k9K2N7K7ml5l2jK7mmmpqK0rk3k3L0L1L0L1J2J2J3J3kkK6
+30022E0K7K9kl5l5j2j1J6J7K7ll4l4LL5Mk6j2j0j4j3k8k7M2M2K0j0RJ0n0k1pqK4K4K2K4K5
+30001E8K5J4j7k2QrrpK5K4pn3n3nnj1j0j1j1J5J6L2Km1m1k7Lj3J8M9J8j9n0k1RJJL3L3J0J0
+29978c8J0RK9K9K8K7j9m9l0l0RL8opJ2M3K3k7l3l2J4J3ppqprrK1K1J1J2J2J2J4J5j5j6k7k6
+29956@KLj5j6j3j3K3P2M5M5J6J5l6l5l3l3llL1L0%jLLk8k8k2k1QQJ7J8J8J8k2k2QQn7n9qq
+29933h5M2M2L8L9J5l5l7l6qppqKKk8k8j%L0L0pppoK0K1%K9M3qm8m9MML5L3LLLLk0j9j7j6j4
+29908e7L7N8O0K7K7K5k6m5m5j7j8j6j4j6j6L6L5NNLML4L3j3j2m4m3K1K1K0K1j6j6J4J4K5K6
+29888A37k6k5j7j8j7j8%%M7M7N3Ll9m0m1m1J0J0K8K8K9K8MMm7m7m2m1j2j1J9J9M9N0k7k8k7
+29867Ak7lkllQRQQ%jK7k2j5j4J2J3J4J6j5j3ppM1M2Kk9l9J0L3L2NNk4k4k4k4l1l2jjNNNNM2
+29842a3M1k8k8j0j0M1M0kjjjJ3J2l7l7ppqpqrl8J3K8K7%Jononj4j4j3j4%%L1L0j3j4L8L7L7
+29818C3L7J6l5m5m4j8j7k3k2QRkkjkM0M0J0J0JKKKQRm1m2j9j9K9K9J2l7k5OK0N1L5j5p2m2
+29795a14RQJ0RJ0J0L0K9J1l9l5J5L4L4mlmmMLk6k7NMNMrrK2K0j5j7j7j6POL7L7J8J8l3o2l2
+29771f7J8N4K6j6j5j7j7m7m7m8m7J4J5J4J4MLN4N5M7M7k3k2j8j9j8j9POj1K0N9O0Jm9j7J4
+29751A5J3j8j2J6jjJ5J5J4J5K6K5k6k5qqqqj9k0J0J1n1n2K9P8N5Nj4j5J3J2Kk8l6J4L1Jj7
+29729D8j7k0j8RJ0k0k1K5K3J1j9KK%%J8J7J8J8QPj1o2k6K5ppj1j0rj0PL6K0K0ppoppoppMM
+29704A0NOML4J9l2l1K0M7mk7k8K1K0NNQPj0K1L2j9k8k7k9k8mK5K6nk4k4k6k6KKJKlkllO6O7
+29680G2J7J6J9K0j2j1p5p4mmK1K0K1K2nmK6K6opopmnnmjkjjj0j1l9m1pqK3K3K4K4K5K5K4K4
+29656A18ook6k7LMK0K0l1l1qqqpj5j6j6j6L8L6j3j3m0m0j0j1J6J6M7M5RJ0RRJ1J0k0k0J1J1
+29633E5J0J1j1j1rrL6O6N4oo2l2k3k3m5m5ONL1L1L2L2j5j5j5j4J8J8J8J8j4j4j4j4j8j8L1
+29613D5L1M6J7n8j18q5J6M4J3J3J3J1J0j9j9j8j8J4M4K9k9k8k9J9J9K5K4K5K5n4n2k3k3oo
+29594a02k2k1NNK0K0opK4K4ool7l7j7j7J3J3K0K1NNJJJ%K5K5ook4k4k4k4K3K3N4N4MMk5k6
+29570d7J6J6J5J6OPMNk8n7k7L5J9j0k0k1l5l5k0j9M5M6J5J6J5J6j1j1k1M0N4N4N5K5j3p4p6
+29550em6NL6Qk2k0J0L3L2NNMNMNL9L9Kn9n1n0nmM4M5M4M5NNNNk3k4k4k3MMJ9J9j4j4m4m4J8
+29526B2J8LMk9k7K1K2k6k5MNL0L2JKm0l8k5k4j6j5J4J5L5L5MNJJL2L1J0RRJ0K3K3k8k7j2j1
+29503G8k6k7k2k0QRPRQQqpqql7l7J3J3K6K4RJ0k4k4k5k5L2L2j5j4k3L8O7Qk0k0rpl6l5nnL5
+29479e3L5j6j6K8K6K8K7ooonJ1J2J2J2j4j3j2j2j6J4llj1j0j0j1QPOPmnlnNMk4k6j3j2l0%
+29455a03k0k0L5O6L9L8K7kk5k4KKKk8k9KL6L5N3K3j1m1k2k3j2L9K7lj8j7k0j9j9j9J2J1K2
+29435dK1M2J0j9J2K3K2jjj5m5m2m1PL7N3K3rqJ1J2kl3l8l7k6MNOPQj5j4j5j5K3K2K3K2L2L3
+29412G8l8o7m6NNNQRQQopK3K3NMNMj8j7L1O3N4Ll7l7j7j6J4J4jjl2o1q2l1L0L0L8L8L7L8k7
+29389C9k8k7k8j6j7J3J3%j%jM4M4Lm6n9k9j8j9K1K1N2N0j4j5j5j5J3J3l8l8k6k7M5M4K0K1
+29368b1K0J9L9M0L6L6J5l6n8n8J5J6J2J3j9o9o8j8LLPOk0j9k0k0J1J0O1O0PRQQk1k0M8N0Q
+29346I3QQPK2K2k8n8n9J1N7K5l0o0p3k3K8K7L0L1kklkj8j7j9j8onooJ0J0J1J0k5k5k4k5lk
+29324a29M8M8k5k5K6K6kkK8K8j9j7j9j8J4J4J4J3L5L5L5L5j1j1l9m0k6LJ7l4o9m1j0j0J9J8
+29304i1j2j2L1L1L1L0jjj%K7K8llporqk8n9m0J1M6M5J8J8M4M4opm8m8m8m8J9J8J8J9k6k6M5
+29281a5M4K4K4m7m6J7J8lK8M0j1n1n1ppK4K2NML6L5PPk3k3k3k2mM7N7Nl5l5m8p8q9l7L6O7
+29260a08K3K3MNNMmnnnK9K9K8K9rrrrMNNNK7K7m4m4J0J1J0J0jkK9K8k6k6MNJ6J7J7J7J2J1
+29235A43RRl0o0m1RM7M7k1k1l0l0n6n7n0%M3P3M9jj%j0j0l9m0MLL3L3%%L0L1k3k3k1k3QRQ
+29213AQK5K4k6k6OOPOm9n0J%O0O0K9L0k5k6k5k5k0k1K9K9M6M6J6J6j4j3j4j3qpqql6l5l6l6
+29190g6j7j6l4lJ4J5J8J9J9M9L1L2RRQPOk4ppk5k6k3k4J9M9J4J4L3j8j9j9l5l6J3J3K0rqq
+29168b3J9J8MMj%J4J5QQRQm0l9k0K9Pm3p0k0K1K1mlj3J9K9L0K6ll4nK0j1l9l9j3L7L9L9PO
+29145A7K4K4j3J8L2Kl2l2l6mk1k1l5l4K9L0jjk5k6K7N7N7K7mmj4j5lK7J8j2k1K9N7N7J9l1
+29124A66l3kPQl4l3llnnk1k0J3J4l7l6J4J2J4J3j1j2j1j1OOK0K1ppl6l8J7J7J7J6j3j2m4m3
+29102i6nmj9k0K9L0M4M4J2J3K8K8OPrj0J2J2j8j9l5l5noJ5J4M6M5J3J3j7j8j3j4KJllJ2J2
+29079H9m5m5j5j5rrqrj6j6j7j6O2O1N8Rj6j6j9j8k9k9j0M1Q2L3ppMLk7k7PQm2m3j7j7kjRJ0
+29056g1L9L9K4K5k7k6l7l7J0RJ8m3m7J3N5ol9l8qpK3K3K1K2rrk6k6K5K4J9J9L3L3l0l2l1l2
+29035a07M1M1M0M2K3K3ppj1j0K0K0qqn9n8J9J9K0J9J7J6N3qn0j9J3J3J9M9L6k4n7n6j0K0J3
+29015G7m8l7l9JO0P7P8j5j4j4j5j7j8J3J3K3K3pqo2o1j1j1RPk1k2j2j3j2j2J4J5M5M4j%j6
+28994A3j5N6N6K1m1k2k3j3j2j4m3l2K8K3qK3N2N5ok1k1l6l6k0L9J0J0J4J4J5J5j5j5k7k5k1
+28974b2n0m2K8M6n%%K7K7K9K9jkj2j3j2j3kkjkl7l7l8l7qpqM3Q0M8J6j5k2k4NNj9j9N2N0N
+28951D0NOm4m1Qol6m5m5j6J5J4l6l5J7N6N7N8Ql4l4ooK7K8M3M1KJk9k8j3j4k8k8j3j2J8J8
+28929h7L5L5j6m6k4K6O4O3K2k9l1k9j9k0J2J1J8J8LLONOOqrqpj0j1j0j1k1k2J8O7N7OKKQQ
+28906H3QQm1m2nok0k1J4J4J4J5k1m9l2J8K4K4OOrrl1l1MNK2K2K2K1rpl4l4jjJ5J4L0K9k5k7
+28883c7l1l2ooJ0J0K4K5j1j1k3k4qM2N6K4kkK0K1J1J0K5K6J6J6k0j9l3l2poOPj8j9J9J8J9
+28861E8J8k7k7m8n0qM2O4L4J2j9k6k6kK7M0j1m5m5j3j3PQQPK4K2j1j2%%J%LMLLlll9l9j4j3
+28837a09JKN1N1K5K6LLj2m1n8qPk4k3PK4oj2L9N4N4%Jj5j4j1j1MNj7j8lkJ6J5l8m0nnK0N1
+28814a3M2po2o3JJ%JJ6J6N2N1NOl0k9n4n3K1P2L7j1ooK4K5K4K5qpppL4L4jkm4m4o6o6m0J1
+28791a28M5J4j8j8J6J5M3M2K8K7j4j5L1L0NNn1n0k6k6J0ROOk9l0NMNMJ5J5J5J4PPPPk6k5k4
+28768d3k4JL2J4J5K2K3qpk8k9JKNOqqJ3M2N3N4K9k1j2J9j1m1l9rJ2J2kjl8l7mK5M2M2J1k0
+28746H5j8j9J4M3K4K3ql9l8l8rj0j3j3j6J5K6K7K9K9j3j4j3j3K3K2K1K1K0j0k2k2l9rK5K4
+28726I5KLk8k8k9k8j8J3J3j7kK7L3KrrK3K3K1K1Nk5l7l6l9rj1j1J5J4J5J3K5K5J1j9ooK3K3
+28704G8m3m1j1J8K6mj8j7Lk8KL3LLONK5K5K5K5l2l3l3l2lmmmj0rOOK3K2j5o7l0K1J8J7k3n4
+28680a25l7J4M7J7j3j4llK7K8k4k4l9m0L8L7N2N3rrOOJ8J9j1j1n0n0%%RJ0ooj8j7L4L3N5N4
+28658D8L5j5m4j4J7J7l2l1j7j7j9j8J2J2JKJm9l7qM4M3L5L4LMJ%J6J6J4J4jjk8k9k7k8j8j8
+28636h2llLLm4m5RN9N9Qk1k1ONJ0J0m1m1J9K0J9K0L2L1L2L2j5j5m6m4l3l3klM5M5P3K2j4j5
+28614D1j8j7n0n1J0O1N0K1rj0l5l6l4J7J9K0K1K3M0M1J0J0k9l0k9k9j7j7J3J2k0k0l4mL3Q3
+28594C6Q4L4rl9n3lJ7J6K0J9l0l1%%l1l1l1l2RQRQ%%%%J0J0N9O0LLKLj1j1J9J9l7l7l7l6k5
+28570c6k4k2k1mM6O8O9KLKKj3j3J7J7k0j9k0j9J4J4j6j6J9J9J9J8j0j1j0j1LKKKn3n3n4n4
+28549a61JJKJK6K5N6N6L5L6l5l5j2j3j3j3K1K1J9K1j0j0j0rRJ0l9m1m0m1L0L0M6M5M3M3K9
+28528A24k1q0m7J2M1J5j7RJ0PQL0L0%jl6l7l7l5j1j1K0J9N1N2JJj6j5J4J5k0j9l0o0m7MLM
+28507g0K5K6K4K6mml3l4K0K1J9K1j2j3j0j0J4M5Nm5j1rj4j4NOnl4PN7M3J4J1J1RJ0j4j4j1
+28485E8j2K9N9O0K9j5j6j7j7k5k5k4k5L3L4L3L4mmonnl5l4nj0j0j0j0ol6j6j7k5OQk3QL7J8
+28463IJ9j8j7j8j8jjj9J2K3K2k5k4k1J0K3K3kjK8K9k1k0QRrj0j0j0J3J2M1M1ll4l3lk0k1L2
+28441eL0k3k1m0j0J7J6jL0J3j6j5J5MMj1J9J4J5j4j4j7j8l4nJ3J2kK8K0K2k6k8klllj%JKK2
+28418a5N2M6k6n4n2m5j4POL9L9RQL8L9j%K7K7J2l8o1n9j7j7J4J4opopjkjkOOOOj6j6j6j6L0
+28393f4L1%%j5j6J4J5J3J3J2J4j7j7j7j7KLKLl3l2lkllK8K7O8P0kkk8k8KKqqK2K2K8K8k3k3
+28370E8m2m1m2m2J8J8J9J8L6L7L7L8OOOOk7k8LKk5k5k3k2L6O9K9k2m6m5K2K2LLKLl7l6J3J4
+28347B1J3J2M0M0J8l3k2QJ1J0klo6o5k5K5L1JqqJ4J4M5M5l8l9J2J2K7K8nnk3n3l3J6qpRJ0
+28325A9RQRQj8j9mlj3j3m4m4NNNNl5l5J6J6K5K5nnk9k9j0M2O9L9QQL3L3LKj0j0m0m0n9n9J2
+28302a20J2PPrqNNNNQRQQL3L1j8j8n8n9k8k8J7J7K7N8K5k5m3j2N7N7J6l4l5l6L2L2MMMMJ3
+28278b1J4J3J4J8J9j2j2qqpqNONNJ3J3J3J3llkl%jJ5J5K6K6mmk7k8k7k7l1l3jkj3j4j3j3J2
+28254h0J3j8j8k9k9j2M8P6P4K9K8J9J9MLj6j6m7m6opM3M4L5L6K0K0ooook9k8k9k8j6j6jjj0
+28232ErL6L6L1l0m6m6NNL4L6PQk3k3%Jk9l0PPL7L8mmJ1J1llllRRRRj4j4j4j4j9k0j8j9QQK2
+28207AK3PPN4N4K3l8l4l5opl6l6mmmmK2K1K2K1l4l4l4l5k6k7NMK0K0K0K0kklkj0rK0K1j7j7
+28183g5J4J3OOOOOPj3J7L1j9p5m5OPRRK9K9K8K9j8j7J1J2J8J8j2j2m3m4p0p0qO3O9L8M8J9
+28161C3j6j6j7j8j4j5k7K5M6M5L2L1L2L2n9o0qrJ%j0l9m6NM2M1M1rKL2J3J3J5J4k2k2n2q2
+28140d6m2Rk1k1rrrqJ9J9J9J9KJN2N1K3K3ppk5k5k4k5k6k7k6k6J6J7J7J7j4j5j4j4OPOPnn
+28116a20K6N6O3J4m7m7j6j6J4J5MMMMK1K1J9K1k4k4k4k4J6J6j4j4J4J4J3J3QRk1k2jjjjOP
+28094a5OPNPOPj9j8j9j9KKk6k7j6J4K8k3l7oMML3L2L2L2LKLKKKL2L2k2k1k1k0mmK6K7l4l2
+28070c1kn2m5PK5K5K1K1rj0kkkkJ3J2O1O1M6J5j9j9j1j2j1j2k6k7m2j3PQJ0RJ1J2RJ0J4j6
+28048C2JJj1j1j2j0K6K7k2k1k8KJ6J4RQj9j9j3J7L0L1K8K8K6K7ol5o7o6k0J1poQQQQj7j8j8
+28025f0j8K9K9M0P1M6J6MNqqk2n1q0q0j1j1J0J0J9N1N3Ll5l4k3PM0M0K0K0J8J9K6mj8j7NN
+28004A06MLl5o5o5l5j6j6l1%PPkl1m6NK9N9P6P4K6nl1jM9M9L3Kl1l1k1k1k2k1k0k2RRK6K7
+27981C2K4K5nl6J2J2J8J9L6Nk7k8l0l0lmJ5j5k1PQk1k5OJ5J4J5j6j5J3J7J8j1j1k7k8K3K2
+27960C%%j%J6J6J4J4K9kj7j7%l1m1m2qK3K4oLL1M4M4j4j4j4j4l1l0k7k8LN4P1M1Jk9l1jpp
+27937A9K5K6RJ0PQLk8m1m0j0j0K1K0M1M2K1k9m3j3lkj%%%J6J7j2j3k3QqqnK6N6K5k5k6k7k7
+27914Fm4m6M4M3Ok3qpK2K2K0K1j6m5k7k7k1J0ppJ3J2J3J2NNNOJ1Rj9n2j6J4K4K3j4m4m4j4
+27892a35L0K9L2L1RQQRJ1J0K8lj4j3j6j5qoqqk4k5ONJ0RK7mk4k3OL6M2J2l7l8rK2L5L5J0J0
+27869F0J0J1PQol6m6m4LMj3j3Nk4l5nK7K7jkJ6j5K3K4J9K0L0Jn2n1l6oPQN3N2on5m6J5M9M7
+27845C4L6L6j4j5mln4n4k6k7QQrN2M7M8ooK0K0K3l9n5n4RJ0RRJJJJOPL7L7j8j8j7j8j0j1r
+27822gj0pql8l8kkK9K8llM7M7L0L0%%j7j7j6j7j6j4j6j5j0rM2M0N3N4j8j7n1n0J9K0L7L6j4
+27800I7j4m6m5K5K5kkK8K9mnmml0l1K0K0pqqpK3K3ppk0k0L1L0pqpqnoonPPPPj8j8j8j7j7j8
+27774e0J3J3M5M7M6M6m4m3m4m3L0L1k0k0nml6l5k9k8KKJ3J2J3J3M8M8lkk6k8K1R0M8mk0k1
+27753G6m1m1RJ0JJJJmlmlJ2J2J1J2L9L8l3o2m7Lpl7j0M1L9M1J2J1J2J2j4j4J6J6j3j2o4o2
+27731d5rrK2K1K9L0j%nmmnLMLLj7j6N0N1L1j9m2m1mmmmJ2J3J2J3k4k4OOj3j2m2m3KKKKk8k8
+27705a30K2K3j0rj0j0J4J4J5J6J3M4O9jm3QK3qk3k2NOPOm1p4k9M1Q5N6K8lj8j7KKKKj6j5j6
+27682Hj4llllj5j6j5j6llklPPPPL0K9K9L0k8k7k7k8j3j4L8L7L6L7L7L7j9j8j8j8j0rj0rkk
+27659B5kkLLLLl2l1kjj0rrrK9K8K5K6Km7n1n0K7K7K6K7l1l1l1l1j5j5J5J5L5L5L6L4K1K2j0
+27636D8rkk%%q0n1J3O3M1rk4NJ8J9rj0QRQQj6j7j6j7m1m0L1L0M5M6J5J5j7j7j7j8j2j4J6J7
+27613A7MNMMj3j2J7J8OPk4k4k1k2QQK0K2K1K1J5J6J5J6mlmmjkkjooK4K5k4k4n1n0k3K7jjl3
+27588c6l3l2l3j2j1j1j1J7J7J7O8J06P6K2ql1l0kkk7k7k6k7k4k4K7K6M0M1j0j0jjjj%JJ%J
+27566B9JJ%j1j1rq%K9L1%l2l1l3l4J0RJ0RJ6J5J3J4ml3l4lL5L4j3j3j9j8L3L1L4L4on6l3J6
+27544CL4L4K8kJ4J5j6j5J3J2J2j9l2l2j4j4J4J4J2j9k1J0J1j8j7J3RJ0RRj1m2k2k3K2N2N2
+27523H5K3j1j0m0m1l0kj8j8ppK4K3N7N9Mk6k3k2k2k2l9rK7K7OL5L7Ok4k4j3J8J7J7j2j2J9
+27502E2J8Nk5k3k3k3k5K0J9k7KK9K9%JKKL3L3OOk5k4OPk4k4%J%Jj0j0K0K0K6K6nmnmj5m5m0
+27478a7J0RJ0k8k9k9k8PQQQrj0K2K1K7K5K7K7K1K1K1K1M0M0j1j0j6j5m5m6lmmmk6k7k6k7O
+27456c5OOOMMNMj3j4J8J6L3L2L3L2k7k7k7k7l7l8qqK1K2Jn0m7j6lK7O1N9J2J1K7K7llRJ0k0
+27433H3k0k0k0j6j6j7L2N2K1ONMMKK%jNm6q2n3kK9M3M3L2L3K0j1m5m5m4m6l4lK9L0J9J8Pk3
+27410b5rK2JJL4NqrJ5J4J5J4NNMLjl1j3j4j5j4J4J5K2K2K2K2K5K6ql8KKl1l0onn6n6j4j5j4
+27386a02j5K4K4K1K2K0j0k0k1k0L1M9K0J8J9%L0J4J5j5j4k3k4k3k3m1m0k7LK3K2M1Rnl6j9
+27366g3j9j5J6K8K7L9Rk1k2rK2K1qk0k1k2k3J5J5J5J5j1j1KL3K5K6k2k2L2L2LKk9k8k7k9J5
+27345d0J4j6j5J2J2J2J2k1k2RRj2j3L8L6J6J6J5J6K2K3k9k8l6l5J4J4QPQPl2l1l3l2J4J5J5
+27324c1J4j2j3ON6O9J8j0o1o6j7K3qj9L2J9j1m6m6m4m5m7LO6O6L5L5MNRJ0RRJ9J8l2l1kjk
+27302a9jlkK7K9mmn3n4j7j7L4Mj8L4N0M9L0k1k3k3LMLMK0K1j0j0NMk6k5k1k1J1J2j7J3O3L3
+27279F4k7k7k9k9rj0k6LL3L3Mk8m0j1JJj7j6J3J4M0M1N4K5K7ml8l8j1J7JJooOL6L2Kl0l0j
+27257A5kjjqppqQQL6L7ll2j6j5j0j1l8l9j8L1K1j1NMN4N2qpK3K3K2K3j0m2l4l4l5l6j6j7l
+27233a07K8J6J5J6J6K2qk1k1K0K0j3j2jl1l1jL0L0J3M2L5NK3K2ll3l4lJ5J5j4j4k0k0qK2N
+27212A5NMNk1n1o3j3M3M3J5J6PRRRJ5J4J5J5j7j7j7j6j9j8j9j8RQk1k2oopoJ0Rk1k0k9k8K
+27189a78KL8L8L8L8l3l4j3L7K4pmK7L4L5L8L7RQm2m2l4l4l4l5rj0K2K1J4J5J5J5j4j4m4m4
+27169a20J9J9K0J9k4k5K6K7JKJKK0K0K1K1j6j6J4J5j9j9L0K9L5Lj0M0M8kjjk8k8m9j8on6o6
+27147g2NK1K2mml3l3l3l3j0j1K0K0PON8N7kkklJ8J6J8J7j2j2j3j1J0J0Jk9m0J1N1N2K3K3k7
+27125H0k8j7j7L3L3M7M8J3J4j3o3p9m9nM3L5Mj5j5j8j7j6j7j7j8J6J6J6J4j1j2j2j2j2j1J9
+27105d3J9j7j7j7j7j6j6J4J4J6J6j5j4J2J2J3J2NNNNJ5J3J5J4K3K4k7k8k1k1k1k2k0j9k0k0
+27085a39rrK2K1L1L1L1L0j%%%J1J2J1J2J1J2J1J2mmlmk1k2k1k1j0j1j1j1QRk3k2j2j2J9J8
+27063e8J0J1J0J0l5l6J5J5K0J9J9J9K6K5K6K6m5m5j4j5j6j7j5j4jN0O8L8J6J7n7n6l5l6on
+27043f6m0l9J1J2M3M3M2M3LLLLk8k7k7k8rrK1K2J1J2J1J2QPQPk0k1j9k1j8j9j8j9M6M7J5J7
+27021B2j5j3j5j5J2J1J2J0OPOOj8j6j7j7k7k7K4N4L4j5mK6kl2j4j4NNL5L5mnnmm2m2%N0K9
+26998B6L0j8j7PQk3k1o2o2j2j1K1K2K1K2K7K7K6K6ooooK4K4K4K4M7M7mlq0q0m8n0l5l6nnj4
+26976a57j4L6L6POPPM2M1rpJ1J3J2J2MLj%L6j4n6k5ml4l1jJ6M6M2k7m1RM3M4K0l1p2p3m9m8
+26953b01K2K3K9L0L0K9nnK5N4N6Ml5l6JKLLK5N6K8m3o8o7m1m2RJ0RJ0K0K0j0j1K3K2K2K3n
+26932A9ml3l5k4k3MNL5MqpQL8J0k0J2M1N4Lk1J0j0j0K2K2qqopppK4K4k7k6j8j8j7j8k0k1J0
+26908e8M1J2l8k5OOPRRklj9J1jj%JJ3J3J3J3jjj%j6j6j7j7k2k3PQL0L1%%nnnm%%J2M1M7J7
+26882F7l7o6l9qql9l2kRRL3L2L2L2PPPRrK2LLj6m5m6j6M0L9N8K9MLk8k9k4k3k4k4j5j5j4j5
+26859a29L5L5L5L4N2N1JJk9k9K2K1J4J3j7j8l5l5l4l5JJJ%K6K4K6K5k3k3PQj6j4j6j5l2l2
+26838i9jjM2M2J1J0J3J2J3J2j4j5j4j3RJ0j9k1NMMNPRRQj9j8j7j7K2N2O4J3l1l2mmj7j7j6
+26816a3j7NOL6L6k9k8k9k8jjK9L0LKLLL4L3j7j7j8j7Lk7rM0J2J1OPNMk5n4o7j6L0L0LKrj0
+26792e9K0N0L1j9l9l9j2j1qq%N1L9QJJj%j1j2j1j2JJJJL7L7L7L7J3J2l8l8MMMMJ4J3J4J3k2
+26768A08k2k2k2J4J3l6l6j3j2j3j3nnK5K6j4j4j4j4j4j5J6J6K9K9k2k2J0RL8M0JJKJJ0J1J1
+26747H2J0j8j8j8j8J5J4j5j6l7l8J2J3kkK8K8onnnm3m4j3j2J7J8J7J8rrM1M1j6j5j5j6NNN
+26725b6Nj3j2j3j3kkK5K5J4l6n0K1O5L3j5j4J6J6J7J6L7L7K2rn1q2n2k3KKPOlK8J1J1qqqq
+26702c2K0K0k8k8k6MJ7J7L4L3L4L4nnl6l6l7l9n3k4L3O3O3L5l2l0l3l3k3k2k1k0j2J9N3N2
+26682d4K4K2LL3L3j8n6n7j7J4J6j4NL6L3LNMNNoK5POM8J8n4n4j1J8KKk8k8m5j5J0RL0jlK7
+26659hN2K3Kk8m1m1J0L9K5K5L3O4M5om5m5m8m8l0l1j8J3K9K9K9L1K0K1l1l0qpqprq%L0L4k7
+26637C0l7qPPL9M0j6j5j6j5l4l5nmJ4J5M3M5jjJ9j0l0L1K9l2j1j2j5j6%%k9l1J3J3j7j7j7
+26615g9j8J3J4L2L3O2O3KKk9k8j5j4j4j4N5N6MNoonopqppk5k5NNK8K8nmk4n5p1j1N1N1K5K5
+26592G6jjjjmlM7M7k1k1k0k1nnnnkllkKKKJm7m7K3K2j6j8m8m8J8J8J8J8J5J6J6J5K5K4K5K4
+26567A06j5j5Kk9j8j8j8k0mmK7K5l4l6l4l3K1N1O1O3M8J7KKk0n0n1k0J5J6J5J5J8j3m4m3j4
+26547b9L5R4O3ll4n0m9l3l3n1k0J0J1J3J2ONL6L5J8J9J7J7rl9l9qJ8J8Qk4m1m2j3J8K8lj5
+26526e4j4L2L2L1L2j0j0rj0l4l5J4J4%l1l0%J7J7l3o3m2j2K1K2%K9M4M3J5J5J5J5l2l3klp
+26505e6pk4OL7L7PRPPL8L8%Jj5j5l1l1j4j6J2J0J4J4rK2O4J4j4j4J4J3jkkjj9j8j8j9RRj0
+26482D6o0m9K%JK8K8K7K8l2l1jkL2L2j8j8k3k3k4k3k6k5K5K5J3J2M2M2J5J6J6J6ppqpk6k6
+26460A0k5k5KKj3j3RQL9L8L1L2j9k0k6k7LML5L5j5j5m5m3k2K9J8J7PORJ0K5K4j0j1j0j0K7
+26438G1K8mlk1k1RRpql7l7l3l3J7J8pol7l7k8k8LKj6j7J4J3M8M8L2L3K0J9rj0QPk2k2QQRQ
+26415a1K2K2qqJ7J6j4j3j7j6L2L4j6j7k9K0L3L3OOJ8J9j2j2j4j3Pk4k8K3J0k1rrL7L6K1k9
+26394I2p0l7j2j2K0J9J8J8J8J7j3j4j3j4k4k5K5K4J2J1mmNNMNj5j5o2o2k3K7L2Jl1l1llM9
+26372h5M8J8J8j0rJ9J7j1m1l7L5M6J7j2j2MML4L4l6l7L5L4L1L1k0k0ool7l6k2k2k2k3L7L7
+26352eL5L7OOk5k5J2J1J2J2PPm3m4l1l2jkJ3J3J3J3M6M6mml2l2kK8K8l2k7k6k1k1K9L0J6J6
+26330B7N5op2j0M1M2mnmnj4j4J6J7j7j8J4J3L7L7j3j3l7l7J4J4JJk9k9j2j4J7J5kk%jNL6N2
+26307I6qn5n4L2L3J9K0l2l1n3n4k4k4J6J6j5j5K0J9O7O5M1k1p3m4qpK4K5K5K6mmj9k0J0J1
+26286@J6J8J7J8%%l0l0j3j4J7J5J5J4j6j6l4l4l2l1j1M1M3rj4J5M3J2qqj1j0J6J6J5J6OOm3
+26265em4J3J2J3J2K7K7k3k4k9l1%jJ6J5l5l5%J%%K4K3opJ0J0m0m1qrqqL2L2KKJ8J9j2j2J6
+26242e4J6J7J6m7m6M5P4J9l1l1J9M7J7j3j3lklkj2j1m1m2KLKKLLMLJ9J9l2o3j7L2L3L3klk
+26218d2kJ0J0J0J0J7J8j7j7mlL0L2QPn8n8noRJ0%Jj4j4K7K8qprj0rrnmnnJ%j4j5k9l0L7L6
+26194i8M7M7k0j9m1m0K7P7O1O1jjl0l0n5n6j7j6J8J9J3J2J3J3M4M5J1J1LL3M2qo4r4m1QK0
+26173fJ9j2j1j4j4J1J1J6J8J7J7k9k7k9k9J4J4j1j1j%J4J5j4j3k9k9OOK1K1l1l2j7j7M3M3
+26153g0QQOPK1K1QQpqrj1J5J4RRk6k6k0j9k0k0L2L2mlk7k6k6k7L2L3m4m4L3L3J8J8L1L0nn
+26129b1j0j1J6J5NNM6M6J0n2m8j6J1M1K7K7lmlll4l5%Jj%l5l6l8l8PQK3K2K3K3K1K0K1K1J0
+26107F1RnoqrJ6M6L5k6o4l2j7j5K0K1L5L4j1j1m9m7PPRRRJ0J7J7qql7l5llOk3m1J9M5M4j7
+26084Aj6mlKk8m3J8J8J7jjjjooopONONK3K3K3K3j2j1j2j2L0L0K9L0J5J6j5j4J1J1mnk8k8k8
+26059E0k9QPk3k2k1k1QRM4M5K6K5lo5o0o0j9j9mlonnnL3L4j7j7j4j5J6J6O8O7J8J7ooRRl9
+26036B5l7qrMMj1j1MLJ9J7j2j4j3j3llK8K8RJ0onNNm1m2o8pK9K9K5K5L9L9NMMMk5k4k4k5J5
+26012b2J5J8m1m4m4LLK1K0j0j0j9j9L2L1L2L2J6J7J3J2j7j8k3k3ml3m9JM3M2N3N5N5N4j4j5
+25991A63j4j5lmmml2l3l2l1n9n9J2J2M5M5O0O0qrl9l8k8k8k8k9MMONK0N0J3l5oM5M4M4K1K2
+25969A37J9l1q9q7m1m1k3k2J7O9P7M6L3Lj5j6L4L3k8k7k8k7J4J6J5J5K3K4Jn0m5m5K3K1pr
+25949a1qrj2j1j2j2L4L5L3L4J5J6J3l7j3j3j6j6K7K8k3k3l5l6L1L0K0m0n7n8klK7K7j5j6L5
+25929g3L5K8K6llj6j8k8k9QO9N1K2opqrk2k2k3k2n9o0k9k8mlM7M7L7L7POL1L0J5J6L3L3L3
+25907A39L3J1J0k0k0l1l0l1l1k9k9k6k6j3M7J5j5l8l9qqM6P6M2j9k5k7j5j5%%L0L0l1l1j6
+25887i4j6J5J6L0L0l1l0J9K0M5M5nnj8j9J3J2j8j7L2L3n3n2l8l8j4j3j4j3J4J4M4M5J3J3k
+25867c7kn8n8n8n8J9J9L4L5N5N5K4K5J2J3l7l8J8J8J6J5j8n0l0K0L8L6J0J0%%j4j4mlJ1J1
+25846A5k3k4OOK0K1j0rm6m7MMK1K1K2K0J9J9j1j2rprqk1k0J1J0MLMLJ7J6O7O8KKm9m9k7k7
+25823cj2j2rrKL1M1rk8k9jkj6j7kkJ4J3J6J6J7J5l8l9m0l9J3J3K3N3M8jk1k2jjJ4J4K3K4k7
+25800A0k5j3j2KLnmk0j9rj0rrM2M3L8M0L8j2o9o9NONNj1j2J4J4J2J2L6L7OOJ1l9l3kK0K0J4
+25777E7l6m3m3l4l3KL2M3pk3k3JJM7M7PNK2K2k6k6k5k5k4PJ8l2kjJ1J0j5j5RRj0m0KN3M7J8
+25755a3J2J1l2l3l8J3K9kopJ5J5M0M0MMj2j2m0m2poKLL8L8P8P8L2l9l8l8k7k8k0k0k1k0K2
+25733b7K2j4j3j1j2j1j1POPPjjj%PQQPqrk4k4K5K5j1j1L2L1J6J7j5j4K0K1k1k2noJ9K0J9K0
+25709G2RRRRo1n9o0k9j4L8M6M6J4J5M0M0KJl4l4m6m5k1k1J9J9j7m7ON6K7lj3j3L1K9LKkn1
+25687b8n2kKK%%J5J5j5j5J1J0M6M5K1K0j2j2LLj3j3m8m8OPrqK5K6j0j0l5l5M1M1MLk1k2J8
+25664d4J8J8J7LLM9M8j9k0m4m4j0j1J5J5JJMMl2J8M8krqj2j1l2l3lkj4j5JJMMJ9J9L1K9j9
+25641a4k0k9k8K2K2MMk6k6k4k4J5O5M8k3l0l0rqM2M2J7J5KKj9k0n0n0JKN2N2M3M3k7k7m2m3
+25620g6k7k8k2k3K7K8J7J7O7O7%JL1L1K4K5k6k6j5j4J5J6j1j0n9n7l3J8M0L9J1J0k0k0l8l9
+25600f0L2L2j0j0m1m1J7J6J7J6NNPPL1O3M3qm8m9k1k0k7k7LMJ0RK5K4J9J9l2l0lkkkK9K8K9
+25577E7K9K1K2K1K2k2k1k1k2j3j4m4m3k0j9K9K9K3pl7l9rK1L2L2K0j1m3m4k9k8K0K1J1j8k
+25557i6kM2M1J2J0J8J9j2j2j7j5j9J2KLj1j1poPL8J3J5j3j3j8j9L1K9J2j9l2l2j2j3l0JL2
+25536g2L1J6J6M2J2jjj1j2k5k7J1J1POJ6l5n5k4J6J6KKllj7j6K4N4Lk6m1m0J7O8Q4L4nnk1
+25514D8k1qK3rroppoppj4j5o2l1j7j7J8M9M0M0J1J1J1J3O0L0JKKJrK2L2j7k7k6k9k9m4m4j4
+25491f8j4j0j0ML3K0K0K2K1L3L4j9m9n0k0N0M9nl6nK6J6J6J6J6Mk6l9l8j4j3J9J8jK7K9kK6
+25470H0K7K3K2ql8k4k3kl2m4m6opK1K2K9jj4j5j5j5j6j5m5m5l2jK9K9J4M5M0M0rqj5j5j6j7
+25448a03J5j5k8K2P4M3J2J1kl3j6j6j7j7j6j7K1K2K1K1KJKJJ3J5J4J4KJKKJ8J9j1j2ppppj7
+25426B0j6j6j6j%%%NNm5m5J1J0J1J0K5K5K4K5k6k5k7k6qpK3K3L8L7PQj6j5J5J5kkl2l2k3k3
+25403f6QPnonoK3K3k8k7m4m4M8M7J4J4J4J4J5J4j5j5K9L0J1l9j9K9M9M9J0J0k0k1k8k9k9k8
+25382a6K2K2N0N0M2ql3l2m0o8m4K7L6Pk2n3m0J1K7lj3j3J6J5J0RK8kl5mK7K7j4j5J6J5nnK4
+25360A6K5J4J4j6j6j9j8j7j8L4L3Lk8%L0J1J1j4j5m3m5j7j7J3J4L3L3N0K1mll4l3l6pK4pP
+25339b1ON1N3L8j2l4l4n8n9J2J2K3K2K1K2%JJ7j2j9j8k0k0JJ%jJ9j2j4J7Lk8k6NOOrK1N6N6
+25317G2Nk6k4k4k2k4j3J7M8M9K4pk0k0j0j0k5LJ7J7K0J9jjjjk8k8LLQQk2k1k1k2K8K9j8j8
+25295c7J3J2K8K8kkl1l1l1l2POPOk0k0J0J0j3j3j3j3kkK8K8J8J9j2j2KKN2N1NMMNj7j6j6j5
+25271ej7j6L4L3L5L6L2L2k0p1m2m2m6m6oM5M4J4MLM2M2k9k9J4J3j7j7RRPPk1n0j4L6Ok4k3
+25250c8PQk1llJ0J0J0J0k9k9JJN9N9j2j1K2K3K2K3mmmnn4n3k4k3MMMNL3L2L2j9o0o1K7K7M
+25227b0Mm6m6k3k3QPJ6J5J5J5L5L4L4L4J9J8j1j2j9k0j9j8onK0K1J1m9n0J1N0N2MNrj0rrK5
+25205D9K6K6K5m5m6m5m6mnK6K6K7K8K9K8MMk7k6j9j9j8j9j0j0K0K1LMNMj6j6j6j7KKKKLLL5
+25181@k3n0n1j8M3ooM8M8POOOK6K6K5K6J3J4j7j7k4k5OOj0j0j0j1NMMNJ0J1J1J1l0l0k8k8
+25159b7l4lRJ0K4K3M0J1jjK8O0M0Rk3n3q2m9JJJ2J1J1J2jkkkMMpl7l6nK9K7ML4L4LNMLKk5
+25134F5k5NNqqK2K3NONNJ3J2%l2m2m2j2j4QPNNRk1nmj9j9oK5J7J5M7M7Qk3l7J5J9j2o2r2m9
+25109a39JM0M0L2Jj2j2JKJKj3j3j2j1J1M2M0J2j6j6L2L3nmk2RL1L1j7j8j9j9j7j9l8l7k5M
+25088a19J9j1k1K9O3O1O6O6J1J0k0j9j0rm0m0j2j3k6k8o6o6j6N4N4K3J4J4J0J0J1Rl6l6J4
+25069e0J4K5K5nnmoonN8N9QRJJMLRL9K0l1l9l9n8n6mnmnK1K2j0rj1j1K0J9jjl1l1K7K8K6K8
+25044C9j1j1J9J9LKKKk2k2k1k2J2J1j8j8J2J1lmK0J9N1N0l0l1j5j5jjjjJ4J4j6j7m1m2m3m2
+25022a48J6J6J6J6J9J8MMk6k5NNK3K2L6L8K8K9l9l9m3Qkl3l8pK4K4L5L4M7M7K8k3m2j1MMk4
+25000E0k4k3k2qqRJ0RRJ0J0J0J0RRoon1n1jjJ6J7j4j4k6k6NNNOL6L5K1K1OOJ4J5J4J5J4J5
+24976A30m5r4q2l2j2j3M3M2J4J3J6M4K6k4l8l9j2j2j3j3JKK4K3opM0L8M0M0j3j3o3r3p0j9
+24956a77M2P2M2rrqQRQQJ4J5J4J5QRk1k2J3J2J3J2L4L5MLk3k4m0l9j5j3j5j5k5k6k5k6J6J5
+24934a11M6M6j4j3j4j4K4K3ppl4l5N6N6O3O2J2J3j6j5k5n6k2K9J5j5j5j5j7j6K0K1K1K1mm
+24914E9mml3l3mlK2K3K4K3j3j2k8k7klK7K8l2l1j7j7k4k3M4M4J4l6n3lL5Nk6k6llM8M8kkl0
+24892e0l0J8O7Q7N7KKJ5J5nml4l5n8n7ppL6L6L6L6k7k6k7k7MMP5P4K4K4k7k8k8k9j3j4rj0
+24870F0K0K1MNk6k6m5m4k9l0K1K1K2K1J1J1j7j9pqppJ4J4M0M1kn3n3n4o7o6M5M4Q3Q1M0j1
+24849D8j8j9j1J8K4k6o0l2J5M5J6j2k2k3qrooooK6K6K6K5RRk1k0k7k6j2j1K0K1NNJ7J7LKl3
+24826c7l3lkj4j5J6J7N5N4J3l8k4k4KLL5L6NOj2j2k7k6m0m1J1J0j6j7kjL5L6NNl8l9l7J4O
+24804a34ORRJ2J2J2J2lkJ2J3K1K1K1k7m8LK2K1rj0rrPPPPk5k4NOJ2J1j9j9NNMNM8M7K6k4m4
+24780Bm3j7j6J2J3lkj4j4L6L7RJ1nnj5j6j6j6j0j0j0j0poM4M4K3K3QRKKk8k7m3m4k1L0N7N6
+24757B0RJ0j3j2N9N9K1K0n0n0mmM2M2No6n9k9NNk3k3NNNO%J%JqpK4K2kjn2n2qqK2K2J1J0k0
+24732f0k0L8L8K3K3QQk2k3k9l0K0K1N3N5LKrl9k3K9K7kl3l3k1k0noRRRRj9j9o7o8k6K3K6k5
+24710a66k4OL6L7J5J5J5J6J3J3K7K8L6L6l5l5j8j7j8j8nnk0k0k0k0J0J1KJJ8J7nonnK9L0J0
+24688b1m0l1K0L6NOOMMoommp0m0PN7O5O5L8L8k3k4rqm7m6l2l2j9k0L2L1j3j3J7J7rrqrklk
+24664a02kN5N4MNk2k2k2k2LMk6k7K3K4K3K3nnnnL3L2L3L3jj%jj4j4m5p4l9J2L1L2K6K6nmj2
+24641Aj1J7J9jj%jk4k5k5k5ppppK8K8K9K7K6K6k5k4j7j8J2J2J3J3J4J3M9N0J9J9K9K9k2k2
+24619B04l8l8qqk2k2k3k2qql8l9OOL7L6N8N8PPK5K4m6m7m9m8p7k6K1K1K4K4qrK2K1O2O1K1
+24597A61l0n3k2j2j2onl4l6j5j5J5J5K7K7K7K7kll3l2K1K2qqm5m6OOQL9M9jn3n4J3J3N0N2
+24576E3K9k2n6n6J2J1j1j0j1j1nnl5l5K4K3oprrK1K1J0J0J0J0RJ0RJ0qqK3K2K0J9K0K0k5k5
+24554D2k4k4J6J7M4M5jn2m0rj0rqqJ8J8j2j1j0j0K0J9RQRRk2k3k1k2j8j8L1L1Rk1l3J7N9O0
+24532G5pql5l4llpK3L7j4m0j0l1l1jjjjJ2J1J2J1LLKLJ2J2llk6k7MMJ6J5j3j4K3N2M0k1n1
+24508a5n1noJ0J0k1k1j%j%L9L9N3N4K2K2k8k8j8j8J2J2LLk7k7j6j7kkLLLLJ3J1RRj3p2m1j1
+24484a08POL8L9L2L3L3L3PPm4m3lkL0L0K1N3K0m0p2m2qK2K3K4nmk2k2k2k1j3j3J8J6rj1j0
+24463b2j0%%M9N1jkj6j7kkK8K8k8k8KLrql8l9%j%jl1l1K0K0L8L7L7L8QQm3m2k9k9KJJ1J0J0
+24438b8J0j5j5%JqqK3K3mlmm%%L0K9M1M1k9l0k4k4K7K7mnmmk0j9J0M1L9j2n2n1k0k0k1k0R
+24415i7RQRQRQRJ2J2J1RJ6j5k4K3L0L0KKk8k9%%Kk7j0L9N4K4k6k7l5l4J5J5L0L1J%l8l7J2
+24392CJ3k1k2QRj%k1J0K6k3m4m4k1k2L0K9K8K7llj3j3j3j3L0L0%%QRk0L0K4K5K8K9oon7n5
+24369b5rqL9L8mn4m2j1l4lL1L2K5K5k6k6k1k2PP7P4K5Lk7m0l9m2m2PQL8L8j1j0j0j1j7j7J3
+24348g1J3M3M2J3J2k6k6NMk7k8K2K2k3k3QPK7K5K7K7poooJ0J1j9k0L1L2L1L1j3j4j4j3k4k4
+24326E3k4k3J2J2M3M3j8j8j8j8j6j5J4J5MLLLL0L0%jpoppRQk1k2k3k2k1k2L1L3j9j8oppoK3
+24302cK2K2K3J%J%nol5l5j4j3j4j3QRL9L8mmRO9N7ml5l5J1M0J2n0o4lj0j1j2j4j3j3J8J8j2
+24279b5m1k5L6N1M9l0k9l1l0K2K3J9J8J0n0j7j6kkkjj2j1J9J9pqpqL5L5MMM8M9J2m9l7l5j0
+24257c2j1K9K8K9K9J3J4j8j7m0l9J1RLLLLj6j5j6j7RRQRnmK5K6j2j2m2m2J0J0J0J0J9J9j0
+24235a0j1j9j8J2J1NNj1j1k1k2K9K8jkjkL1L0J5J6LLk4k4KN3M2J1k7k6k9K2M9J9l1l2j0j0
+24213D4K1K1j6j6l1l0j4j3j4j4K2K2PPk1k1RJ0j4j3ON7O2L2j8j9l1l2j0L9L0jj0j1lmllj3
+24192A4j3J7J8K6K6k4k5j9j9j6j7K5N4L6j4k2k2k5k5llM7M7M0L9k8k9J2O3K1j0j5j5m7p6m8
+24172c0K1L0L1jjlll2o1l0L0N1K2J2J3L6L7K1K2j7j7Mk6n3Qj0m0lK8QQl9l9l9m0J4J4J3J4
+24150d7m0l9m0l9M5M6M6M6K6K6k4k3j1j1LKOk4k8L2P5M5J2J2K5l5m8j8J3J4k3L9L2k8m0m0
+24130a3nnQRpl7k3L7K1K1M0M0J7J7j3m4l6K6N4K5rl9n4n3n7n8m0K0K7K7P8P8K0m0m0K0QRj8
+24109A1j7lljjOL4K5l7k8KL0L2l3l2l2l3rqK2K1J2J2J2J2k3k2RJ0M1P3N4Mk3k2k6k6K3K3r
+24087H0rn1p9m4PJ7j4k4k5PPL7L8j1j1J9K0K7K6K7K7llllj9j8m8m8l0l0M2P1N6Pl4l3LMML
+24064a1%jj%j2j2j0j1L5O5M8lj8J3Rk1l6l5ppk4k4K6K7kkkkK5K5nnPOk4k3k5k5k5k5JJL1L1
+24040d8%%L1L0L7L8l4l3lmllMMk6k7k1k1J0R%%N1M9J6J5J5J5j2j3m3m2MMLLL0L0L0L0j9j9
+24016H7j9k0J8J8j3j3n0n0k0k1L1L1J%K0J9J9K0mmn3n4KLN2N3N2N2J5m5l9l8j2j2RJ0RJ0k8
+23995C6k8k7k9j4j4J6J6rj0M2M0%%%%k3k3K7K6K2K1k9k9m5m6j6j6j6j6pK3Qn3mK7M0M0P1P2
+23973G3J6J5j5j5J6J7J6J7QQRQPPm3m4r1r1m0m1ooK4K4k8k9NO6N5nKKL6L5L5j6m1m1j3j4K0
+23951e8K1l1l0J0J0RJ0nnn5n6J8J8K9N8M3pk8k7%%%JK9L0k1k1kkK8K9k5k5k4k5k7k6MLM9M9
+23928e2k3k2J6J5j4j5l5l6nnP4P4M0M1k5n4l6J4N0N0L4j7m8j7K3k7q4n5J5J6K1K1K1K1mnm
+23908c7nppK3K3k2k3K9K7L7L8L8L8K6K6K7K6k8k7n8n7j0j0rj0LKk8k7J5J6j4j5QQL6L7Lk7
+23886F5qM3M1M2k7k6o0n9j8L1J8j1rK2J0J0j9j8KKk9k7RJ0QJ0k1k2k2k2N3N2KKK3K3qpm0l9
+23864a4m0m0pqK3K3J6J7l5l4k2k1k2k2J1J1M2M1J7J7J6J7M0M1J9l2q5q6m9KL2Kk6MN2N1KK
+23843d5%jjjL0K8jj%%k9l0mmJ7j4nM6J4J2j4m6J1O1N5Nj4j4j4j4j4j3j1j2j1j2QQL8L8jjk
+23819D2jj1j0j1rLMMMn1n1k2k1RJ0RJ0j2j2j2j2K6K6nmk0k0L0L0M5M4M5M5RQm2m3j8j7J1J2
+23796B2nmnmqrn9o0M0L9RJ0NNONNNMNONL6L6ONONl2l2l3l1MLol7k1L0O9P1K6K7k4k4l6l6l6
+23770gl6k5k5K5K5LMk8k7lkK7K8K0K0j1j0L4L5NNMNMMk0j9J0J1POOPk9k8k8k8K0J8K0K0qr
+23747C0qq%jj%J8J8J8J8MMk7k6m0m0j0j1K4K4K3K4j9j9j9k0K1K0K0K0J2J2l9l8jjj%QQL5L6
+23723F8J4l7qqk9l0Jm9m0J1M7J7J0Rm3m3j9j9J2J1K4K4M9M9K8m4n3n4j8j8L2L3L8L8L6L5J3
+23703H7l8l9J3K0K1opJ6J6J6J6l5l4nok0m9l1K0L3L2L6j4l7oNPqM3O0K9Pk4n9n9k1k1k1k2
+23681h5J4J3M4M3k1j9J0J0M5M5J4J5j1j0m1m1j9j7J1J1QPQPOOk5n4pM2J3J4lll2l3k8k9k8
+23660a20k9K2K1K1K1N0M9N0N0K3K3m9m8l8l9J2J3RJ0k1k0jjl1l1PPPPj7j8L3L3K2K3qqnnn
+23638A9oKKJK%Jk9l0mlM7P8O9J8o2o3j4j5J6J6NMNMpponKL2J4l8o2o3j6j6jjjjM4M4ooj6j6
+23612f9j5j6J1J0J1J1mmmmL6L6MNk0k1k0k1J0J1pK4NOj0K0M3M3J2j8J4J3qn9n2k3RL9O5L5
+23590I8j6j7j4j4j4j4mnn2n3j9J2M6M5RQll4k2PrrL7O6L5Nll5j8j8k9k8K2K2PPOPonooKKm6
+23565e6m6k9K1K2K3lllkK6K7J6j5JL1J3J3kkJ5j5k7k7l0l0j6j6N2N3Nk6k8LJ6j4j2J9L5L4
+23543B3j3j3jj%jk0k0J0J0K7K8kkJ2J3J2J3j2j2j2j2KKKKj6j5m2m3k7K4M7M5L6L6OOj7j6j7
+23521D2j6n1n2j1L9M9J8l1l2MNNNrrK2K2l5l5L6L4J0J0RJ0J1J2j9j9J1J1Jl0k2K6M8M8k8k8
+23499F1n8n7l2l3N8N9M3M5J4J4j3j3j3j3qql9l8J2J1j9j9l7l8J3J4pol5J6K6K5K9K9j1j1j1
+23478e0j1L4L2MLj0rL9M1K9K8jkrrj0rm4m4n7k8LN4M3J5RRQQm8m7m7m8j1j1L9M0K8K8lkk1
+23455c7k1k1k1L6L5L5L5%%%%%JL1L0J2J1J1J2PQk3k3k3k2k2k3m5m5j6j5j6j5L5L6J6J6J6J6
+23434A1LMMMJ1J2J1J2k0j9j9j8j1j0K0J9J7J7j3j3lmmlm6m6MMkkjkL4L5L3L4lmPL7Jn0j9k0
+23409Bjj%%k6k6NNl8l7j6L6N1N1N2N2Mm7l6nLLL5L5L4L4Lk7k0L1M7J7LMl0k9l9l9l8J4J1J0
+23386H7j6j7jjjjl5l5l5l5l1l1M0P1M6lk1RN0K0RJ0k9k9k8k9K8K7k2k2j2j1j1j2L6L5l4l5
+23365f9k6k7MLLLN3N3K6K7K3K4on7m4j5JJL2L3k0k0j9k0L7L7L5j6l4l4J2J2J7J8j4j3LLLL
+23343C2QPk3k2NOk3n5j2L9RQooooK7K6K7K7l4l3l4l4j5j4L6L6J1J1J0J2JJL1L1J1J1J1J0N
+23320A26Nk5k5K5K5onk8k8k8k8QQQQj0j0rj0k6k6k7k6N5N4OPKL3N0j1k4k4k7k7K2K4k7k6j0
+23298b7rm0m0K6K5K6K5klklPPm4m4K3K3K2K3j8j8j8j7L4L5L2L3l1n9j1N0O0jj4j4j2j2j2j2
+23277a2j5j5j6j5J1J1J1J1jkl2l2O1O0L1L0J1J1J1J1m2m2k5L5L0K9MLk4k3OPj8j7j8j8M2M2
+23256A01j1p3o0kJ5M4M0M0qrl6l6nnooooJ0J1RJ1k6k7LMk1k0N0N0NONOm5m4j2j2nM5M4nj4
+23232aj5J2J1j4j6j7L4K8k1J0J1J9K0j1j1k9k9KJl4l5J7M7J6l4n1k1K6K7K8K9K5K6K7K6j4
+23212H9j5m5OM5J5Kk9l9l9j1j1RQRQqrK1K2J4J4j6j6qqqoPQQQj1j2j0j1KLL2L3MMk6k6k9l0
+23187e2K0K1M1M1J2J1j9k0n0m9OOOOQQL7L8j0j0m1m0J6J5j4m5kM8O7O9RRk1k2l4l4l3l4j5
+23166e1j5J5J5K0K0K0K0j2j3j2j2%%M9N0JJk9l0k0j9k1k0k2k1k2k2M3M2J2j9j1M0P4M5J7j3
+23145A00rm0n0j9J2J2L0L1J0M1O4J4k7k7o8o8l6l8KLKKM3M2J2J2l2l1l2l2nnK6K5rrj0rK8
+23124d5K8QL7L6j6p2m3L1L2j8j7k2k1k1k1L0L1L1L1J7J7J8J7m1m0K8K9J6J6J5J6QQk2k2pp
+23103F5ppJ5J4j6j5JJKJJ6J6J6J6oppol9l9l5l6m6MM7M7K5K6K5K6k3k3k3k3j8j8j8j9NMNM
+23080e0j3j4j0j1k6K4K6K7J9J9l2l2J0RJ0Rk6k5K5K5L2L2K9L0K5k6m6j7rm0l8qrqJ2O3P8K9
+23059I3n1n0%%j%J1J2j8j8k5k4OOO9P0M7lp4p3opK8K6K7K7KJk9k9QPk3k2PPL7L8k9k9k9k9
+23036d0j8j8l6nM0L9pqJ7M5M7J6NMj5J6J2J2j6j6m4m3j4j3J3J4J3J2L3L3L2L1Kk9j1j1J7J6
+23015A25j7m7l9l8pK3K1K3K2K3j4m4k7k6J0RK5mk8l0J%K2N1K2rrrK0K0QRK5nl1l1mmJ1k0n0
+22992b3n1n9k9QL8N6N5K6K7ppppJ6J7l5l3K3K3k5k4k5OL7L7J7j3k6k6POll5k8Lj7j7M4M3q
+22970a6l9n7k7PL9O1O1L0%MMk8k8j5j6j%j3j2k8k8J3J3K9K8l5l5nmJ0J0J0J0kjl3l2J4J3K9
+22948g0K8J7J7KKoopoqqqpj6j5j6j5J9J9K0J9j9j8L2L2M2M3J3J3%jL0L0k1k1ooj4j3J6J7j4
+22925I0j4m5m4j0j0K1J9j1j2j0j1K4N4M1k0mll7l7l9m0rrPPOPk5k6K6K5L3L3n8n8k3k2K8K8
+22903a28N1N0%%N5N6Jo0q0n0l5K7N4N4N7N8rrK1K1j5j6j5j6J6J5j5j5j9j9lmnonnOPPOk0k0
+22880gL0L0PQm3m3K0K1K1K1KKk9k8poopJ2J2K8K7k7k7MLNMk6k5J0J0RJ0POOPlkjn1n3kN5N4
+22854C8L0j9n8n9l6J5L8L7PPOQj4j2j4j3J3J4kkk3k3K8K8JJj4j4l4l4lmj1j1L8L7P6M7j6o6
+22832a3k9K2K0K1MMJ9J9k2k1k2k1jjjjK9L0k1j9J6J8j4j3j6j8j8j7K7K6K6K7LMk6k6rj0rj0
+22810d3L0K9K9L0KKJKl4l5l3l4%Jk7k7j7L4L4j7j0j0j4j3K2K1K2K1M9N0M8lm3m3j6j5k9k8
+22789f4K2K2M8M9jkOONOk3k2n2n2RQL8M0j9j8m8m9l0l1K0K0K9K9K8K8L0K9L0L0rrl9m0KKL2
+22766F0L2K2K2qrn0n0j9k0j9k0K1P1O2L2j9j8j0rrj0j2j1j2j2k0k0J0J0l5l5l5l5K3K3K3K3
+22746f3J1J0k0k0k6k7K4K3M4M3J2J3%%%%J1J1J1J1k2k2k1k1j4j4j3j4PQPQJ6J6J4J6K9L0j4
+22724F4o4m2m4MMNMk5k6K8K7K8K8onnoRJ0RQl5l6l4J6L6L6RQj1j2j3j2K4K2k5k7NNL6L5k2
+22701A0k2k2k3K6K6K4K6J3J3J3J3k1k1k1k1n7n7j8L4L1JK1K1ooopJ5J4j6j6J0J0J1RJJL2L1
+22680F6L0L0k0k1qqqqk8k8KJoqpqK6K4K6K5kkl3l3k6k7MLJ3J3j8j7j9j8j8j8NMN6N6NOOOk2
+22655dk4PPO4O5L4L5k5k4k5k4l7l6J4J4K6K7k4n4j8L1M9J8NNMLj8j7j8j8k0k1k0k1K2K1K2
+22634B5K2J3J3J3J3J%%Jk5k4k4k5jk%kMMMNonK4K3J3j8l0K0L7Ok4k3rqqpK7K8klm9m7pM4L5
+22608B6L5L7L7K0j1k4k3K6K6Mm6m5m5l4mk4k4rK2LLj2J8K3K2K5K5k1k1J0J0K0K1K0K1l1l0
+22588E0m8j6KKK2qk1Rj1j0k8k7j3J6L0L0j8j9M0L9L9L8M6J5k0n0o5l4mlk6k6OL6L7Pk4k4J8
+22566a3J8j0j1k6k5j2J8J6J5J8J6k0k2K9K8llllL5L5MNppppj2j2j4j4K3pl8m0oK3K4pj0j1
+22544d3JL1J3J4j4j4j2j3j2j3LLLMmmjkK1N1M8ll9l8j2j1L0K9%%j9k0k0k0%%%%K9L0J3J4M
+22520B7Lk6k6J6J4M7M6%Jn0n0k8k8K3K2L9M0J0J0j%j5j6J2J2RRNm6o4l5jjj5j4M1M0L8L8K9
+22498A15k2m4m4j2j2L7L8L2L2J7J6KJj4j4NMj1j1l8l8J2j8m3PM6M7j4j3j4j3L1L0J%k4k5k4
+22477B5k5j3j4j3j4OPOPopooj8j8j8j7J4J4J4J4ONrj0RRL6L6P5K5k1n1l2l1l4l4pqppM6M6
+22453b6J6J5lkl4l3k8k8K3K2RRK4K5L4L6ONqrqrKKLKQQQQRRm2m2j4j5j5j5L5L4K0K0k8k8K
+22428GKmnl4l5J0RL9L9L7L8PPk5k6k5k5j5j4%Jj7j7L4L2JKk6k6k9K1R7O8j7o8k6MK0N0L4j8
+22405A07k1k2rrllj3m2k0L0N0N0L3L2j9j8k6k6n7n5k7k6LMONOOL5L4NNklK8K8QPQQoooooo
+22380F1n3n3l2J8K0K0QQOOkl0m4QM4M4J8J7j7j7l4q7q7l8K4N4L9Qk1J0RQJ1J1jjj%K0K0O7
+22357D1O8L7j4p3m3L1L0l9l8rrrrl4l4lmK2K3K2K2k2k2k2k2MMMMj0rM1M1J3J2j9j8k3k3k3
+22335a12k2MML5L5M6M5J6J5J9J9J9J9l3l3llJJJ8j2l0l0l1l1k4k3K8N9M7J8OOK6K7J3j8LK
+22314A26j3m3l6l5ppL0L1K9K9K4oj9k0l5l6k1QJ1J1L1%jjl2l0J8N1L1L1K4pj8j9rK1MMj8j8
+22292H3LN3O3L4%l1m9n0n1n2j7j8J3J2j1j1J7J7K0j0k2k3k5k5OOMML5L4K1K0k8k7J1M1M2J1
+22271A00mmk4NL3Jk9l0L1L1JJRRk1k2j8j8j8j8j9k0j8j9OL5L5NOONMj0j0j1j0J0J1l6pnnR
+22247b3M0M3M4J1j8k1k0k1k0m4j5l0l0j4J5M9N0J9K0Pk4k4k5k6k5oK4K4ok7k7JJL8L7PPlk
+22225a4l2l1J8M8L1L1K2K2Rk2j5j6j9j9rl7m1j0J6j4m3m4ML4J8J7J4J3M2M1Rk1n3n5J5J5J5
+22205f1J5J1J1k0j9K1K0Rk1jL0J0J0NNk5k5jkjkJ7J5Nk5n6k7K6K6NONNk8k8LKJ3J3M4M3K3
+22182E6K2k4k5l3J6L5NJ%kkL8L7j3m4n4lJ8J7j2j2J8J8mmnml4l4J7J5L4L3j8j7JJKJMMMMl0
+22157B7k8k9k9K4K4K2K4l3l2llL6L6OOJ9J9M9M9k7k8n8n7m0m1L0L1%%j%k0k0L0K9j9j9k0k0
+22136f6k6k6MMK5K4K5K4poppnoK3k8ppj0j0K4K4K2K1ll5j8L3M1J2kkj7o7n7k6j%JKJ1J1J1
+22112a04J1j6j6J5J4opppN6N5j5j5J7J7J6J7NNNMj8j8j6j8JKKJK7K9kllml2o3o0JJ5J6J1J1
+22088g7J1J1K4K4poK2K2K3K3k0k0k1j9j7j8J4J3LMLMJ6J6J7J6j6j6j7j5LKLLj1j1n9n8PO8
+22066e6N1J9j6j7j9j8k4k3K7K8onK5K4j2j2j2j2L2L2L3L3%Jjjl9o8n8MN7K6llM0M1rrj9j8
+22044A3j8j8J7J5j3j4k2k3n3n3K8K7K8K7j1j2J9J9J5J5J4J5M4M4k7k7ONKKQn3n2QlkJ1M0K1
+22022D2m0l7K3K1K2k5k4l1l0K0J9N1N2JJj9j8J2J2j3j4j4j3m3m2j2j3MML4L4K7K7k2k2j2j1
+22002d9N8O0PPk3k4jkkkllmlj8j9j7j7J5M4J6m4m5J7K5mj9j9J0RMMMM%%L1K9rj0l8m0m5m4
+21977a60OOQRRQJ1J0pK4J2J3M2M2jl2j4j5J7J5j4m6n2k1J4M4L3L4L3L4j3m4k3k5j0K0KLon
+21955c9onJ7J7L4Lk1k3MLL2Jl0l2%J%%j3j4j4j3J7J6l1l2nK6K6nJ0J0K6ll3lQRj4j3j3j4M3
+21932g3M4Rk1j6j6l7pP0L9j2j2k2k3RQNMNMJ1J0J0J0RJ0J0J0J%K0j1m0rj1m0k7Lj6j5LLk7
+21908a28k7J1J0J1J1L2L1L2L0OOOOm0m0j9L3N0N1MMl2l2J9J9K3K3m8p7o2j2K6nj4j4L4L5K0
+21887a7J9K0K0J2J3j9j8k7k6k7k7l1l0%%M0M0l0l1M0M0L9M0k5k3NNmnonjklll1o1m2RK5K4
+21865a03K8K8M6M6M6M7j7j7o7o6J4J4K4N5L0k1m2m1j9j9L0L0NNm3p5n2J8O9O7K6K7nml4l4
+21845dl4l5mlOL7K2k9j8J2J2j9%%JJJJm6m6K4K5KLKKK4K4poJ2J2J2J2NONOk4k6OL6J0k0j8
+21820a8J2J4J5kK9K1rRJ0j4j5Lk8l9m1qK1L1L0jl0j1j0m3m3k2k3K7K6%l0j1j1J7M8L1L1j9
+21799e3j9J1J1K7K5J5j5j2J6K6K7ml4j8j6NOMOqorj0l3o4m5OQ4Q4L4Lj8j9J1J0l1l3m9k0K
+21777a03KKJJ7j5m4j4J2J2J3J4K8K9K8K7PQk3k2j3j2j3j3poK3K4j%K9K9qqpqNNNNlkljK6K6
+21752E1K7K7m2m2j1j1J7J8k9k9m4PO5O6O0J0j3j3k5k5k5k5L6L7L3L4K1l0m9j9jjl0k9n4n4
+21732i2J6J7M1M0M1M1J7J6j4j4poK0K1qn9q8l9j1j2rqllK7K8rqK2K2J7J5J7J6l5l4mnJKJJ
+21709b9J5J4J4J4m8m8JKjjL0N9K5k6k5k5rqqqk6k6k5k6J5J6M6M6L5L5NNl2l1l7K3J5j6L4O5
+21687E9N3qm3m2k4k4K6K6J3J3J3J3llK8K7ool6l7l5l5l5l5K0K1J7J6K2l9l9K2L7L6L7L7L9
+21666A25k3j9j8L2L3KKj1j0K0K0J2J2l8l8k1k1L0L0k3k4n4n3n2n3K3Q3P9M9K0J9j5j5j6j5
+21647G2k9k9k8k9K1K2j0rJ0RJ1J2j1J9L9k3qK2K1j0k1RJ0k1l2jRJ0j8j7j8j9j2j3j2j3lll
+21625i6mL8L7j4j4l5l6kkk4K7P0O9L7L7PPjjl2l2l9m1L0L0J8J7j2j3J7J6J7J6nnonj1j1j1
+21603C8j1k2k1QQK6K6K7K6k7k6LMonn3n3j8L3L5L3K2K2K2K2L2L3J0m0l4l3pok6k6k5k6onJ5
+21581c1j5k8K2M3M2J2J3l7l7LLLLj9j9J2J1RJ0j8j8j3L8RQPOm3m4j3j3L7L8K2K3ppJ3J3J3
+21559E1J3l9l8l8l9lkPL8L2j8j9j9nmnnJ4J5j7j6M1M1J1RJJ%JKLL3L3K6K6nnMLMMl3l2jkj9
+21534D9j8j9j8J0J1J2J1j5j5m4m6pqqqK2K1N2N1MLMLj2j2j3j1J7J8J8J7j1j2j2j2j3j2m3m3
+21512h9llmlMMMNRJ0J0J0J1J2j9j9J8J8J8J6j6j7J3J2kkkkkkK5K7ll3k2L6M5j7m4j3LL2M8
+21488G3M8rrl9l9RRJ0Rn1n0n7MJ5j6j2J9J5J4J7J6K3K1K2K2j3j4m3m4rrrrqrqqQQL8L8qrq
+21464e2qL1L1j8k0%%L0L0l5l5mnJ9J8J8J8J4J5j6j6oooom8m8K3K3OOOOKKKKl8l8JN2M7mlk
+21439a2kkl0K1J4J4J8J8MMm3m3j4L6L8L8J5J5j6j5K0K1j0j0m2m1m2m2j7j7K4P5Q5N6ONl9l9
+21418E1l9l8m1m1j0j1PQJ0J1mM7O5L6j4j4j6j6qqqpL3L2Lk8k6K4K3K3ooooJ4J4J3J4m8m7j8
+21395c8j8jjl2l1K7K7llK4K4K5K3lkK7K8l8l7l9l8LLL3L3jjl2l1kkK9K9RQNOJ7l2l5J5K6l
+21372bm9n0RQ0N1j9k1PMk5j4j4J5J5pqppnonnKKKKkklknnM5M5M0M0j1j1k4k4POJ4J3nn7n9
+21346e5rj0j0LML4L4%%%%J4J5J5J5qqqqklK9K8j9j8j8j8ppppj3j3o0o1l0K1N9O0J9l1o9l8
+21322a87J5M6N0J9mK7L7L8L2L3J2l9k8JJ2J2M4M4J3J3l4l4l4l4opl6l6k0k0k0k1K1K1K1K1
+21302b8lmlmJ0RJ0J0QRl9p0p2%M8M9jjjkJ3J2J2J2K3K2K3K3k8k9k7k8L8L7j2j3J%%JQQL8L8
+21278I7RRk2k2%jl0l1j5j6j5j6K8K8K8K8NOk5k5PPk3k2m5m4m3QN2N2N4N5RRk1k1j1j0M1M0
+21255A14J0J0J0J1l2l1l1l1J0J1k0k0j3j3J6J7j9k0k0k0K0K0K0J9lkllPQPPJKJKj4j5mK6L9
+21233G4j3l3l1LKL4L4l8l7l8l8QPL9L7NNNNL7L6j5j4k7k8n6n8QQQQpppoJ6J6J6J6J6J5J6J6
+21209C7qrqqJ1J2J1J2j9j8J2J1J9J9l1l2j1j1L5L6k1p0n9l0K0J9j0rQQL9L8k3k3k4k3OPL6
+21187e1L7J9K0l0l0j9j8j8j8k4k5k4k4K0K1K0K1j0j0K0K1K6K6K6K5kkllLKo5o5k6L5N1N1M7
+21166B4M7k4k3n9o0j0rJ1J0J1J1RQRRpoK4K4j9j9J1J2J3J3J4J4k2k2k0k1j7J4L2k8l4lOOK6
+21144d5K5mnJ7J5J7J7j%K8K8j6m6l5K5K8kj1j2J2J2j8m7l4K7M0M1K1K1J7J8K5l5m9j8RJ0Q
+21123H3QJ1n0l3kj1j1K0K2K8K9K9K8K8K8k3k4n6n6n5n6klK5K4M5j5l0l1l5l6JO2O4O4J8J7
+21103A05OOk4k5PPk4k4K4K5K4K4k4k4k4k4k6k6MMMNm5m4m7j6M1J01Q3K4rrMMMMj9k0J1J1q
+21080G0rl5l4j2M8L1Jl9l8j1j1L8L6L7L8k2k2RQk1k1k2k0PQOOj3m2o1%K8K7JJj0j0j0j0L3
+21058d0L4J1M3L6k6n7k6k1k2L2L1K3K4ook1k0k1k1JKKKj7j7J3J4%JJJQRm2m2L2L1JJK6K6K5
+21035B5K6k5k4k3k4J4J5J4J4lkK8K8j0j0j1j0POPOj3j3J8J7%J%%j5j5j4j4l4l4lmM5M3J5J4
+21012D2jjl1l0j0rK0K0LLm4m4j4M6M7j4j9j9n6MK7K7L1L0K0K1j1j0j0rrj0J6J7l3l4J2J2J1
+20991iJ1L3L3LKL7L6L3L3k7q8n7Lk1k2j6j8L1L1jk%l0j9M0N4K5onk5k5k5k3j2j3J9J8l4l4
+20969g0l0l1k3L7M2k0j2M9J1J1J7J6J6J7j9j8J1J2k0k1K8K9LLKLj7j7j6j7j3j3j4j3KJN2N1
+20948B9M1M1M1M1nnl6l5n0n0j8k0M4M5nol4l3mmj9j8J2J2LKLLj0j0j0j0J8J9j2j2L3L2L3L4
+20926H0k2k2k1k1jjl2l2k2k2K9K9K9K9O3Kj7j7RRm3m2j2j2L7L6L7L7ooK4K5NNNNL1L1j0o0
+20904A36l1jk1k2m5m5K5K4LMLMJ5J6J6J5nnpopl6m7KK2K2ppj2m1n4lM2M1k6k6K9L0K9K9j3
+20881D0j2m2m3jjM9M8j5j6j5j6PPPOk3k3PPlklkJ7J8J7J7k0j9k1k0J7J6J6J6J9J9j2j1l8m0
+20859d8J1J2JKKKj6j6m7m6k5k6NNK8K8llMMMML3L4L4L2P4P4KLl9l9l9l9m1m2K9K9M1M2J0R
+20835H9j3m4n5nL1L2NMj3j3J8J7%%J%mlmlj1j0K0K1n4n2lkj0rrj0K5K5K5K4l3l3J7J6M4M5
+20812F6mmk9KJ3l7m9n0kkM2M1J9l1n2n2MN5Om5j3j3l3l3J7J8L5L5MMK4K3N3N4J9J8j1j2no
+20790F9noRRRRMLk7k7mmJ7j4m2Rml4lmnnL8L6L8L8j4j3j4j3k2k1j8j9K5N5O7J7l0k9l3l3j4
+20766ej5J6J5M5M4onl8l7l6l7k6k6M4M5O0O2J9l2l5l6J2J2mmmmK5K6m5m4n0n0K1K2j0j0j0
+20745a01rM9N0k0j9j7J4L6l5p3p4LN4P3M2Rk2j7j7J1J2M0L9RJ0rj0rrm4m6j8j7L1%j3L7M6
+20724a4J4K1qk0k2k3k2J1J1Jk9l4J7N4K3JJjjk4k5k4k5l6l5k7M4L4MQL8K8K7KKrM0M4pm5j6
+20702b2onOPk4k4J3J3J3J2KKKK%%%%PNL8L7j3j2j3j3ooopprJ9K0ql6j9L2ONRJ0MNm5m5KKK
+20674e1Lm9m9j8j9M0M0M0M0J1J2M0M2j8j9k0k0ml3m5NL3L3ONJ8J9j1j2mml0l1J6O6L7j4j6
+20653C9j5j9j7j8j8k1k0J5j5k8K4L7L7j1j1k6k6k4K7K9K9LKkjl2l2QQL9O8Q1K9Pk4nmooj7
+20631H4j6j7j6l5l6noJ1J0J0J1ooooj0j0j0j1k1k0K9L0O1O2K8l4m4j4mlj1j1j1j1MMMMLLL2
+20608A0L4l6l5J5J4J4J5J4J4m8m7KLqrqqj9j8j9j9N3N3N2N3kjl2l2oqppK5K7K7K6rj0rj0l2
+20585A2l1lkPPPOlml4l5j1j2J9J9j0j0j0j0j3j3J8J8K5K6K5K4RQk2k1K5K7k3k3j5j5j5j5K7
+20563d1K7K6K8j6j6j5j6k0j9k0j9k2k3qK1K0K0K2K2ooK3K2L3MK0K1pqK2K1L7Pk7k7ppj8m8
+20541@l7pM5M5NNNNj9k0%l1n1k2J2J2K0M9O1J1LL%%l9m0k7KK1rJ0J0ooj5m7n6nonrj0K0J9
+20517a04K1rQQlmjjJ0M1M1J0k7k8K1J9K0K0K0K0opooJJKJk0k1k0j9l6l7n3k3K6K6K8K8LLN
+20493d8NK2N2K2qj0j0j2j2%%J%k9l0J%J6J5J6J4J7J8J7J7K5K5K1K2Rm2m3m4m4m2m3m4J8J8
+20472i0J8J8pqppK5K6K6K4JJKJJ7J6J7J7mll5l4l3l4mmJ3J3J3J3j1j1j1j1%jL0K9KJKKqqK1
+20447A7K2j2j2m1m2k0k0L0O1L6j4l1%J3J3J4J4k6k6LLk2k3k3k3KKKKK6K6K6K5K6K6K3K3Om5
+20425F1m5OJ1J1n5n7k8k7M3M4J8J8j3j2k2k2QQrrj1j1L6OK1P0O2qj7j6j6j6m6m6j7j7j6j7
+20404a30j5j4L6L6K4K5ooj0j0j0j1L7L6L5L6j2j2j2j3J0Rk1k0n1n2J9J9L1L1K9L1j5j6j4j5
+20384b1L5L6mn4m3j2kkK3K3pqL0K8L0L0K1K2K2K2m5m6j5j5J1J0J1J1l8l7l7l8J9J9J9J7KK
+20363A9k8k9J6J7J5J6k6k4k6k5L6L7NON1N1J%l1l1l1l0J0J0QQk4n2l5J6K5K5jkl8l7L4L3N
+20342b6Mk5k6L0L1%%K6K8K7K8l3l3l1l3K2K2K2K3ppk7MQm1q0n0KKL4L5L0L0k1k0ooK4N4N3
+20319F7JKKrqrrJ7J7J7J7KJk9k9LLOPnM7M6mk2k1k4k5m2m0j1j2jkkjMML4L4L2L2JKk3k3k3
+20294B4k3m6m8K4K4L3L1L3L3K5K6m5m5KKKLj6j6j6j4J6J7J7J8J1J2J2J2MMNMl5l4l4l4POO
+20272GPk6k7K3K3L9L9j1j1j1j0m1m0MMMMJ1J1j9j9K0K0K0K1lklkK5K4K5K5k7k7M5M4opool4
+20249A07l5mlJKKKlklkj7j6J4M4qn8n6nO5O6M0L9k0j9k0j9m5m5m0m2m9JK7N7M5M6M8M9l5l4
+20226G5l5l5lkK5K7K0J9K0J9NONOj7j6m7p6l3J9J8J8J1J1M2M1L4L4j7j7J1J1m0m0k5k5k5k5
+20205aj8j8J2J2P2P2KKMLMLj3j4o4o3rrK1K0L7L7K4l7o2jJ1J2k2k1k2k2ONL6L5M2M2M1M2m8
+20182A53m8m8m8rrj0j0K1K0K1K1j1j0J9K0MMk6k6k8k6K3K2K0K0n1n0qqpqJ9J9J8J8l2l3J8
+20161d6J8L8M0j6p5o6l6k1RL4O4N2q%%mmnnnnKLKLj9j8j8j9K7K6kkj3J7L5k5m9j8J1J1L9L8
+20138a0L8L9j2j1j0rnK6K5mk7k7k6k7l4lJ0J1K8K7K7K8MMMLj5j6m7p8l2kK7mRJ0K1N1N7N9
+20115A09RJ0J5J6l4lkl2j4j4j7j7j8j6QOONL9Qk6k5j0rk9Jjl3j1j1J7M6K9L0J4J4Lk8l0Jj6
+20093a0j6ML4J6J6Lk7k7MQQj8k0j8j8l6nPPRRM4M3J4J4j1j0j0j1j6j7J3J3LLMLJ5J4J3J2J2
+20070G5j8l0k9j0K0pl7l8qKKKk8m0J0J8J9K1K2MMk7k6LMLMJ6J7J7J7kkK7K8K7K6mmJ1J0j8
+20046H1m9l3L7N7OJL2J2J1j7j8j8j8JKl0k9k1k0RRK3K3K4K3J6J6J6J7m3m2m2m1lklkK2K3K4
+20024E4K3M2M2J2J1o7o7l6l6l2l3k9k9j2L9K8lLLk9k9%J%JK3K2K3K3J7J7J7J6l1l2kjm6m5
+20003a42NNJ9J9M9M8J8J9l2l1K1K1rrrj0rj0j6j6L5L4k6k7J3O3O8L8Lk9k6n6n6k6jL0M1M2
+19982E1Rm2o0l0K4K4mnK6K4J6j5m4NK6K6k6k5k6k6M0M0RJ0J4J5J4J4m3m3m3m4K7K6K7K6LL
+19961B3L3L4K2K3qql5l4nmj4j4j3j3OOL6L7M5M5k6k6m4m5POj3j3m3m3OPPPK1K0K0K1k0k0n0
+19938e9n1KLKLPPN7N7L8L9QQl7l7l7l6J4J4J4J4J2J2J3J2MNk6k6K5K6nmk5k4k4k3j1j1l7l7
+19915a14J4P4J04P4ko2l0l0j0j0K0K1j1j1j1j1k7k8K3K2L5L5j5j6n8n9k8k9L9L9L8L8LLKL
+19895B5ooooJ7J7J7J7J6J6J6J5j8j9j9j9o3o3j3j2j2j1j0rM3P4M1j8KL4jl2j8k0RRJ9K0J9
+19874D5K0k8k9KKL0K9k2k1J1J0k0j9QRRQllK8K7l3l2l2l3qpqqPPPPrrK2K2K9L0m1m0m4m3P
+19850a16PP6P4NNn9n9rqL8L8j2j3LMk7k8noK5K5%%L0K9OOk4k3klK8K8J9J8J9J9POm4m4NOm5
+19825am5KJKJJ1J1J8m1n8MJ5J6J2J1k3L9M9N1j7j6l7l5lkj1M8N0j1n6n6l0l1MMNMJ5J5J6J5
+19803e4klK8K8L8M0j2j1l5l5l5l5J9K0K0K0rqqrJ5J5J3J5j%%%J4J4J5J4j6j5J4J5j7j7j9j8
+19780bOk2n4k3K0J9rqJ4J4J4J4K9K9k0k1RRl8m0k3PrqpK5K4ok6k5k7k7mnklJ5M6mmKk8j2j1
+19756a72J8J8J5J6Ok4qpKJKJk8k9OL5M0M0J2J1J3J2oK4N0K0Nk4l2l1mlJJj2m3l4l4mml9rK3
+19732a75pjL0M1M1L4L3L1L2j6m4n9n9m9m9NL6L8L8L9M0OPONPPPPJJJJj4j3J6J7J3J4l7l6j9
+19709b4j9k8n9m3K8P4P3N4Lj9k0k9l1M0P2L5No6o5K1N3L3L4K4pk1n2m9j8pK3j6m8j7J3kl3
+19689h8j2j2J1M2M1J2qqj1j2J5j6JKJ6J6j5j4k7k7OL7N8N9J1J0j3j3k4n3l7pk4k3K8N9L8M0
+19668E8P7M6ql9l3lJ1J0j7J4J4j7j9j8k1k0J2J3j8j8nml4l5NONNJ5J5l4l4k2RK2K2J%JJJ8
+19645a9J8l4o4k2Rk7MO5O6L2Mj9j7QJ0m0m2m1m1poK4K5M1M1P5J4kkpo%j%jj4j5J6J6k4k3O
+19622@OmkK5K7J2J2l9l7j1j1j1j1J4J5l7l6kkkkK8K7K8K7MNMNj2j1j1j1m1m1j0j0K2K3K2K3
+19599b5L2L3j8j7o0o1o4mN5N5N9N8K1K0k9l0JJJJj3j3j2j3rrK2K0RRQRk3k2M3M5N5njkk3k4
+19576H0k4k3l6l7poL2L0KJNNL6L6k5k5NOrrJ9K0ql8n0%L1Km7m9j3j4N4N4k1p3m4m4kkM6M6
+19553i6K3qk0L1M0L9qpJ4J5J5J6LLk9l0J3j7k9K1L4L6j3j2mmlmlll2l3onK5K5k1k1k1k1KK
+19529i3L3L2L2L2L3L3k9k9k8k8mmmlLMk6k7k9k9K2K2J4J5J4J4j0j0j0j0J3J3J3J3J1J1J1J2
+19508B7K1K1rj0m4m4m5m5J2J1J2J1J2J2J1J2ONk4k5J8J7J7J7JJj0m0k3K6M7M6RRk1k2opoo
+19486fl9l9J2M2K6k4j3J8L8Rlkj9k0L0L1m6m7K4K4JKJJ%J%%k5k6MMj6j5J4J5K8K7k1k3noK5
+19463a8K4J8J7J8J8RRRRlln1n0j0L9M0j1j2j3j6j5J0J0J0J0LLk8k6k4k4k3k4j6j6N5N5k1k1
+19441e9n2n1K5K6K5K6M9M9M9N0POk3k4m9m8m5MJ5J5J8J8POk4k3k2k2RQKKKKqrnoRN8M2k9m0
+19417a0j1jkJ1J1J0J1LML3L4qqqqJ9K0j2j1j8j9j9j8j9k0L0L0j7j7j7j8l2l3J8J8P4P6M4M5
+19396A65j5j4j5j5j8j9j8j9J9K0j1j2lmK7K7K8K9K8K8OOk5k4k4k4OOj1j1j0j1l2l1kjJ7J6
+19375E9j3j4l2l1l2l2NNL6L6j7j7m5m4kM8N0M9J0J1J0J0J2J2J2J2k9k9k9k8rqqqPQN5N6Qk2
+19353F2l5l4j6j5j6j5K3K4K3K4L1L1kjLk8n9n9o7l6J7J8K3K3P0P0L0k1m2m0j6J5mmj6m7j6
+19332a02J4klj9J1pl7j8j8J6J6M7M7POj0K0K3K2K4K5mlmmj8j9RJ0Kk9rM0M3M4L3Lj6j6l4m
+19309H6J4J5Lk7k9l0l0k9kK8K6kJ0J0QQL6L7j4j4j0rJ0k1n1k0J2J1j9j9J2J2k0RK3K2j3j4
+19288A9J7J7J1J2Jl0o7j8O3O3klK6K6ml4l4mKKJ9j1n1q1n3k3j7j7N4N4N2K0QRK3K4J0k0o0
+19267Cn9l9J1N0M9K3K2L0L0ll4l2l1n0k0QQK9jk1Rj0rK2K1Qk0k3k2OOKLKKJ0RK0N2N0J9QQ
+19243A46j5j4m3m3l4mPRL4L5n5n3l8oM5M4K4ol9m0J0J0J1J0J9J9L7Oj9j9RRK0J9J8J8J1j9
+19222A23k1Rk6n6k4PJJLLL0L0jjj8j8j8j9k5k5k6k6m2m1j2j1%%P1P1KKJKnmnnK6K5N5N6M6
+19198A35M7nmk6k6n6q6p2k2K2N3N8N9J0J0JKJJm1m0m0m1K3K2qqj6j6ON7M5M6M9N0JJJJm2m2
+19176A10m2m2j9j8j9j9K7K6k3k3NNONJ5J4nK5L1k0l9pPk3k1RlmkkKKL3L1K9L0jjj5j5j5j5
+19152A9%j%%MMNMJ6J7ln3rM2K7lm7m6m8m9mlmmk3k2QPL3L2KKL1L1k0k0m4m4pN3K8K8JKK2K2
+19127a4qqk7k6k3k2oN4Q5K4PQMLn1n2J9J9J3J2J3J3K7K6k4k5kkl2l2j4j4j5j4N2N2L5k5k0
+19105A0k0k5k4klkkJ4J4L8L7N3n0r6l7mmL0L0K7K7K8K8k7k6l0L0PQJ1J1J1J2M9j2k7L3K5K6
+19084A68k1k0k1k0J1J2J1J1k8k9k8k9J8J7j3j3jkjkqqK3K2k2k2j9k0J7M6j1o0n0j9L1L2NN
+19063c8ol6m5j5J7J7L0L1%%K1K0K0K0j0j1j0j0J0J0K7lqrj0j1rj1Pk4k6k5j4J7L7L6Pk3nK5
+19041gK3pooK1K3mmK7K7j6j7j6j6J3J2J3J3nnonL0L0K7K8J0k1lmJ2J2j8j9k2k3k2k3noK4K5
+19018H4k1k0rK1ml5j6j4J2J2l5l6jK9J0J1J3j6m6j7j1j1LL5L1L1L2L2QQQQj0j0j0j0k9k9k9
+18996c1l0nonoJ3J2%N0M0M2K4k6l1jK9K9l3l3l3l3k1k1j9j9J4M5N5Nk1k1k4k4KLKLK6K7J1
+18974a1J1K0K1j0rk0j8J1J0k2k2k3k2j0rM1M1K7K9jkRQopl5l3nmjjJ9j1K1P0N8K8qpj0rn0
+18951E8n1j9j9K9K8J4J3J1J1m0l9K3K4J9M9P1K1k0k0l1l1l1l1J2J1j8j9k0k0J1RQRo2o2J1
+18931i1J2J6J5K2Q1O7Pl2l2onk4k3k3k3lkkkpoppj6j6L4L4L9L9M0L9K0K0m7m8n7LK0K0l9l8
+18908b8l9l8L5L5O4O6J7J7KLonnnlklkj1j0j0j0KKJKk0k0k0j9MLJ8J8POL7L6L6L6l5l5k7k7
+18884F7k7k7l1l2L9L8J8J8j3j2l6l4nnK1K1MOJ0Rk0k0l9l8L2L2L2L3LLL5L6NNo6o6l6l6rq
+18862i3K1K2PPPQJKj3j4J6J6M6M6KKj1j1J5M5K6k4l9l9j2j1nmj9k0K9L1L1L0k7k6MLllj8j8
+18838Gl4l6noJ6J6j4j5l5l6L5L6N3N2J00J01M3po9p0l6l5nnj2j2j2j2j7j9j8j9RRopJ0J0k1
+18817f6k0K2K2P2P3j4j5m5m4m2m3K9K8K6K6J1J1K5K6nnJ0J0k1k0m8m8K3K2L3L4j8m7m9%J8
+18797b9j3j3j3L6L5K1K1rl9n7pJ3J4J6J7j2j3j6J4J4j7j1j1J7J7QQk3k3L1L0K0j1j2J7M7J5
+18776H2o1o0m8j8K3N3N5K5jjl3l2qqJ1k0l9rKKJ5J4J5J4l0l0M0M1JJ%JOPPPj0j1j0j0OPj2
+18753a6J7M0RkkJ4J3K9K9lkl3l3kkmmJ6j5k8k7kkJ5j2k5ON5N6L8Oopjjml%l1m2m1pK1L6L6
+18728G9rj0qp%L0L1%l3l3k1Rmnj8j6l2l2L9M0N9N9J0Rk3k3k3k3m0m0rj0m9m8k7K4K4K5K7K7
+18706e1JJL1L1J5J5j5j5j0j0J9K0J3J4J3J4j6j6j6j6J6J6j5j5k9l1%%K6K5K5K6k3k3k1K6M9
+18685G4J8l2l3k9l1%%l7l8LN4K1rj9k0J3J3M3M3m2m4j2j3kkK8K9RJ0QRkkK8K9J9J8J9J9l5
+18663A05l4l4l5j6j8J2M1L5l6o4PJ2J1J5J7k8k9KJK6K4nl5j4L6K1plmnpMk6rqppK1K2Jk9m1
+18640h8m0m2j2M2P3N0jjjRRPRj0j0J7J9Pk3noMNK1ro4o5k4K6L4L4L7L7K2K1rqm1l9kM9M9k
+18616G9m1l9LNk5k5onooJ6J5J5J6ook3PNNPOK6K7N4N4Rm1m4m3l6l7n4k3kjN1Q1P3K3j8j7l6
+18592C7l7jK7J3J4J6J5M1M1j3m4m8m9l6pK1K0Rj9l6l5J3J4j0rj0rj%%jJ9J9MLk5k5nM6N1K2
+18570B5qrnnRJ0M9N0M9N0lll4l3n1n0%%j7j7J4J3RQpqRQOPO5L4l1q2p5p6j7L4O3O3M4pk6k7
+18545B8J%K0J9n1n0j0j0M1L9MLLMl6l5j3L7L8L8QQK7k3m3j2nmK8K7k6k7MLkkj0m1l5L5N3M
+18522C7m5j6ooPPk4k3JJJJkkl3l3j0j0K1K0L8L7L8L6k7k7LKk3k4QL9N5K6k6k6L7L6Lk7ONj1
+18498F4j2k7k7j2j2qqK2K2ool7l6k1k0J0J0N7N5K3pKLj5j4ooK3K5M3M4J0k1m4m3j2J8J6J5
+18477F2J6J6pl8m9m8k2PqpOL6L8QK8N8Mk6k5n4p0m0ML4J6J7K7mn6n6lK8K6K7J8J9j1j2j8j9
+18455g8j6j6j2J8N0N1M3J4j8j7n1k2J2J2QRk2k1RJ0L8L8L1%j5m5l2kkl2j3J8K9K8llllj3j3
+18433c4J6J6Pk1j2M7N4pJJJ3J2j7j8ONk5k5L4L4MMn7n7n7n7jjL0L0L3L4j7j7qqqpk1k1RRk8
+18409a25k8K2K2J4J3M4M3M6M7mmk7k6k7k6RPRQNMMMm8n0KJJ9J9J9J8kkl1l3K7K6N6N7L0K9
+18386A71m1m1n4n3n8LM7M6%%k0j8k0j9PPk3k3J2J1J2J2K9K8K9K9j4j4j2j2lK7M7j5l5nKJJ8
+18365E8l3l2J6jjJKm1m2QQM0L9QQj3m2n5mM4M3P3K3k7n8n9l1K1K1qpj3j2j3j2J8J9J8J9K9
+18342A2K9L0K9j8j9j8j9J1J0J0J0j9k0j7j7J8N0L3j8l9qL9Qj0j1l2q1o1j0K9K9K9K9k1k1q
+18323f2qqqlmM8M6K3K4qpJ2J2J2J2k0k0J1J1l6l5l6l6jjjjJ1J0J1J0JKk9k9j9k0J3J3L4O4
+18300a2M4o%%llJ7J8l3l2j3j4J7J8L0L1k0k0k8k9JJJ4J4j7j6QPN8N9KLm8m8%Jj3j5k2k2n2
+18277a23n2kjM5M5L8k2n5n5nN5K6l4j4J8M3J4J1J2oon2n2LO4N5K5J5J4rj0j0j0llK7K6K2K2
+18256E6k9k7k3k2ppK5K5noM2M3K8K8k9k9k9k9j7j9j8j8L0L1J4J5j1j2%K8K2l8o5ok5k6RQM3
+18234e0M2k9k9J0RRRMMMMkkj7j7KJL2L1pok0k2J5J6JKk4OJ9l1p1m1j0j1POopK5N6K0l0m3K8
+18209a13P3M1J0Rppj0j1m1m2J1J1J1J1J7J7j3j4J2J1mmj1j0k6k6m7m7MMM3M2M3M3K7K8kkm1
+18188a0m2RRJ7J7%%k7n7l8J2O4O3J7J6rrl9l9k1k0RJ0P4P5K3m7n7n6o0rJKMMN2N1K0K1j4j5
+18165Aj3j4L3L4j4j5ML3L0k0l1k9llN4N6pn7l5l3ppM8M9kkpopoJ8J8j2j3OOk4k4jjK8K9j3
+18141D1j4m4m4ppK3K3L1L2K9K9k0p2p0k0j0rooj2j2j3j2L1L0J%J4J5j6j6J0J0M0M0%jjjk2
+18119c6k1k2k2kkkkO1O1J0J1j8j6J2J2j6j6J2J4K0K1K0K1L2L3l9l8nol3l2j7L3L1L2Om4m5
+18098HOM2M1J5J4l0l1l0l1KKL3L2m1m0k2K9M9jm1l9LLLLj6j6j5j6J0J0k0k0M3M2M1M2L0L0
+18077A24k1k0k9k8k6k6J9M8J8m4n3k3QO9L2k8n7k7j9j8J3J4J4J4J4J3j2j2j2j2K9K8K4K5J1
+18057E0n0jK7LMNNk9k9JJqpM2M3NMNNK0K1l0n9k8L2J4j7o6o7n5PJ9j1RJ0K1K1K2K1J1J0j7
+18034c6j8mK6M3j7j0j1J5J5L5L6O2O2O8Qm9p9l5K6K6l4o1l1L9M0KKk8k8K0K0j0j1L0K9m2m2
+18014E8l8l6L2L3K0K0rj0k3k3n0n1pK3L6L6M1M2j1m0k0J0K2K2L2L3J3l8n1%L7L7j9m9k1J0
+17994F1ml5j6j5mllmJ4J2J2J1nl4j8L1L0%j2j3j3m4m7j6jl1k9JL3L2MLJ3J3J4J3J1J1K9%k3
+17971b2OJ7J8LKLLlkJ5j6k8l0RN9K4pj7j7k9k9j9J2N8K8k4k3j1j1K0J9j0j1L9M0onPL6L7O
+17948A41k6k6mnnnjjjjj1j0J9K0j7j7Kk8m3j4J8J6L9L8K6oklj8m8m4m4j3J8K4K4ol6l8rK5
+17926g2N5Q0N0L7L8J0j9n2n1m2j2j1l9m3j3K0J9K0K1J9K0J6J5L2Km2m1m0m1oK4kl2l2L9M4
+17906b9J5J4J5J3J4rrl6l8pK3L5L6MNMNmml5l3k5k5K6K6J2J2O0O1L3j8n8n8l2lK8K8K9jl4
+17884D0l3k5Mk5n4l0%J2J1K0J9rrML4L4LMKKJqj0M1M1l4l4l2l4j8j8j8j8NNNNMNNNJ1J1J1
+17859f5J2rqrqk8k8K3K3M9M9J9J9OPPOl0l0%JK2K3K3K3m0m0j0rJ8J9J9J9NONNj3j2J8J8QQ
+17836A21k2k2j4j5m5m4rrK2K1K6K6K7K6J6J5J5J5J9K0p2p2j9j9m5m6j9M1L7L6M3M3N6K6ko3
+17816A14o5mk2k2j8j8k9k9KJRRRRk3k4POK8K8P3P5K1m0p2j2k3n5o3o3k7ML3L4M7mm4j3L3L3
+17793i5L3L2L0Jj2j3J9J7JL2K7K6kjm8m7K3K4JKJKl6l5noj9k0j7j7l9qK6K6L5L6L2L3J4j7
+17771C6k8k8OL5L7OPPNNl8l8l7l8J2J2J0J0K6lmK4N1K0PPQk3l5l6k1k1j8j8rM1O0L0KK%%o
+17748F5oj8m7l3lL0O0M0Rj9J1nollk3k2QQjjjjmnk2RL9M0M0M0ol7j9k0pppprrqrJ3J4j7j7
+17722B4m5m6MNL1K9L1L1mmmmj9j9j8j9K1K0m9n0J9J9J9J9J2J3J2J3OOk4k4j7j7L2L4K5K6j5
+17700G3o6m6j7J4J4NNONmmmnJ0RRRKKKKJ4J4J4J5j6j5j6j5J5J6j5j5k0k0k1k0J3J3J3J3K0
+17677HK1K0K1j2j2j2j2K8K8m3m2k1k1k1k1l1l1K0J9K3K2K3K2j5j6L5L5J6J7J6J7j2j1m2m1
+17657b5RRQRK4K4m8p6l1K1J0k0k9K1M1M1kknnJ6l4l4J6O7O8k1k0jkRL9O5J4k6k6j6j6j5j6
+17635D1j4j3j4j3j4j4j4j3J6J6J7J6N1N3JKMMMNJ3J4J3J4n0n1m6m5m0L0N0%j8J2K2K3K6K6
+17614A14mnj7j6j7j7J2J3J2J2ool7l6J3J3J4J3oopoONOOm1m0L0L0k8k7k7k8m3m2K9K8L4L4
+17592c8LLK6K4K6K5J8J8J4J4k7q7n8KJ9j2l8qL2L1LKk1k1nN5K6K6L4k7poj0j0m7m8K3K3L2
+17571IL3LKopppL2L2J7m3o4l5nnK4K3K3K4K0K0K0K0k8k8p8p8J8J9M9M8M3M3k8k8k9k8KKl5
+17549a3l7ooQQRQlkM7M8K5K6nnk6k5n5n6l3l4J9Q1O9J0ml4j6J2ko2o1o2j2M9L9k0%L0K5K4
+17526d2K7K6J7J7l4l2OPL5L7KJo9o9rqM3M2J6J7J7J6m9m9JJK5K4k4k6l0l0K1K0PQPPrj0rr
+17503f1M0L9RJ0J4J4J4J4qqj0j0Rk2l6J4K5k6m0j1L8L9M1M1rrrrj4j4J7J7qqpqk5k4K6K6K1
+17480I2K1k9l0LKKKooook0j9n1n0%JL1L0%%M9Q1K3k8k9k8LLLLOONOL8L7j3j3K9L0m2m1k8k8
+17455C3k7k7J8J6J8J7J7J8J7J8k1k1k1k0K5K6k6k5MLLML0L0j%J1J1J1J0j3j4m4m4KLk8k7m7
+17434f1m8j7j7K7K7K7K7J8J7J8J8L1L0k0k0n0n0qM3N0N1j6j7llkjRL9Lm8k5K6K5K4RRm2m2
+17412C8OOk5k5n2n2l3o2o8j7K3K3L3L3L2L3J8J7J8J7PQN7N8nnn6n5NMNNj2j1j1j1M8M8M5M6
+17390A33K2k9m7m8o3j4QQj2j3j2j3K8K8K7K7LLK9L0L2j9n8n8k9K2L9J1j7j7j8j9kklkJ2J1
+17369b2M1M2jkl2l1k3k2J0P0K4l8l6K3L6k4l3lqpnoK7K6K7K7J5J4J4J5m1m1m0m1K1K1l1l0
+17348f4j1j1j1j1j0j1j0j0M2M2M3M1k3k4k4k4j7j6J4J3J0RRJ0J2J3J3J1K0K0j0j0n7n8ppK4
+17327h0K4K4K4M4M4J5J4k2k2k2k2k1k0k1k1KJKKKKKKJ8J8k9k9rN1N0rm0m0l0L1M8J7k8KK0
+17305fJ9K1K2j5j6J3J3j1m1n2n3jL0M1M0M8J8j6j6k5k3k6NJ9J7OOl2l2kkJ1J1RRK8ll1kJ9
+17283@J9K1K2j5j5%%l0l0K1K0K7K7m3p2m7K3L1L1Mk5rrL5L5L4L3Ok5pqk7k7k7k7J9J8J7J9
+17262A9j8j7j8j7mmK7K6K5K6J0J1J8J8J9J8k9k8m6j6NMNMJ2j9k1RK6nl8o7k8KJ4J4K7K6k4
+17240c4k5llK5K5%k9j3j3jjM9M9J4J4l7l6j7j7L4L3j0qnl5k9K2K5nj6J5K8N6N0J8j3j3mnJ1
+17218I6J0MLj2j2j9j8L2L2K1K1l1l0m5m5j3j5J0J0K4K5J1J1J0J1qql9l7lkJ2J3%%J5J5K5K6
+17196A00nnk0k1k1k0qrk3k4j9j9J2J2j3j3LKJ5J5%%L9L9RRoooM5N2K1j1m1m4j4j3m3j6J4K6
+17174gK5%j%%M8M8K8k3l1%k1k1j3j3j3j2kklkK1K3rqmnK6K6l6l5l6l6k4k3PPJ4J4J4J4J7J7
+17150c1J6J6M2M2rrj7j7J4J3QQk3k2l6l7l7l7j2j1N9N9M4M5k7k6LLk7k8K2K1rp%jn0n1RRQ
+17127h3RK4K5K4K3K6K6nnJ2J2l9l8LMMMK7K8lll0l1%%j0qrj0PPQOL1L2j9j9l6l6J4J4LLLL
+17102bqqqqMML3O5O0Rl2l1l5l4l0l2kM7L6OpqrrJ9J9l1l1llk4PL4j7n7n7J2J1M2M2K2K0K1
+17079B7K1L4L3j5j5kK8J2m0n7k6M3M4K1K1k9l0j3j4j3j4K2K1K1K1k4k4k2k2J0M2N2Kk1k2k5
+17059D7k4k3k2k2k3k7k7NOML4M6nl0k9J8J8L0K8jjK0J9J6J6K8k3q2q2m3PJ0RLLKLj1j0j0j1
+17036a34M2M1J1J2j5j4J6J7K0J9l0l1j6j6J5J4L2L1KKn6n8opk0k1M8M7O0J0QQrqQk2%kllM
+17013dMk6k7l3l4J7J7klklK5K4ooJ0J0L8L7J7j3k5k4m1j1K4K3nok2QJ9J9j3m3l0k9j8J3N3
+16991f8N3K3pl5mK6K6K5K5K5K5k4k3k3k4ppK4K3J3J2l9o8o0rM9M9M0J0k2k1j0J9K0j0j3j3
+16971@J6J6rqqqJ7J7j4m4l7pNNJJj5J4L6L4K6mJL3j7j8j7j6J4M5J2j8m8m6J0L9J0k0k4k4M
+16948d6Mj9k0j9j9M8M8k2k3j3j4j2j2K4N5J8l2j7L3JJJKm6m5qO2Q1L1%%klKJk9k7j8j8L2L2
+16926A2m1m3m3m3j8j9L1L2M0M0RJ0L6L7j4j4k6k8%%J9l1l2J9L2L3L4L6j7j8j7j6N1N1K1K1
+16906A44nmon7o6o6m7LKJNNQQQQj%%%j3j3j3j2J0J0J0J0K1K1K1K0JKk7k9K3K2oprrj0rj9j9
+16880h4L2L2J2J0j7j9K2K2K2K3k2k1n0n2J9J8J9J9rrqrJJ%Jj1j2J9J9k3k3QPnnonM3M3J3J3
+16857B8j0j0K1K1J1J1J1J1ONm5m6rqrrJ6J4J6J6J%N2N1J9J9l1o2n3lJ4j6l2l0J7J6QPk1k3
+16835b6k1k1k2k1J3J3J3J3J3J2j5j4RN8N9Rrrj2j2KLKKl4l3lmL0K8jjJ0J0J1J0mnmmrrrrk
+16810Gjkjj0j0j1j1K9K8jjL4L5L4L5pqn7n8NNNNj9j9j8j9rrK1K2K1K2K2K3J3J3K7lk5q5r9
+16787g7j00l1K9M6M6K4K4K4K3K9L0jjk5k4k4k5j7j7J3J4l0l0k9l0PPL7L7j%jjN6N4M0k2j5
+16766C9j6j9j8k6k7NMJ3J3J3J2K5K5nnK8K8k3k3RRONL9k2n6k5J0J0J1J2l2l0L8L9J%llOn4
+16743A3n6NK6l%K9J3J3j6j6m5m5j6j5RQL9M0l2l1kjK9K9K7K9qrK0K1P9M8K3k7q0q0j3j1oo
+16721a8noo6o6j5j6K1K1M8M7K4k6m4j4lK8M3M3M5M6J6J6l8l7ppK0K0j1j1j2j3J8J8K7K8K8
+16700A42K8kjl2l2k4k5k4k5m1m3k2K9L4Lk7k7J4J3J4J3k8k7LL3N2Kl9l9J4J4J3J4l0l0l1l0
+16680a44l2l1J9J9L0L1m1m0J7J7J8J7%J%%N3N4N2N3K1K0j0j0%jl1l0l9l7qqj9j9J2J1j1j2
+16659g8j1j2MMMML2L2K0j0l5nk4k4l8l7k2QO2R1P2K2ml4j9j9j6j5J5J5RQQRL1L2JJj0j0pq
+16636D6k2RJ0j9j1K0KJkklkj5j4j4j3m6j5L7L7Lk7j0j0j1j1k8LK8K8K8K8ll2j5j6RRrK3L5
+16613FL6Ok5lK7QQJ7J6J6J6ONONJ2J1L9L9J1m0j01j01m4j4K2K1M9R8R7l4j44r2j6J6j1j0P
+16592c5PKKJ7J6kjj6j7J9J8j1j2LMJ8J8j1j2j0j1j7j7m4m4m8LM5M6J7J8L3L2J3J4l7l7LLJ9
+16570a2J7j2j4J7J6pnppJ1RJ1J0m8m9l4l4J3J3l7l8l0l1O0O1P1P1%Jkkm9m9k5K5K7K8j0j0
+16548e1k6k5L6L6K1J9%j%jj2j3k9k8J3J3j8j7k4k4K7K6j1j1L9M0K0K0j0rK9K9%jppK3K3RQ
+16526A06m3m2KKk5k7j7J4J3j6j5j5J3J4M3M5K4k6kK8RQj%j%k0j9k0j9kkkkPOOOL9L9j4m3n1
+16503@k2qqNL5L2L2P2M2Nk5l2l3n1k1K3K4mnk7k7rj0j3J8M7J7j2j3jK9J0J0J1J0j9n0l2l1
+16481c1rrrqj5j5k8k8QL8P0O9L9QK5K6j8j7oK4K2qk2RJ8J8j2m2m6j6ponl5m7m7nK5N7N6M3
+16458F4J2j9j9k8L%JLKLKK5K6onm5m3K5K6J3J2J3J2nnnnk2k2QQl9l9m0m0jjN0M9M6M8mlPQ
+16433G0PPl3l3lkl6l6L4L4L5L5l5l6j5j6J4J4K8K9K6K7ml4n3QJ2j7j6J4j2m1k4k3rqM2M2K8
+16412B0L0O0O0j3j2j3j2J0J1o0r0p2j2K3K3J2J2K2N1J6m5l4l6KO1J5m4n7NN3ql5nNMQQQQK9
+16390HL1L1L1j7j7m8m6klK8K7J2J2M0M0%l0m2RK3K2nmk4k4k4k4J1J1M1M1OOm4m5k1j9RRK3
+16368C2K2K2K3m2m1m0m1nnnnJ2J2O2O3k2k3QQL3L2KKk7k7k7k7jjjjjjjjJ0J0J0J0j4j4j4j5
+16344b9LKpl9m2QK5K6M8km2m1mM7L6NK8K8m4m4noK5K4L7L7PPj7j6j7j7j1j0j1j1L3L5j6j6
+16322A4j3j2N7N8lln0m9k6K4M2J3QPNOj9j9rK1J0m0m0m1J1J0J1J0mmmmJ5J5J4J5M9M9K6k4
+16300A26o6o6JJj9j9j9j9J1J0J0J1L1L1JJj0rqrJ5J7j4j2m3m2k2K8K0j1J0R%%%jjjk2RL8j3
+16276d6l2l3kkkjJ5J5j6j5N9N9%n1k6K4K2K3L3L3j7j7J5J5j5j5qrqrkklkj6j5j5j5J8J8J9
+16254b6J8j0j0j0rk8k7k8k7J0J1J0J1K9K9RM0M2qk7k7j3j2J8J9K7K9K9K9m0m0J1J0KLm4m4
+16233d4k4L8P3P4j1j2m1m2J1J1J1J2LMk7k7qoqqk1k1J0RNNk6k6j4j5L7L6K3K2pql0l1%%kl
+16210g8QL7J3m8m2m2qqO2O3ppK4K4K7K9k1k2OOL7L6j7j7o3o4k3L9P4P5QPm3m3lkK8K7OOm1
+16187D3m2m1J8L4L5NOk5k5l9m1k3L7P7P8L2L1m1m1m1l9k6k6n9JM4M5k1k0LL3J6J6K2K3m9m7
+16167d7k9k9MMJ1M2M1J0NNK0j0J4J4J1J2KKL4O3J8j2m5m4l9l9qrm7m8l4mJ5J4J5J5ll2m3m3
+16145a94ON6L0L1K5N4N5K5j3j3j5j4k5k3j3J7J9rk1k2J3J4J3J2J4J4J2J2M0Rk4k4l5l4l5l5
+16125g8rqj0j1j4m4NNK0N0O2O1L7OK3K4RRk3n4n0k0rqj2j1L6Nk1k1j3J7K3k7j4J6kjJ%j2j2
+16102g5L9L8PPk2k3K7K6llj2j0j1j1J4J4M5M5P5P5j9q0n5OJ8J9qrqqk6k6k6k5J3J4M0M0L6
+16080A38k5m2m1m8m8KKL9L8L9L8l4l5l4l5k0k0L0L1J5J3J5J5J1J0PPK3l7l8K4J9K0k8k7%%
+16060B4k9l1m1m1j1j1J9J9J9J9JJJJK9K9jkj4j4J2J3Ln7n8Mj0j0K4K4K7K7k4k4k2k1j8j7J
+16038a59O2O3Jj6j5J1J1J8J8J7J8J3J2J3J2ONLLJ7j4j6J5j0m1rK2kj%%j4j4j4j5j3j4Nk6m2
+16016i0j3%jL7L7L5L5J4j6k9K1N3K3J0J1k1n1l4l3j6j5j6j6j8j9N3N2K8L0J6j4qpl9m0j2j2
+15996f5j0j1LL4J6J7j3j3JL1M4M5lmJJj0m1m2j3kjk6k5M3M3K5opK2K5nj6j5j2J8%J%%J%l9
+15972hm0oK5J1J2J2J4j4j3j3j2l5mK8K9J5J6J3J4J3j8k9K1K7K6%%nml5l4k5k7k6k6lmllJ3
+15950i8J4M5M3OPL6L7j5j5j5j5J9K0J7J6l3q4p3m2J1J0L9L9M4k4o5j4N1N0K0K0J5l6p4m5Q
+15930h1PJ0J0M9M8J9J9k3k2k2k2OMNOK3K3K3K3opppl4l5mnJ5J5l5l6mmlm%jL0K9K4K4k7k6
+15906cj0j0j0j0M5M6k4k4k1k2RRJ3J3J3J4K3K3ppL7L7k6p6l3l4l5J6J4J5J7J7llK7K8j%l1
+15884B6l0llklnnmnPPPPj4j4j4j3J7J7l4l3l0l1K1K0j8j8L3L2N3N1K2K2k1k1k1k0%%%%M2M3
+15861F5M3M3%%%%KLKKm4m4m6NJm9l7pJ2j9j7J4K5K6K6K8j0rK1K1J0Rk1k2J4J4J3J4J4J5j6
+15838A01j6RRRRj7j6j6j7l4l3l4l5j4j4j4j4j3j2QN9P8M6ol6rrK0J9%Jk9l0l8l9J2J2K5K5
+15816e3k6k6J5J5J6J5L8L7j3j3k5k6MNK7K6llj2j4j4j4j6j5L5L5j2j1j1j2NNMNJJ%JqqrqK4
+15793c8K3ppJ5J4l4l6L2L2J7m0k4L8M6M6J0n1o7o7j6j5J5J5L5L6j5j4qqqqL7L7L6L7l6l5l3
+15772d6l2k1M1R0L0k1k1k3k5K2K0qqMNk5k5jjM9N0kjjkJ9J9j1j2m0m0m0m0jjK9K9J8J8J7J8
+15749C0j3j3j3j3oopoopoorrrqK9K9L0K8J3J3J4J3%Jn0m9j7j8J3J3l5l6J3J3K1j1k3K7N5K4
+15726CmoL8M0j1j2k0k1J0RL3L2K9K9J3l8n7n7n8qJ4J5J1J2M1M2MMMMLLLLJ2J1l9l9j5j5j5
+15703Gj4j5j6L5L4K9K8m2m2k1k2k2k2J5J4J5J5mml4l5rj0j0rL9M0M0L9j4j2L6L7L4L4MMn7
+15682H5n6k6k5j3j3j2j3NNONk1k1rN3M1k0j2j3K5K5K3K5j0j0opj1M9J5J5J3J4l7l7k3k2M7
+15661C4M9k1k1k1k0JLL2L3K2K2rrl5l6noKJK8K9Pn3j9j8MMLMj4j5J6J4qrrrQRQQj0j2j1j1
+15636d0K4K3po%j%%j6j6J4J4J4J5J5J5k1k2k0k1L3L3MLPPPPj2j2J8J9OOPOJ%llM0k1k1M0M2
+15611A78M1Qn2m2m1k9L2J9J9k8k7j7j7m4m5k3PK1l0p0l9J2M3M5J4j7j7M7M7M6M7m1m2j0j1
+15592a6j3j3j3j3J4J3j7j7L4L3K9L1O0J0l2l3k9k9J%K7K7k3k3j7j8J2J2L5L5L5L5k2k3k2k3
+15572D7K3K2K3K2j4j4o4o4k1k0RJ0m1m2L0L0J5J4J5J5J7J8J8J8j9j9k0j8L8M0l2l1j6j6j7
+15553d4j6k8k8K3K3QRRRJ4J4l6l7pqK3K3K3K4K2K3lll4l2j3j4PN7M7J7NNL3Lj4m5n9o0k8K
+15530h6K8K9ml3j5j4lK7K3K3ooJ0Rk1k0k3k2j0K2M1M2qpnnk2QK1K1qqJ1J0k0k0k7k6MLj9k0
+15507a26K9K9L7OppJ5J5J2J4k6n7o8j8J7J6K0K0K7K7lll6l6lK8JKLLJ0J1j9j8NL5L7OLL4M6
+15484H1M6j2j1Ok5n7n7k5MJ2J2J5J3PQPQrrJ0k0m4j6J7J7NOOm5m5j4lmK9K9K9K9%JL1L1J7
+15461H0J6j3j4K6K6nmrj0K1K1L0L0k1k1rql9l8n9o0rrRQRRj%%jL3L1L3L2RRQRJ1J2m0l9m5
+15437A8m3j5j4noK5K5L9L9J0Rj0j0pok3K9J6j3j3j3j5j4j2j2m3m2%JL1L0L0K9L0L0J6J5l5
+15416G1l5pol3l4k1L1JKJ1J2J0J2J2J1J2J1j3j3j3j3j9k1k1k0L3L3L1L3K0J9j1m1ON7mmMM
+15394A07JKjl1m4m4J8J9J9J9j0j0j1j0l4l5mnJ1J2RRNk5OL5J8J8J8J8K6mj7j8klk0J1K2K3
+15372I8J1j9l4l4kK8J0J1J2J2k8k9KJj5j6j4j5KKLKL8L9j3j2jjj%m5m5NOlmJ7j3LN3K2K1J7
+15348G1j4m7m6k3k3K7K8M5M5J6J5KLk8k8k4k2K4K5J7j3MMRRk1k1n1n1j3L9K4k6m3m3jK9N9
+15327d3K9k6k6k8k8KKk5k5JO1R0O0Ln6k5k5QPL9L7K4K3opj5j6k4n4k8L3J3j6J6J5j6j7%J%
+15305d2JKLKLk1k0k0k0j%j%ooK4N4M1k0j5j4j8j9J3J2L5L5j4j5j6j5j6j6RRL7L6L7Oj5M6N1
+15282A26j0o2l1J7j3n9k9lK7K9jNML3L4PQQQl5l5l5l5l0l0K1K1L7L7OPKLKKl5l3nmJ6J6J4
+15259EJ6nonnK0K0K0K0KKk8k8l5l5J6J5K5K6j3o3o2j1J1M1O2O2J4J4%%l1l0K8K8K9K8k6k5
+15237I6NNLKLKj5j5J5J5j9j9J4J3j2J8K9k1l4l4l4l3k9K2O0L0%jkkpopoKLm8m8l2l3J9J8K5
+15213e8K5K6k6j2J9K8K8rrrrJ1J2M2M2j5j5j5j5L6L6OOj9k0m9q0p4k4J7J7K2K2qrLKKKK2K1
+15191b8k9l0rrj0rNNONK4K5K4K5L8L9L9L9l1l2jjj1j1j1j0LLLLJ3J3J2J3rrK2K1l7l6l7l6
+15167a6qqK3K1l8l9J2J1j1j1J9J9lklkJ1J1J1J1M4M4J2J1k6n6j9L2K2pnK6J2J1J4J4k2k1R
+15146A03RJ%J%l7l8l5l5k6Nj2o2o4j2K6K7P9P8N7OnorrJ9J9J9K0ooonm5m4OPpoK4K4J8J8J9
+15122A10J8l3l3klj4j4J6J7K3K4ooOPk4k4llllmml4l3nol5o6m5OK7K6J9J9Q6Q8K7k3k5k5l6
+15098Gl5ooJ1J0J1RL0K9m1m0jj%jj%jjK7K9k3k1kkK8K9M9N0kjk7k7K3K4k3k2k3k2k4k3K6N7
+15075G3M7mm5m4l8l9rqk3k3M8M8M0M1j1j0nnl4l6j7j7L4L3QRRRK6K6k4k5rj0M1M1L9L9QQm8
+15052A43m9qM3K6mj4j4j0j0K0K1k3k4k3k3m1m0J0J0L2L4l6l5n0k0L4L5JJj8J3Mk7k6LJ5j6
+15031f6j4J7J5J4Nk5l7oK5K6J8J9L5Oj6j5j6j7mlK7K6K6K5K4K4J1k0l3l3noonl0l2J0N9N7
+15010H0K7k4n6l4oQL6Mk7qoK0K1Ok4m5p7m2J0K7mJ7J6K3K2K3K1K1K1l0k9l6l6J5J5RJ0L6L8
+14988D2k8n9qK2opmnPOMNJ0j9jjj0J9L3L2k6k6QL6KJMLk0j8k0k0nnnnllK8K8L5L7L5j6n7n5
+14963c5J1J1O1O1L9j1m7m6JJJ2J1M1M2nnp2p2j7L2L5L5K4K5m6m7QQm2m2k1k1RJ0KJN2N2LM
+14941F2k7k8k1k3k3k2L8L7j2j3l3l2l3l2M2M2M0M0ll5LN3O3L3KKj1j1j1j1rrj0rj7j7J3J4
+14920C2l0k8JKOOk4k4l4l4J7J6K4K5opK7K6mmpopp%%j%m7m6MML9L9L9L8J9J9K0J9k1k1k3k3
+14895A8n7q8o9j9K0K0K3K3mmK6K6N0M8k1k1k3k3M8M7L0L0k1k1n0n2%jK9K9jkJJ%jJ6j2k6K4
+14873gM1J1j9k0j8k0J1J0J6J6J7J6K3K3pqj4j5m5m3NOL5L6%jj%j9j9j8j9o7o7oM4K1rJ0J1
+14851i0K5K6K5K4K5K6nnj8j7J2J3mmmmJ6J6J5J6JJJJj9k0k0k0k0k1J0RJ5J5J5J5j2j2j2j2
+14829Ck0k2j9L1M7M8JJk6k6M2M2K4k8n0q0p2m1k9l0l9l8J2J1K4K3K4K3K5K4K5K5K9K9K8K9
+14809E0J3J3l7l8k9l0K1K0K6K6K6K6k1k1j7j8k2K7M6M7J4l7l9l9j3j3j3j3KLKLmmmmL1L0L1
+14788D1L1JJk8n8n2J9M9j9n7nL2L2k1k2RRPQk0k0j9L3N1N1J4l6n8n8j6j5j6j5MML4L4L7L5
+14766Aj3j5j5j5L5L4L3L2j9j8MNMNJ4J3j7j6m0l9k2K8N2N3J1J0j2j3K3K3l3l3J2J3LKLLj5
+14745H1j5j5j6J5J4jn2l9j0J6J5nonnNNNNOMOOj2j1j2j1j1j2j1j1J0J0K5K5kkK2K4j3j2K4
+14721C4K3L3L3lkn6n5o6o6j0O0O1j1m2m3j1j1KKM9M8M7M8J0J1l4o3k2K8M2J2k2k1L3O4L1m1
+14701I2l3l4k3k2qql3l4M4M3QQk7k7K9K7N3N3J8J8onnnqpJ8J8J3J3m3m3l2l1k6k8k0M1L2L2
+14679E2K3K4k2k2J1J2mmqqqqj4j5L1L2J4J5L0K9JJ%JL1L1k1q1n4n3j2j1k9k9J3J3jo3l7K3
+14657a17M1M1K9K8K8K8k1q0l7K3M1M1ppqpPQPPJ0J0j5j5l4l4j5j6K0P9M5j6jjl0l0j7j7j7
+14635d9j7MMMML9L7L8L9K5K6K6K5j3j3j3j3LLJ8J8j3j3p0o9m3m3J1J2j0j1J4J5J5J4j0j0J5
+14614aJ4l2l3l0K0M2M1J6J6JJj6j6l0l1M9N1Qm3m4m5j9j8K8K7M1J0l5q6n0K2K8K7JKK8K8J3
+14593a5J4K9L1%JLMMMqpqpppl7l7RJ0K4K5K1K0rj0j8j7J2J3k8k8j3j3L4L4J9K0qqn4n6PN7
+14569@J6j4k7k9J%kkK9K8J8J8j3j2JJjkk0n3j3L8L8L6rj0k1k2RQrj0OOllj9j8j5j6J5J5N0
+14545a0N0J9K0N2N1K1K2k2k2k2k2MLLMk5k4k5k4LLLKKJJJj2j2m3m1l8l7J1Q1N8Qj0j0pppo
+14522cL4L5L5L5m0m1m0l9l8l7J3J3OOj0rNMNNj8j7L4L3K9K8N8Pj4j5j8j7kjjjJ4J5J4J5rr
+14498F4M2M1j8j8l3l4n0n2jjJ1J1nmLMLMk2k3QRRJ0J0RNNL5L6j8j8j8o8q8n7nK5L7PK5K6K6
+14475f8K5K6K4rj0j0j0L1K9J8j3jjl1l2k6ML8L7J3J3%l1m6m8j6J5J5J5J8J7qpqpJ1J2J1J0
+14453@L6L6j4j5j0j0k6LM2M2J1k0j0j1j3j2jjjjj4j2J7J7ononm7m8l5mL7L7K8ll4mJ0J0QL8
+14430DN3Jn3k2PQk5k4K8N7jl1j1j2j4j4L4L3N1K0l2l2l5nQPn1n1j9j9LL3L3LJ9J9j1j1qK3
+14408c7K5ol2kJ0J0k4k3k3k3QRQRN3N3K3K3LLKLJ4J3J4J4j1j1j1j1n1n0L9M0PQk3k3K0J9K0
+14385H9J9K8K8k1k2k3Ql0q0n9k8LL4J2j8%Jl8l7pqM8M7mlJ0J0RJ0RQPRnnK6K5l2l0l2l1k2
+14362i5k3K9K8K1K0K0K1J7J7j3j3k9k8K2K1L5L6j5m5l7J2O9L8k4n5n6k7J9J9rj0POOO%J%J
+14340hjj%jopJ3O2O1J1rqk8k8k8k7LKMLMLLMpqopj3j3j3j3RRL9L8K1K2rrPPPPl6l7ooj3j4
+14313b3m4m4mmmmK8K7lkppoprrJ9J9L1%j5L7L6j2n2n2j3j3L8L7K8K7klJ4J6J5J6J5J6j5j5
+14290E0KKk9k8j%jjRRJ0J0qqqqj7j8J3J2j2j3rrJ5O5N4K5J5J6J4J3p1p2m1m1K6K7K5K6K2K2
+14266H7k9k9j3j3L8L7j7j6j7j7JJJ7j2k2k4ONooK3K2Ok4K2K3%%l1k9OOPRLL4L4Mk3k2OOll
+14242D7llPOk4k4l7l7J1J0ol8oK3M5M4J5J5J7j3o4o6k3Oj0j0J7J6j1j2RM0N1%l9l9j0K0K7
+14220d9ml5l6llJ6j4m5j4K0N1M2M2M1M2Nk5l8l8k0j9J1J0J4J4Kk8rK1J%Kk8l0%K1rK3N3J%
+14198a5LKOMk3k5lkK8K7RRRRJ6J6J6J6m5m5NOMMMMj6j6j4j6KKKKj3j3j2j3PPL8O7L2j9l8p
+14172B1Qk3mkJ2J2j7j7k0k0L0L0K2K2J5n6o6j5K3N4K5nj6j5J0J1j9j8k4k3k4k4K8K8llJ5J4
+14151c4J4J5NNNOL9L8L6L5j6o7l7l6k1RK2k8p0m0J3M2L7NK4K5j0j0rj0m5m5j1j1L0Q0M8M9
+14130H2J1m0j1j1k0j9RJ0JJJJRQRRj2j1J7J7k3n2NN4J3j7L3L3lml4l4j9j9j9j9l3l3J7J8J0
+14108f5J0M0M0J8J8J9J8ONONj9j9m6m5k5K6llL3L4L3L4m3m4j3j3nml6l5QPL8L7MNk3k3oM3
+14085A7L3Kj1j0j3j2j4j5J6J4m0m0j1j0J1J0J1J0k9k9K1K1K4K3k8k7m1m2j0j1M4M4M5M4nm
+14065a2n2n2k6K6K7K7K5K5m5m6J0J0M0M1K3K3opj2j2j2j2j8j7JN2N1JKKK3K3qpNOMMMk6l9
+14042D6m0NNK2qk6k5K1K3J5J5J5J5J%j1m1j7J4J4j7qK3L3L4J0J0j9j9m1j1KKJ4J3J1J1j7m8
+14021B6m7j8poOL7M4J5j6j7LKKLL6L6K2ql3l4l6l5k1k1K9K9J6J6J7J7J4J5j5j6l3l3mll8l7
+13999i3L3L3QQQPj2j4k8JK2N2O6J5n6n4J1J2m2m2J1M1QOJ0Rqrk7LL4Nppk0k1j8j8J3O4M7k4
+13975B7m5j5J4J4k0j9j8L3L2L4L7L6j6j5j6j6j6j6j5j5mlmmK5K3oomlM6M7rrm0l9J6J7J7J7
+13953F2J4J3J3J3K3K2qqj6j6j6j6j3j3m3m3j7j8J3J3k4k4K7K6j5j6j6j6JJL2L1%j%%onn0j9
+13931a15J7O7Q7N8KJj%rqn9n8J5J3J5J4lllll2l3J8J8PPPQRRJ0Rl6l4onL0L1L0L1J0J0m0m1
+13907D4k8k7QOJJk3k5%jL5L3j1j2m6m6j4j4M2M2mnK1K2k0k0PPO7R8M2j8o6oKKooRRQRpoj1
+13882I3j0k5k6l6l6L8O9N7ml5l6jl2k4L5M7J7j8j8OPOOONj0rk1k0NNnnJ0J1poRRllj8j8NO
+13857B6NNL2L2j3j3k7k6RRK0J9M5M4m6m7o2o1j3j3M2M2L2L2k3k3LLl2l2l8l8L7L8J9J9j6j6
+13836b6J2J2J4j4p0m0jjj5J6M2M2M5J5j3j3n6n8k0L0K7K7L0K9J8J9k1n0k2k1oK5J8J7J3j7
+13816a3rK1M4J4qrj3j2J9j2n7n9JL1K0l2k2RNL5N0K0j7j5J7J8nnML3M1M0nl5j9j8j9k0j8k0
+13794b0%j%%K3K4k9k9l0%RRJ5J4J5J3J5J6J3J3j3m4n6k6qK2M1M0J0k0l5l7l3lJ5J6L8L7qp
+13772aK3K3k3k2pqoo%K9L3K%L2M6j4o5o3n2J0N6N4M4j8l0l0l3l4rj0j0rnnM5M6J0RRJ0nmM5
+13748E7M6L8L8PPk8k7k8k8m0m1k5L4M4J4MMRQQQJ2J2J2J2j3j4m3m4j7j7m7m8J8J8J8J8K3K4
+13727C3ppl2l3J8J8J0RJ0J0J9J9K0J9L9M0j2j1n2n1J9J9j6j6j6j6QPQQNMNNqqn8n8k5k6K5
+13704g5K5J7J7J6J6LKMMK2N3O8Pm4p4o3mL2L4PPk2k2k2k1k6k5k3k4K5N5O6J6j8j8j9k1k3k2
+13682g0RQk8k8K2K3N9N8L7j4k9k9l1l3J0RRJ0k0k0J1J1M2M4J3J3j1j1j1j1lml4l3J3J3J2J3
+13661A9K4K4k7k7j8k0J1J1K5K5mnj4j3j3j3j4j3j4j3k8k7LLL9M0L9L8J6J6J6J6j5j5j5j5l8
+13641Dl7pqKJJKMNk7k6K2K2K2K1j8j9n0n0K3K2K3K2k0k1J0J0RRN9O0J2J3l9l8l2l2l3l3pq
+13618a27K4K3j2j1K0J9J1J2J1J2K6K8K5k5l5l4l9l8J3J4J3J4O2O4ppk3k2QQppopJ3J2J3J3
+13597E1k6k5k5k5llJ%K2P1P5K3rK2J9j2m3m3k6K4K0l1m7j5L5L6j3j2ppl7l7kjkkJ2J3J2J2
+13575ej8j7L3L2K6K5Nm5m0j1J8K0K5K6K6K6k9k8o0n8k1k1k1k1J3J3O0N8N9j1n1%j1j1rqL7
+13555FL9QQk0j9j9j8j6j5j6j5L8L8PPjjl1l1J2J3J2J3k8k7k5k4jM9M9jNNKKJ7J7j7j6nn3n5
+13532a07mN5N4L7j4l5pMMQPm1m3l3l3J8J7J1J1J1J1rrqrLLKLK1K0K1K0L0L0L1L0j%jjj8j8
+13508G1J2J3l3l2lkl0l1l0K2M2M1k5k5klK6K8K3K3ppnnnml2l0jjOONOqpqqo0o0k9k9K6K7K7
+13483a18K7mmkkJ6M7M7J6qrrj1j9j9J4M4JJLLoommoK3K6mJ1M0K2K2j2j3j3j2k0k1k0j9PRO
+13459B0Pk1n0n0j9L4O4M0k9m4OK4K3l0l1k9k9K2N2K2qmmK4K3J4J4L1Jl2l2J5J5k0m8l3l2j
+13438i5%JJL1O1N9L1LLj6J4K6K6K8k3m3j2J5j5k9k8J9j2l5nPOJJpl6j4P7N3KNNJ9j2k8k8l0
+13414B6k9PQQQJ5J6J5J5K9K9k2k2l4l4J5J4l6o6n0%L8PlM7N3K3J3J3k4k4k4k4j7j9j8j8on
+13393g6lmoK3L6j6m3m3K4K5K5K6k5k5j6j7j4j3K5P6P5K5j8j8k1k0j7j8j8j8llM7M8M0M2J1
+13372I3J2rrl9l9j7j8L2L3K4K5k7k7klklJ3J2J2J3lln4n2m8m7LL3L8j3l3l3L5L6L5L5L9M0
+13351H2RJ0k6k6n2n3j3L7K6mk3k3NOL5L4NN%%L0L0opQRO4O5Km9l2l1l5l4kjkjk1k0J0RJ7J7
+13326E4j3j3K1K0OOj2j1k6k7j3j4KJJ0RK3K5ooooj8j7Lk8n2kJ9J9L7L6OPj5j4L6L6l2l3l2
+13304b0l3j2j2j2j2j1j0j0j1j2j3L9O9M4ppok4k5k4k4N3N3KKk6k7K4K4K0J8NMJ6J6JKm9m7
+13282d2K2K1npK2K4j0j1MNj7j6J2J3L6L6L4j6n2n3k4k6ONm6m5J4J5O2O1on6m5j6j5j6J7J7
+13261i8J1J0K6K6L6L8l4l3%JJ5J4l6l8l7J3M0J0k0k1j9j9N1N2k1k1k1k2J8J9J8J8NOm2m2l3
+13241a30J8M0M1K5K4K5K5p1p3n0%M4M4J7J7rrK2K0J5J5%%K6K7mmj0j1k5k6ooM4M5K2K3qqk9
+13219A00k8j3j3j2j3j8J3L0k1k0k0J6J7J7J7K5K6J0J0PPk3k4j4j5l0l0LKL3L2j3j4KJRQk2
+13198D2k3k2k4k4k4L5L4MKk5k7k6k7Q2Q1J2J1n1m9k9K2M1M2onK0K0j0j0ooookkkkj0rK1K1
+13175E7mmmmPOPOj8j9j8j7L0L0J%k2k3k1k2L0L0%JLMN1N1Mm6o8o7J6J5J5J5L9L8j2j2PPPO
+13151A02l1l1K0K0k6k6MNk6k6k6k6MLMLJJJJL0L0J0M1Nm5l2kJ6J7l1l1l1l1j1M0M0J0%jJ5
+13128a0J3Jk8jjlkK2K1K0J9K5k6LLj6j5j6j4qqooJ4M2K6K7LMMLj3j3m2m1jK9J3J3K3K4J0k0
+13104G2j4j4j6j6mmk0RL9M0K9jk7k7k8k8j4j5J6J6jjjjppoprqonK0O9O6k5n7pJ1M1M4J3j8
+13080I1j8lkK7k3o6l4mlPL6L8Pj9j9k0k1j8j8j7j6kK8M2M1M5M4k4k5OL7Pk2oK4ql8k3k3j1
+13058cJ8K2K3K4K4POPPj9j8m8m9J5J5%%j6j5j5j5L4L6Jo0n7k7j5J6M7M7J8J9L8L9K4K3j2j2
+13037A29m2m3qqk4k2j1j0k5k6K8K8klPPk3k4LLQk2k2L8N0J8J0J1K4K4nml5l4klO7O8m3m2n3
+13014a3n4l0L0L1%jK9K5K5j0j1j0j0kmK6K7rqqrNNk5k5J8J6j1j3J2J0j8j9m0m0L1L2ppppk1
+12991i7k1k1k1PPL8L7K5K5Nm6k8Jj8j9L8L8L7j5k3k4K5K4L8L9j1j2n3n5mlL5L5j6j5nmj9j9
+12969i5JKj4j3L3L3LLK6K4R3R2N8j3m5p6p2m1l1l0j8j7J3J3M5M3J4J4m8m9K2K2MMJ9J9mmk0
+12948A0j8K0K0K1K1j5j5j5j5k6k8KL3L3j8n3k4RJ0J1J2j1j1m1m1MML4L5L9L9P0O9JJk9l0n8
+12927E0n7J2J3M4M4M1M1jn1k3k3KKj3j3j3j2l9l9l2J9M1L9kkkkM3M3ppn9n7p3m2k0L0L5L4
+12905e6K9K8k0k1n7n6onONN4N3L6j5j7j7j0j0L7L7Nm6l5mK9K9%%QPQOM5M6K3k8j4j5J2J3J5
+12882I9J5l6l5K4K5noK1K0Jn1n8k7K0K1j6m5rM1K1rJ2J1L0L0j%k3k3k3k3j1j2j2j2J3J3J4
+12861fJ2k9l0JJMML2L0Rm1j3j4nmK5K5L7L7J5l6n5n6rqonl6l6J9K0J9K0mlK7N6L2k9k2k2N
+12838c9Nk6k5k3k3PPj0j0j0j0L3L4O4O3K1K0rj0J8J8J8J8KJKJk4k4n1n0l7K4K0K0K5K6K6K5
+12817A17lmlll7l7ooOOk4k3jkkkRRk2k1j1j0M1L9M2M3qrl6l7j4m6k8L4M5J4j2j3n2J0L2KM
+12793a9L3K8kj4j3J2J2l7l8JJJ%RRQRK6K8lll4l3l4l4K5K6K5K5LK%%J2l8k7LK5K3K4K4J8j3
+12769G0k6k5K9K9k3n3j5J4K2K3K5k4k7k6J0J1J2J1RRRJ0k5k5k4k4k3k3k3k3llK7K8K8K8K7
+12749A6K8J1J2J1J2PQK5ol7l7qrooool9m1k6NJL2O0L2J5j6k9k8nK7PRl1l3%%K5N5N5K6kjl4
+12724G3l4NOol7l5nK4K3ql7l9qJ2J2J5J4JKJKJ0RK7lk7k7m6j6J9K0K1K1J9K0j1m0l7J4Lk7
+12702g0oM5L1Jj5j7J1J2j5j6j1j2m5OK9K8J2J3j8j8J4J4J3J4j8j8J3J2K6K7K7K7k4k5k4k3
+12682@MONNQQk2k1j0rM0M1ONk5k5l3l4o2j2N5N5PQj5j4j5j4k6k5k5k6L8L8L8L8NMNNK0J9J9
+12658F9K0j4j4j3j4k0k0k1k0J1J1M0M2J9J9n2n1QRm1m1j8j8L2L3L4L3MLJ2J2j9j9QPPQQRk1
+12636D2k2PPn9o0l9K2P6M5PQNOm5m4OOJ5J6J4J5j1j2j0j2QQPQmnl3o5m4J6N1N1M4M5k6k5%
+12613A9JJJJ4J4J5J4L0L0k0k1llmlK0K0j1j0J2J2l8l9k5k4K6K6K1K2rrj4j5j4j4j8j6J4J5
+12591A7lK6J7m4l1K7K1K0J5J5J5J5l1l1jjk2k3QRk0k1k1k1qqK2K2K4K3K4K4RQQRQRRRj9j9
+12568H9o5o5j2M9N9L0k6n6k7KMLNNK1K1K2K2K7K7k4k4m1m1j9L1L6L6j2j2k7k7k7k7M5M7k4
+12547B5k4k2k2k2k3onooPPPPJ1J2J1J1L8L6L7L8j%k7k8m4QRRk0k0k0k0PQL7L8K1K1N0jl2l3
+12524G3o4j3J0J1j6j5J1RJ1J0j5j5o2o2k7M4P2M0K4K3rrj5j5m4m5qqqql9l8J2J3K6K6K6K6
+12503f8O2O0jn2m5m6j9j9OOPOJ2J2J2J2n7n7n7n8K7K7P8J08Q6L7k4k4k2k0k2k2MNJ5M4O0J0
+12482H3n1n1POOOj7j9j9j9J6J7J6J6J6J7l3l4nnnnonnoL0K9K9K9L5L4j6j6n4n4lmJ8J8J7J8
+12458C1l1l2l2l2J6J6J5J6QRQQl0l1l0l1M5M4k7k6K8K8k3k3qqJ1O2M9%KJk1k1RQppqpK5K5
+12435B9mnl8l9qrj0j0j0j0KKKJN2N2K0K2k9k7l0l1l1o1m3RN1N1N9lp9p9QRK2K2K2K2M5M6M4
+12413C6M6rqqrk4k4k3k4j9j8J1J2NMk6k6K4K4K4K4JJk9l0QPPPKKKKn4n5J7J6L7L6POk0j9k0
+12388g7j9J7J6J7J7K4K3K5K4rqrrK0J9J9J9j6j7j7j7M5M5K9l3m7m6k1j9J9J9j0j1rrrj0K3
+12367bK1K2K3RJ0k1k0J0J0k1k0m1m2K9K9N6N7j5j4n0n0j9k0MNNNJ8J7J7J8K2K3llj0j0j0r
+12346C0l0l0nnK7K7qpQRonK6K6rrJ2J2j4j3lkJ2J3oopol6l8J8J9J9K0MNj6j7m7m8J5P6P6J5
+12321I6n3n3jkMMMLL0L1J5J5QPL5L4k8KM4j6n3n3n6n6K9K7K9K9RQRRl4l4m9m9KKK8K7K9K9
+12298F1j6j6%jj5j5j4j5j5j4rj0L7L6J5J6k0j9nml7l6oN6M6M6RRj5j6kkl3l5l2J9ONJ%j4j5
+12275f9KJPL7M9jk6k5OON0N1k7k8lkj%L4L5rrrrj3j2rM2M8kj0m0o3o2k7K3L7L7K6K5pqJ8J8
+12251H1k2k2ppk1k1MMk8k8j3L8K2qJ1J2jkK3K4LLMLJ7J8J7J8nonnLKLLk5k4k4k4K7K7j9j9
+12226C1l1l1MNJ6J6k7k9JKL7L5K4K4j2j2m8m6j2j1K1K2K1K0l3l4JJKKK5K4M2J1k1k1n8k8K5
+12205d2K5j4j4m3m3j8J3K6K7%JJ7j2j9j8pK3K5K6jjOL7M5M6J0o1l7qJ8J8j1m0k8KJ3J3M5M5
+12183F4L1Kl0k9jjQQK5nk6k6j4J6K2K1ppkljjNL6Mk5k0j9PP%l1l0jj0j1rr%jL0N9M4ok7k7
+12158A0mmlmk1k1K9kl0%J1J1K7K6onPk2k4OK9%j1j1j8j7l4mK2K2K4K3onK4K4rj0rrl0l0%%
+12133e4qqK2K2J3J3J1J3k2k0QRrrj9n0m2QQQJ9J8J8J9K3K3opK2K2qrm0m1j0j1j2j2m0m0J4
+12111a64O4N2K3K7K8mnk2k4K7K7L6L7OPj2j2j1j2J6J6J6J6QRm3m2m2m0K9L0J2J2J2J2j5j5
+12090E9m5m4K1K0K0K1k3k2K8K8k2k2k1k3K9K9K9K9j5j6j5j6k3k2k3k3J%J%mmK7K6%JKKK9O1
+12068H0M2qk4k3MMJ3J3j7j8j7j8L3L3J7J7J7J7J3J3l8l8k2k2k2k1J0J0J1J0l5l4mmppppK2
+12047a4K2K3K2QQPQk5k5k6k4RPRQNMo1o3j0N1Q2Q4M1k0j6j6k1k1k1k0%%L0L0J1J0m1m0KLK
+12023B2LJ5J5J5J5j5j5j5j5NMk6k5m5m5OOK9K8K5K4N5pj8j9k7L3L0K9mnnm%JJ%J6J5J5J5j8
+12000A14j7J2J3k7k8k7k7l8l8l9l8L3L3L3L3KLk8k8j6j5J5J5M3M3M0M0J4m6m7J5J3J3j4j4
+11981D0kklkk1k0J0Q%%%%j6j8j7j8lkM7M7K4K4K5K4ppl7l8NML5L5j2j2j2j2pok8LK1m0l3l4
+11956e7lkK7K8K0K1n0n0QQQQooooK8K9kkJ3J4j6j6m1m0L0L0M2M4J3J3MMMLl1l0jjK1K0L0O0
+11932A64L5k7m1m1j3j3J8J7kkK8K8nonol6l5J4J5qqqqj1j0j1j0qpK1K3MMk6k5k8k9M3M2%J
+11909B8k7k6NN5N3Mol6p2p3l5l5L6L6M8M6O2L1k3p2r2o1kK9J4J3N2N0J%rj1j1j0NOk4k5kl
+11887h1l4l3J9J9J9J9K1K1rqL6L5L6L7j2j2j4j3l7o6m8LL5L6L8L9K8K8k3k2n1m9j0M1M1J3
+11867D2j5J5J0J1j9j8l0l2J9J8OOOPj2j1j1j1k1k1RJ0pqppLKKLnnmnM6M4J5J5j2j1j2j1M4
+11843C8M4M5M4k8k8l0l0k0m9o1j0M8M7K0K1ppK3K4l9l8l7l8lmllj2j2j1j2J6J7J6J6K2K3K1
+11822CK2J6J6j5j4l1l2J9M8M1rrrNMk5k6J8J7J8J7K3K3K3K3L3L2j9j9o8o8m8LK4pp6p8j3j4
+11801a52j1j2K1N1O3J2QRONppppj8j8j8j8L7L7L6L7K8K8k3k3m9m9j6j5%N1O4nn5nL1L3K6K5
+11778I3M1M1J3J3pn8p6m7NMJ3J4j7j8J6J5J6J5K5K4Mm7o0k9JJJ8J9J9J9PPPPRRRRn4n3k3k2
+11755a8K1K1K2K1K6K6mnm2m2k6k7M0M0K0l1m6j7J4J3OPrqM5M4K7K6nn5m3j2nK4L7L6L3j8k0
+11734A16j9j8j7J3J3j5j6j5j6MNMMK8K8K8K8l5l4l4l5j4j3KJj4j3J7J6J6J7j3j4oppqJ0RQ
+11712DRj6j7L2L4j3j2m1m2j3j3KKPPPPmnnmJ7J8J8J7noJ0RJ0Rk0k0ooonK5K4k4k5j6j6J5J4
+11687d3MLk7k7l5l6j9M1O9O8N6nj1j0L3L2j6p7p6j6K6K7J5J5M1M3k8k9k0k1J0RK0K2rj0j2
+11666Gj2k7k8k0j9J0J1L7L8O6O8%%l0l0L2L1J5P5J19J49J98J98J17k5j19j48j65j35p9m9j5
+11649B70j5j3j4j4j4m4m4NONOj4j3j4j4k1k1k2k0k9l0k9l0L7L7j4j3K0K0K1J9QQQQK4K4po
+11627G1j1j0j0j0mmK3K2Pn3k3L6M8M7K1K1p3p3m1m3J4J4j6j7M0M0M0M1l5l5j3m3l9K2L7L6
+11607B7LKk5k3m3J8L3Lk2QJ9J9K3K3qpn0m8JJN3N4L7k3j7j7k1k0L7L8L8L7nnl6l6j1j1K0J9
+11585H5m5m3j4j5RRQQLMLMJ3J3j8j7m7m7m4m4j5M6N9K8J0RQQK0J9M8M7on6m7j6j1m1kM7L3
+11562A3j7kK6L4L3j6j5QQk2k3LKL3L3k0j9k0j9K9L0jjn7n5k6k6kjK8K9j5j4J6J6JJJJJ3J3
+11540@J1J3j7j6j7j7J6J7j5j4J0J0J1Ropppj0j1j0j0nnO3O2L7j4l6l5jkjjJ0J1J2J1llK7N8
+11516A18M1j0K0K0l1l2l2l2j5j5N5N6J5J4j7j8n6q6o8j7K3K2K6K5N0N0%%k7k7MMk6k6k6k6
+11496d4J4J3j8j7K8K7K7K8j2j3j2j3QRQQOOnl4k9K1qrj5j6j6j5qqK2K3K8K7k0k1PL7M9kl0
+11474C1l1l2l4J2J3J3J2L4L5MMk2k2k0k2j5j4j5j4m4m3QPL3L3L2L3k5k4OOK2K2K1K1M1M1J1
+11453A18J0m3m2m3m2k3k4PPopooJ3J4J3J4QQRQJ5J6j4j4j6j6L2L0J2l8l9J2M8M9KJRRRROP
+11429A16m4m5k5k4PPJ2M4N5Mm6m6rM2M5J5j6j6rrl9l9l2l3kkK8K7lml5l6j5L5O5L4MMl1l2
+11407d8l2l2LKLLJ9J8J9J9JKJJK0J9K0K1J2J3J2J3J5J4J5J5ool7l6l6l6l4l6k2k2RRRRRQJ3
+11383c7J3J3J1j7j8J2J1K2K3K3K2l3l3l3l3nmK6K6%jl1l2mnK6K6PPL7L8K4K5K2k8m4m4K4N4
+11362I0L6j4l4l5l7l7J3J3M7M8M8M8j9j9m6m6n0JK3K3N0N0K0J9l0l0m5m5j2j1j1j1k7k8LL
+11342e2j8j8J3J2M9M8k2n2l4J7J7J7QRPQpnl4l4j6L5M0J0j3J6K9K8LLj2j2ONk5k6L0L0%jj6
+11319D3j7k7k8l7J3N6N6MMMMl7l7n0n2k3k3M8M8N6N8L5j6j7j6J0J1K5K5K5K5k4k4MLJ6l4n4
+11298E7k3l1l1l0l0K4K3Lm7l4lQPOPL7L7QQm2m3J3J2J3J2mnK6K5J7J6J6J7MMKLk1n1m7MM2
+11275IM2J6J6j8j7J3J3nnk1k1j2j2J7J8k0j8J0J1K6K6k4k5j8j7J2J2j0j0J9J9K8K7k3k3k6
+11255Ik4K4K5O9O9kkj8j8m9m8m8m8j9j8j3j3L7L7K1K0OMJ2J1M2M2j6j6l2l1mnK5K4nl6l1J9
+11233@K1K2K5K5k6k6k6K5O2L2j8j9j2j2L7L6K9jk3p4o5j3K1K1jn1m1j1K0K0K1K1M3M4K3k7
+11213A02n2k2K9K9k1k1l2l2k1L0J5J7%%j2j1KN3N0k2n2n1ool2l2k8k7l1M1N1N1LKj3j3%J%
+11192f1JJ2J2j8j8l9m0J2J1K7K6mmJ3J4K8K8J0J1k1j9J6J4j5j5K3K5K2K3Ok4l8J3L0jj1j1
+11171C8k1k1J0J1QL7L4j6n7n5k9k9j9j9j9j9%%J5J6K5K5K3k8k6k5MLL8O9K1n1l4l4k4k4oo
+11150a85M5P5N0jk1k1LLL3L2lkl3l3L6L5L6L5k3k3k4k2l7l6k2k1QQL6L5j9p0m0J1M6M5J8J9
+11129b7k3k2ppJ%%%j2j3j3j2K3K3qpL9L9N4N4J9J9l1l2J8J8J8J8m5m6j5j5J7J7J7J7OOOOJ8
+11107A18J7J8J8k3k2k2k3RRk1k2j7j7j4j3RN9N8Qj4m5k9K2K8K9k0j9n1n0L9M0K2K2k6k6k5
+11087B6K5J4j6J7J6nn6m5j6kl3k4NJ9M9K6mj%llK7K8mml4l4J3J3M3M3J0J0m1m1j2j0j2j2k6
+11065e4k5K5K5J1J2J1J2J5J5J5J5%JJJQQRQm2m2m1m2L1L0L2L1jkkkjkkkJJJJj6j6J5J4PPP
+11039G8PONNNNMNMn7n7n6n7j5j6J5J5onooK2K2K2K2K1J9K0K1K3K3qpk0k0J0J1j2j1j1j1J3
+11016B2J3J4J3KJJKM1M1J1J1k9l0k9l0mlmml5l5l6l6J8J7J8J7MNMNn8n7k4k3MO6J15N6j0j0
+10993D4k3n3n1RMLOOOOKJKKRRRROOPOqpM3M3J5J6l6l5j6j6j7j5k1k1k1k1K9K9jknmnnj4j4
+10967h4j3j2KL3N1rk6ML4L3OOOPl4l3l3l4NNNNjjl1l1RRRJ0K2K1K2K2QQm3m3j6j7j6j6N9O0
+10943c2K9K8j3j2j1j2J3J3J3J3k9k9l0k9L2L3L2L3%%j%noonj2j0j1j2klK8K7RRNOJ5l6n3k4
+10919d5%JKKNNRQK4P5P4K2l6o7n3n2PPL3L3J9l3k1Rk2k0k0k0jjkjL9L8QQJKJJpopol6l7op
+10893g3K5K4K2K0Qm2m3QL5L4L8L8NMo6o5rrqrM3M2M3M3m1m1m0m0k2k2k1k2N0N0L9l2p4p4l9
+10871b21J3N6K5kK8L1L1L2L2K2K2m4m4k0L9K3pk1k2OOMMk6k6j3j3L7L8k4k5k4k5L8L8L4L6
+10851C8l7o6MO5O9L9Ok4mmj5m5m3J6J0J1%j%%l6l6l6l7L0K9K9K9MLk7k7JKJKoooomnK6K5N
+10826b7Nk6k5k0k0J0J1jjjjK4K3K3K4K7K8lll5l5l1l2k1M1N4K2k3k4K5K4k1k3QQJ5J4J5J5
+10804D3PQPPJ1J0k0k0k1k1k0k0llllj4j4j3j4j3j3J8J7j3j3J8J7L2L3L1L2j6j6j5j5J2J1N9
+10783G0O0Jm9k1k1POMLRm1n5J5O0J1k7k8K1K1j0rl0l1j%J1J2M1M2poopJ6J6j5j4k7k6K3K4
+10760D2k4k4K6K6J9K0j1j1popoK6K6k4k4MMk6k5k8k8N9O0K1l0m8j7jj%JL4L5j6j6OPOOl5l4
+10737b1nn%jL0K9J6J7J6J7J3J4j7j7j6j6j5j6k8k8JKj0rj0j0qqK2K2k2k1QRM9M8J9J8nnon
+10714D6J0J1QRj4m5k6K2K8kl3l1QRN8N9j1j2m2m3j3j4j5j4J6J6J5J5K3K3m9m7j1j2j1j2j2
+10693i3j1L9L9J2J2J1J2KKLK%%j%j0j0K1K0m0l9m0m1rrK1K1N2N1K2K2OOo4o4m3m3K6K6j8n0
+10671a57j2L9K3pj6L5M3M2J5J5k2k4k0k0k6K5M7M6NNNNM2M3J3J2j8j8j8j8j3j3j3j3rrK1N2
+10650H7L8j4l3l4j7j7J3J4jkn0n2J5J4J5J5J4J5J6J5RRJ0Rn2n0J8K0L4L5j6j5m8m7MLK6K6
+10628B6k4k3j9j9J1J1PQN6N8mmlmM1M1J0J1klkkJ1J1j9j9lll3l3k2k1k1k1JJJJm6m8j8j7L9
+10605h8L9L9L8qpqoj4j3m1m0K2P2O0L1K8K7m5m5n0n2k0k1j9k0J1J1J3J4M4M4M8M9J8J9n4n3
+10584B3llk4k6k4k3OL7L6Oj7j8k0k0j4j4j5j4M9M9L6PpK3K3pj3J8kjrql8l9rj0qqk2QO2O1
+10561B8J3J3J2J1J4j6n0m9j2j3J8J8k4k5k2k3NL6K1K0J9M9M9J9J5J5%l0k4k4k6k6J1J0J0J0
+10541E2j0j0j0j1k2k3M4J5l1l1m9j8ML5J9K0NNMLnl6l6nJ7J8K0J9J1RQQK5ok0j8lmK6K7l1
+10518A5l1k8k9m0J1N2N0O0L0mlPQnl6lll5l4j%%%K8K8J0m1o6j7M0Rj7j7N3N1jjjjrrrrL1L1
+10494F4J%j2j2j3j2K3K4K3K3n2n2j0L8M3J2j8j8m6m5k5K6Qk2K8K8j4j4j4j4K7K7K8K7j6j7
+10474B4J5J4K3K4ppNNL5L5j1j2j1j2j4j3j4j4j1j1J9K0QRm2m2mlmmL8L8L9L8RRk1k2k9k9J
+10451G1Jjkn3n2K7K5K6K7J3J4l7l7j4j3j4j3K6K5K6K6kjkkl4l2L2L4Qm2m1QK8K9KKk1k2L0
+10429D5K9J1J0k0k0j4j3J6J7K5K6k6k5l7l6J2J3K1K1k9k9o2o2M7M8Rk1l2J8L4L4L7L8QPQQ
+10408A16m1m2J0RKKL2L2qpk8KLm8l2kKL3Nk6LLKLk7KJ6l4n9k8RO0N6j5l2J8J2j7%Jj0l9n1
+10385a13%L4L5PPPOOPJ2J4l7l7k0k1L1L0L1L0J1m0l9j0ML4L2L4j5j6l1l2l2l2M2M1J0k1j9
+10364e0J1K3K1j6j6j5j5l7pPPJ5J4J4J5K5K4K5K5j9j8j8j7%%%%KMONpK3K5nk6Mj3j3J4M5M4
+10340A06J4j9j8j9j8l1JJ3J4J1J1J1J1K0K0K0K0kkkkkkp1p1n9l0PL7J%k6k6J0L9K3K2RJ0j8
+10318A2j7j5L4N4K4j2j2l1jK6K6pl7l8o8l2J7J5j7MMl6l6kK8L1L0j8j8nnK6K6LMLLK9K7kk
+10296A5J1J1J1J2j2j1j1j2m1m3%N1M2M3J5J6OOk5k4k6k7k5k6%jK0j0j0M0P0K0ML3Kk9o0l0
+10275EJKQQQQJ9K0l1l1k6k7K4K3L5L5j6j6j5j6j5j4l2l1j%J5J5M5M5M1M0rj0J7J6j3j4n7n6
+10253@k6k7j4j4L7L6mmK5K7JKJKk5k4ONK6K7K6K7k1k2k1k1j9j8k0j9l0k9%JL7L7L5L7J4J3
+10230F4J4J3J5J5j6j6l9l9rqJ0J2j7j9K9L0L0L0j9j9J2J1J5J5j6j6l3l3lK8L4k6k0k0J3J3
+10211C5j7j7j%j%k8k7LLNNMNK2K1m4m6j3M7O2O4L7L7LK%o2n8n7k9k8K2K1J2J2j9j9KJKKj1
+10187d8j1j1j1NMNNL4L4LMj9k0k1k0LLL3L2kjK8K9K5K6qo9o2lj9n0m2K0L4L4J8J7j4j3RJ0
+10164b9k1k2K9K9jkJ3J1J2J2LKN4N3LMk8k7QQQPJ8J7l4l3j6j5J4M4M9j3opm8m9j8j8%%K7K6
+10141F4L8k2m0l9k0k2RJ0LLMLJJL1L1k8k8k8k9J1J1J1J1J8J8J9J8qqrqklK8K7J3J3J3J2J1
+10118A38J0J4m7l1l2l5l5j8j8J5J6J7P6M6j4l6l6l8m0l4l4l4l3KKL3L2K1K1K1K1P3P4L9k2
+10099A34n7k5j7j6nnnmRRO0O0opopRQRQj2j2m3m3qpqqk6k7MLJ%J%j3j3j4j3j%L0L0K0K0K0
+10073B7K0ppppl6l7opQQRQL9L9J0RJ%KKoK4M2k0q8q8o2o2LLL3L3J3J4J4J4MNk5k6LKLLkjQ
+10046i1L9N7ll7l8J9J9j1j2j9k0J1J1qqrqPOOOqqrqL2L2JKJ5J6J5J4L1L1J8m3m8J1M2J1k2
+10023D2k1K7K7onooj5j5j5j4K0K2rqK0K1j2m3k7k8K1K1nnllML3L5Mj9j9ll3l6l6J3J3J6J6
+10000c7M2M3Om4l2l%j%jK0j2k4k5%%N0N0RRm0o9o6NN2K1rj0j1j1J0RQQN9K9J8J8k3PQk4j5
+9977B4j6j6j7j9j9J3M4L8RkkJ1J2RRM9J8l5l6j1j1J9J9mnn4n2k9KJ3J4Mk6k5ML2L2MLJ8J8
+9954C9j2j2J1J0k0j9lklll3l3jjOL7J9K0L0L0J%OOk4k5k7k8M1M3J6J6j5j4kkl3l2j3j4J7J7
+9931fQQk0k2L1L1%JK6K6J1J0k5k5m1l9j3j2kK8J6l5oK4QPK4K4L0K9j9j9QL8Km9n0JK0J9op
+9908C4pom0m1m0m1J5J5L1L0j0j0M1M0J2J3l8l8j1j1J9K0J5J4J5J5j6j6j5j6popo%JJ6J6KK
+9885a6k8k9j9j9N2N2L5L6OOk9k9m2j3RN8N9Rk1n2n3k5ONk1k2LL3K9k2m5m5M3M3M0L9j0m0k1
+9864c8M9P3M3j2m3p2m1mM6P1P1JKm6m5j4L6N6N5Mm7n1k0j2j3NNM2M1rrJJ%JK1K2l0k9m1m2
+9841B8RRMML3j8l9l8j2j2nmmnQPL5L6j7m6l1K1L4LRQlmJ1J2j1j0j1rk4k4qrj3j2j3L8N3K2
+9817Boqj4j4J6J6RRo0o1l1l1j%RRL9L9RRRRL0L0K8K9M7J7Kk8o9l8J6M8K8K8M8J7o3o3l4l3
+9794bk2k2K8K8j5j6j3j4k1J0ppKKLKLMMLJ1J2RRKk9k9KL3L2MMonqpJ2j9l2l2j0rj0j0J9K0
+9768h7J9J9K8K7lkkkK6K8j7j8j7j7k5k4RL9K6K6M6J5m0m0j2j0onlmj5J6M5J5j8j8k1k0qqq
+9746f6qNNk3k2ON7N6OlmpoK2K3qpLMj6J5K8kj4j4qrl8l9j%k9k8J5O5K1rMk7o2o2K6K7K6K6
+9721g2rj0j0j0klllJ9J9M9M8K8K7m3m3k4k5OOJ8J7M7M8j6j5j6j5j1j0j1j1rrk9JJn0l6oK8
+9698a39K7K9K9J1J1J1J2J7J9l1l2j0j1K0K0O1O2m9m9nnnnK5K5K6K6k0k0k0k0L0K9k1k2k1k1
+9678a6K8L0mmn0n2j7L3N4N5PPm4m3KJJKj3j2j3j3mmK7K6J9K0k9l1j4j5j4j5J8J9J8J9qql8
+9655g5l9MMLMj0rK1K1K9K8K8K9L8L9j2j2m1m0j0rRQk1k1lklkkkkkK0K1K0K1j4j3j2j4K7K8
+9631C2K8K7k6k6n5n6K5K6mnJ3J2J2J3j1rm1m0KLKLL8L8QQJ4J3j3j3jO0M3J2m3m4m5m5n5n6
+9609a56j8M2K1K2nnL6L5ONJ3J3M4M4j7j6m7m5qpppj0rrrJ8J7J8J8O2O3K8l2m9j9ppjK9J1J0
+9586F5j9m9m9j8L1O1J2j8ooRk1pqrj0j0j0opON8N6Oj7j6QQrl9m0rL0L0KJJ1J1rK2J5l5n1k2
+9561e8OPK5oj6j6jl2m1m1rK1K5K6K7K8kkK9N8N8Ql4o4n3k3L0K9K3K5K2K2J7j5LLJJJJk7k6
+9538C0k7k6j2j2j2j2L8L7L8L8L1L1kl3m7m7j8j9K3K1M0Rj0j0kK9J0m0k7LK3K3o6o5nnO5O5
+9517E7L8L8j3j2k7k6MMJ8J8n3n2k5k5NOJ2J3J2J2j1j3LLk6k6NMM5M4norj0ONj3j3J6J7JJ%
+9493B2JPQPPKJKJk4k3OPl9m0j0j0L5L4L3L4K0K1j1j0qqrqm1l9L0K9K6K7k4k5k6k6K3K3K3K3
+9470G1k8k7lkK7K8l0l1K0K1rqrqK6K7mml7l5ooL6L7l3l3l5l5J6J6J4J5j6j6k9k9KKLMJ3M3
+9446e2K6l4m6j6J2J3J3J4K0K0J9J9qopqk2k2k2k2L8L7QPJ%JJm9n0K2K1N8N7Ln7m0j0j6j6K
+9424i1JM9M7J7m3k7MJ3J4J6J4QQQQk7k5j2j1K1K0k8l0j1j0nl5m6J4O7O6M5j4j1j1PQPQj2j1
+9401A0J8J9J3J2J2J3l4l4l3l4K7K6K7K7m7m5m3m3NO6M7J8rrj0j1JKJKnonnJ9J9L4L5L4L5j6
+9378A33j6p7p7m4j3K9K9L0K8K5nj7j7qK3K2pLMKKl6l5J4J4K1K2Qk2m3m5POJ7M6P5M5Jk9l2
+9356H3jjkJ%NMk7n8nK3NOllQL9N3K2j0m1o4l3JL2J9J9j0j0llklRJ0k1k1PPml4k2PL9L9NON
+9330G3Nl0l0%%rrrrKKj6J3K4oJ1J1J4j6m6j6K7K6K1m8o0qJ1J1J4M4K6K7J7J7J6J7l2l1J9J9
+9307I2LMk7k7j1j2K0J9J6J6M4om4m5m7m8j2j2K7P7K0l0JJj0rj0j0J8J7j2j1ppl7l8%jM7M7
+9285d%n0rK2K5K4llMNol5PN7N6Ol9l8m1m1J2J3J2J2K8L0j0o0p5k4J7M6L9Rm1m0oM4M7M5jk
+9262C2k9k8k0L1L1j9j8j9M9N0J0J1j9k0j3j3J7J8j1j2j1j1k8l0K2K1L6L7l4l2M4M5noKKL2
+9241A12L2j6j5j5j6J6J7j4j4k5k4k4k4J5J6J3J3%m9n4k4J2J2J4l7n3k4J9P0Q0Q0O2J1n6n5
+9222E5k9k7j8j8L2L1J0J0m0p0l4J7J7J7nnonNMMNmmlmK0J9J9J8POPOlmK7K6k3k4K7K7J3J3
+9198A16l8l7k2k1PRNOOOL0L1L0L1j9j9o7o5o0rN4N2N1N1k0k0nnJ0J1l4l3J8J7POk4k4m0m0
+9176d8rqML5J8l2k3K6J5j7k5NJ6J7K4K3RRK8K7k3k3MLKKm6p5l7J3L3L3L6L6POPOrrOPOOk4
+9151F1n4n8pL1K%K9K7K7PPk3k3mmnmlklj%KJJJ9J8j2m1n3lJ8J7pppqRQRQK3K2K3K3KLm9m7
+9124b8l7l8J4J3M6M6J6J6mnnnppK3K3j3j4j4j3J6J7j4j4l0l0%jPPK2K1J3J3lkm2m4j3j3KK
+9100g9KKJ9J9J8J9J9K0N0N0%%%%j4j4j3j4ppn7n7l8l9qqK0K0K0K0K3K3rj0J9j2NN3K3k7j3
+9078A8J7rrpp%J%%%j%jl4l4J6J6%%L0L0k9l0K1K0K7K6K4K3J9l1k1J1K5K5K7K7l7l6l7l6po
+9054C1po%%l0l1k3k3QPm3m4QPN3N2LKK6K5K6K6m9m9n0n0K9K9P8Q0%%l0l0m5m7j6j6JKL2O2
+9031bK5k3j2J9jjKJl2l4l5l6M0J0mmJ3J4J3J3KJL1L2K1K1K0K1QQk2k2J2J2j8j8j0j0rj0K5
+9008F1K6N5N6L4L4l7l7k4k5k5k5j4j3k4n3q4l4K8K7K8K8llj6j6j4j4j7J4K6K7M1M2Qk2j7j8
+8988@l5oK2K1K4K3J2J1RRJ1k0k0J1MMPOm1m0l7l8kK9L9M0J6j5k8k7j3j3j3j3J2J3J3J3J4J6
+8966A8J2J2Nm6l3nMNNOMMj5J6J7j2OORRk1n1o0j0M8M8N1Kl7pK7K7k1k1RQRRn1n2J9J9j0j0
+8941d8rj0N0M9K0K0l0l0%Jl8l8j8L3M1RL1L0LKk8k9j9k1j8j9J1M2K2k7j3j3j7j6K8K7K7K7
+8920C2j5j5j5j5rj0rrl5l6onM2M3J1J2K8K6m2m3L1L0L0L1l7l6l7l7RJ0RRJKL2L1j1j2J8J8
+8898B1L2L2j9j9j0j0j0j0K7K6lmK9K8K9K8j6j6j7j6l2l2l2l0L6L8j3j2j8j6J2M3j9o8l7J4
+8878f4%%LLMML1L0K1k9m8j8j3j4J9J9J9J9J9J9ooLL4J3n7j01p1nK5J1J0J2J1J2J2K7K6lmo
+8855c9oK4K4kjQL8M3qm6m4oM4M5nmmppj7j6j6j6j0j0m1m0m6m6K6K5L0L1L2L3mK8L9j0k5Mj5
+8832a7o5p5k4L5L5L5L5L5L4K0K0K0K0k2k3QQJ8J7l3l3j2j3l7l8k1N0O5J7l3o2o6l6%%MMJ5
+8811a15M5N7Ok1k1K7K6l1l2L9L9QRj8j8j4L5N6K5j4j3j6j5NNk6k5mnnok3k3K7K8O0O2J3n7
+8790G0o1rPQNNL5L5l2l2kkM7M6J7J6l4l4J7J7j4j3j4j3j7j6j6j6JJKJPPPPj9j8j9j9K6K5k4
+8766a5k5qrK1K2K8K9k1k2j3j4j4j4L9L8L9L9rrrrk6k6k6k6lmlmmnnnJ6J6J6J6POk3k4j7j8
+8742g8j5j6j5J6K9K9kkkkk2k3OOM6J5J4M3J2j8j6J4L0L0L0K9j2m4j2J7LKMNK2K2qqj8j9m9
+8719D3m9LLpl8o8j7M4M4L4L3J5M6L8Qk2k1k7ML2Kk1n2n3k3nnRL9J5j4k4k4qK2NNj3j3j3j2
+8697h5K1K2K2K1J0J1j9j8JJJKl1l0%%QPJ0RoK5ONj3m3m4j3LKNNj1j1KL3K8K8J7j3j3j4J6J5
+8672b8L2L2l7l9POOPK1K3K3K3m7m5MNM1M2M6j4n3n2n2n2j7M3M0L9J2J1J2J1l0l0J9J9J9J8
+8651F5l2l2JJJKNOL6L6kkl3l2PPOPk0j9j9k0J7J6j3j3J1J1J1J1QRRQmmmml2l0l2l1rrK2K1
+8626f2L6L4j4j5j9k0J1J1k0k0k0k0MLP5P4K3K3qpj0j0m0m0KKm9m9k1k1L0L0K4K3k7k6jjjj
+8604a17j7j7k1M0N8N9L2L2LMLLm3m3j3j3pqpp%%L1L0j1j1j2j1QRQQK8K7K8K8K2K2k9k9%%l0
+8580C7l1nnK4K5J3J4J3J3LLKLm2m2m1m2L0L0j%m7m8j7j8%j%jKKrl8l3J7P9P8L1L0J%j3j4J7
+8556A9J7K1K1j0j0JKKJqrqqNOL6L6rql8l9RRm1m2rj0j0rJ8J8J9J8MMN4N4j5j6o6o5n1n1k8
+8532a86K2O3O2mlL7O7L1k0j3J8M8M7k5k6NNk2k2k1k2RRRRj9j9J2J2rrK1K2k7k6MLK5K4k6k6
+8509C9l3l2kkL2L3KLpoopppnpM0M1rj0k0k0J3J4J3O4K5m6m1m0j4j4POL2L3K9m1q9o0jkJJM
+8484i6NMNJ5J6J5J5K7K8klKKL4j7l8J2K8K8J0m1n9o0nM6Q3N3J0k0k1QK5K6mlm0l9J1J1n5n4
+8461c8mmk4k3OPK5K5K5K4k5k5NOJ3J3j5j7PPOOPOm3m5k3k4PPK5K6k2k1PO9N0K1opK3K2K0K0
+8437A19K0K0m8m9j8j7J0J0J0J0K8K8k2k2n7n7n3n3QP0N2K1J0J0QQL1L0L0L1LLk7n7o1%N0K0
+8416I9pl6o5l5OO6L8k3pqj1j1MMMNj1j0rj1MNk7k6K7K7K2K4L0l1m4j3PPk2k1K5K5K5K5J3J3
+8393G7J2J3m3m3j3j2k8k8k8k8mnK7K6j%%jK7K6lmm2m2l9J0K4K4N8N7K1K2j1j1j7m7n9rJ6J6
+8371f2j1j1OPm5m4K9K9jjj1j1J9K0J9J9l1l1k7k8K4K4J4J5J5J4J9J8J8J7k1k1k2k2L2L3JK
+8350fj1j1K0J9k5k6k5k6JJJ1M2L8j0l2l1nmnmMNMMK4K4K4K3nnn5n6j5j4J5J6M2M3rqj1j1r
+8326e9rK9N9P0K0l5l5l8J2K4nl6l6K9K7K6K7J8j3k6k5j1j1k8JK5ml3kK3K3nmm4m4j0K0kjL1
+8304e2L1J6J5J7J6j1j2j1j0k0k1L1L0KKJ9j1n0n1m0rJ9J8rj0j9j8J2J3kjL0K9J9J9L5Oj4j4
+8282fl3lJ4J5l2l2j3J7KKjK9M1j0j2j3j5j6J8J8J8J7K6K5K6K6k7k7m4j2J3J4j4j3RJ0K9jj8
+8261B7J2K1K2Qk2n1k0LL2Mk6k6k7j8J3j4m4k5k5qqooJ5M6M5J5j0rJ8J9OOOOL6L7j4j4KKKK
+8237C2K4K4K3K2ml4m7LJ5j5m5m5jjkjK9K9K9K9k9k9JJK6K7k5k4OOOOj0j0j0rJ1J3j7j7k6k7
+8214f6MMJ3J3J3J3k8k8k8k8M3M2M2M2j0j1K0K0j8j8m7m9pqoplK7M0j0l0%J1J1%%%%K2K1ql9
+8190d8k0L0M5J6l9p1l3J8L5L6j3j2M9M8J9J9l0k9n9rL4Monj1j0j0j1J9K0j2j1j1j1J9J9pp
+8169d5pqnnnnJ8J8J8J8j1j2j1L9L9J0k0k0nlnmJ2J4J3J3J4J4l6l6opooj8j7j7j7L3L2L2L3
+8146C3L3L3K9L0J3l8k7MQRk0k1ppppj0j0l9m0%j%jQRm2m3M2M1M0M2J1J1J2l8k8K4N0%oorr
+8122F6l5l4L6L6J3J4j7j7j0rj0rRRJ0RJ7J6j4j3l8l7j9L0N6Mj6j6k0n0j2L9K0K1poRJ0RJ0
+8100E4m4m3PPM2M3qpk2k2m9m9m4OM6J6k7k8KJM2M1K1k9n6k5K9O0N4N5POj8j9l4l2J4J4J5J5
+8078D1pppok7k7j2j2O4O4K2k9J0J0OPJ4J4l4l5o7l8j3L8L3L3K2K1opQQlkllk6k6j1j0k1k1
+8054d5RRJ1J0nnqqQPJ5J5J6J5KKKKj1j2j1j2j6j7L1O2K4m7l5J5L0jj1j0j5j5J%JJL1L2KLL3
+8030A05j8k6LL1L2K0l1o9l9j2j3j1j1j2j2J9J9K5K6k5k4O5O5L6L5j5j5j5j4j4j4j4j4j0j1
+8010D2k4k2K1N3J6l5k4NJ6J6j3j2j2j2K6K6mmNNNOkkkkl3l3l1l3k3k2QQL0K9J0m1m7j6ll5
+7987a60k0j9poM3M2J3J3l8l7LN4O2L1J%J8J8KLN3N2J3l8n0JK0J9j1j2j1j2j7j7J3J4qpQQO
+7964D0NK1K1KLKKNMm7m7j6j8j8j8j8j9pK4K7mJ4J4L6Ok6k8J4J5J3J4l3l5J7M7Qk3k1J0K7K9
+7942D2j8j8j9J1K3K3l2l2%joK4L6L7K4K3ppKKK0j1l0l0%L0J3j7j5J5L7L8K5mk8k8j1m1o5l4
+7920b9kK8Kk9l9l8l6nM8M8M0L8j2j1kj%kJ6J8J7J7k1k1k0k0kkj9J2L3L4OOJ3J3J3J3J%k8k8
+7896D9KL2J3J3J7j3k6k7k0k0L1L0kkjkJ2J2j8j8k4k3k3k4J3J3J2J3J%%Joponj2j2m2m3K3K2
+7873f7K3K3J3J2Lk7j1L9RRQQm2m2K0K0M9N1l7l6J4J4J5J5J5J5J8J9l2l2k4k5k3k1j0K0L1j8
+7852A6n4n5rj0K1j0k1K9L9M0M1M3K1K2rrPPQPl8l9l8l7k8k8K3N3L3j6nK5Kk8qrJ9K0K0K0J1
+7829G6J2j9j9l6l6l6l7K8K7lkM9N0%jj7j7j7j7kljjqK1NMJ9J9J9J9k4k5k5k3kkkkJ7J6L5L
+7806D2j2j2j4j3NNj3J6L4LqqMMMMl9l8qK3K2oj7j7J6M5K8K9J0J0k0k0MMk6k6kll0l2pK3OP
+7781b3JJk7k8j4J6K9K9poNL4L7PmnK0K0K0K0j8j9m5m4j2L9K8kJJK9L0j5j5J8J7ML5L3Kk6n6
+7758A10o8o7k4K7N6Pk5k3M0M1J6j5m8m7qqqqK0K0M9N0K5K4K4K5L0L0k1k1n0n0%%k1k2k2k2
+7737A6k4k5NNk3k3K8K8J3J3J4J3k1k0k1k1M4M5M6M5k3k3n4n2K3K4ooJ0J0k0k0J2J2M2M2k8
+7717H0k8k8k7k1k0J0RL5L6L6L6m0l9l9l9%J%JN1N2KKKLKKppppJ1J0k1k0LLLKK8K8llk1k0J0
+7691F1J0NONOj8j7J3J3J%l0l0k7k9k9k8K9K9N8N9ONk5k5m8m9m7m7K7N7O7J8j8j6k0k0k0k0
+7670h8L1L1KKLKJ5J4J6J5k5k4k4k5M8M8J8J8MMKKl4o4m6MJ1J0J4J3K4K5K1K2j6o8n6k7Pk2
+7648i3k1RKKP2P0L0k1k3k3KKM9M9kn4p1p3l6J4J7J6NNONPPQPOOOOl5l5l5l5L1L1j9j9mlml
+7622a39L6L6L2L3K9k1qK1J2J2J4J4M2M2M2M2m9n0m9n0M8M7llj6j6j5j6l0l0o0j0L9Qjkj3j2
+7601d4j3j2j5j6J5J5K6K6nmk6k6K4K5K4K3K4K3J6J5l5l5j4j3j5j4NONOj6j5j6j6K4K4k4k3
+7580g1k3K7M7J6MKL3L2jjk8k8%N2K3k8m4j3J5J7j7j6j7j7RRRRJ0J1J1J1K3K3O8L7J2l8m2m1
+7558H5J2J2J2J2jj%jQPPPk3k3k3k3j9j8j9j8K1K1k9k8kkl3l2k7k7M5M4K7K7K6K7J8J8l3l2
+7536B2l6l7j5L5N2N3N6N6k9k9k9k9POo1o1l2J9M0M0K0K0j1j1JJk9k9j8j7J2J3K1K2k7k9QQ
+7515a7PQK1K3J9J9j1o2m9j9J0J0j9j8J3J3J3J3PQQPL4L5j7j6llklJ7J6j3j4k0k0k0k0M9M9
+7493E3j1o0l1jJ0J0K4K4oonmnmj9j8j8j8rqM2M2J%JJJ7J8l2l2LLN3N3L0L0jjm2m3p1p3k0j9
+7468a42L1L1rqK2N2N3Mk7K4N8K8ol6q2q3m3QM2M2M4M5m0l8l5l5j2N8M7mj2j2j5j5j0j0K0K0
+7447d5ONNNm0m1rj0ppM3M4J%JJl1l1l1l1PPN8N8K7K7K7K8J2J3J0m0l9l9j2j2j5j5j5j5L9L8
+7424b3L7L9K4K4pok5k6k5k4J7J8j2m2n6nJ5J5L0L0j%OPPPj4j3j5j4LLKLm7m7K4K4J9J9j1j2
+7401e2kkklqrK2K2RJ0J0Qjjj%L7L7L8L7k4k4k3k4j4j4J5J5ol7n2PM2M2J7J6K3K4K4K3J9J8
+7378B16j2j2j6j6jjl7l7l6l7kkK9K9J6J7Pk4n0J1M2J2k2k2OPJ1J2m0l9j3j3jN9N6mj6j7J5
+7356G5J6J5J6j5j6j5j6j4j4j3j4j1j2j2j1j3j2J8J8J7J6J6J7L1L0%%o2o0k9L3O2Kl0l0j5j6
+7336d8J5J5J8J9MMk2k1p3p3JJJ7P9O5O7N0j0l6r6p3j1Rk2j%K4K4ppQPQPK2K2k9k9RRL9L8J8
+7312D1J9j2j2K4K4opJ4J3J4J3qrk3k4j5j6N2N2L2k8m5m5jkK9K9J0RJ0J0m2m1k6k6l9m1rj0
+7290i2K0J9MNK4K3RRLLJ8J8jkJ3J4J9J9j1j2k6k6k6k5K0K1K1K1K8K7lkkkn2n3k7k9KKK0J8
+7267IN0N0j8j9l3l3mlML6L8k3l8l7LKL2L3k0k1j9k0OOOOqqPPMML3L5J3J3kkl8l7n1n3j5j5
+7243a20kK8L8L8Rk2j2J9J8j4j1j2Nk5o0l1j7j7J7M8J4J5J6J6M7M5j3j4m0m2ML5M5M7J5j5k9
+7222B3k8qqrql1l1J9K0J4J5j6j5OOQk3jjj4j5j9L2N3K2RL8O2J1j2m2m5j4PQk0k0MMJ9J9j2
+7199Gj0j2j2JJJ2M1L0jl3l2lll3l4J3J2J3J2mnj8j8J3M4J4j7k0k1RQK4K4M0L9L5L4l6l6l7
+7177D1l7l5l7j5j5J5J5rrM1M1K7K9lkLKKLqpn7n8K3K3qqk7k6MMK1K1K1K1QRk0k1L5L6NOk8
+7153B6k7k8k9J8J8L2L3J2J2j8j9m9n1j1L9P5K5l5l3J1J3O2O2L5Nj8o9r7o8j7j7rrPP%JJ%N3
+7131e7N3K2K3K5K5K5K5j8j7m5m5j4L8N5K4k1n1m8m8m9JLMJ9J9j0j1JKL2L2PPk2k3RRQRJ3J4
+7108B5J0J1L0k0m1j1Rk0l3J9L8Qk1k1POOPK8K8kkrj0j0rl1l1l1l1j2j3L9L8mnmnK2K1j1j1
+7085d6j4m5n7nK9K9j9j9K6K6N6N5mmmm%%%jJ%J2M1J2l9n5k5j1j1K3k8m7MO2L1j6J4M1J2k8
+7062hk8n9qK5K5lkN6N5N3N3K7k3m2j2lkjjl0l1l1k9nnK6K5K0K0K0K0k0k0o5o7k2M0N4N6k5
+7040C3k5k5k5qrqrj7j8N0N0J9l9OO7Q3K2l1l1j9j9j9j9J6J5j5j6%jj%lkklkklkqqqqM0L9J0
+7014D5RJ4J5j7j6jjl2l1k0k0J0J0L5L4%n9p3m3rK1M7M7M9M9nnmnjkjkKJm9m9j8j7J3J4NON
+6990d9Ok2k2k2k2J5J6l1l0NO6O3O1N4N4KLj6j7o8o6k1k1RRJ6J5J5J5MLL4L4K4K3m7m7m4m2
+6969d1PPj5j4J4M5K8l2m4j4L3L2L0L1Pn4n4PO6O6k0n0l2L0M0J1LMKJj5j5J5J5JJk9l0l7l5
+6946c5qK4J3m7k6MJ7M8M8K0L1L2k0k1j9j9L2L2nnK5K5J4J4l7l7J7J7l4l4l4l2llooooqpqp
+6923f0L8L6j3j1qpl8l7NNk5k6opK5K4k1k0L0L1K3K4K3K2MML4L4k6k7k6k5K9K9L0L0j8j7J3
+6902G5J3k8k8K1K1J2j8m8j8k0k1l6nJ1J2L0Jj9j8k1k0ooooNMJ8M8M2M2poj6j5j4j4L4O3K5
+6880H1k5rqj1j2k1k2k0k1k1RooJ2M2M1J2k8k8j8J4K0K0Qk1K4K5qqnomnqpJ1j9j3J7K5K7J7
+6856D5j4LMOPOPmmM4M3j2o4n2k0JKLMK0K1rj0j0j0ppjK8J3J2J2J2jl2n6n7qq%%L1L1J2J2j8
+6831b5j9LLJ7J8J2J4l4l4jM8L8Qm0m0k0L1MLk0k0kM8N2K2J1J1poMMj1j1l3l1n0j9M0L8J9l0
+6808en1n1mlM1M1J1j9k4K7M3J4k2k3NNk1k2QL9K2k6m5j4L4L4NNqrqpl3mL1L0K2K2ql8n7oL5
+6784c4L4j0j1J8J6J7j3j1j1m2m2m5j4K0K0L8QopQQK7N6L8j2k1k1OOk8k9KL3K3pj8j8j0j0r
+6762e1j0nml9qN4K3rqQPL8L7%%KJk0J1M1J0ppPk2mlonrrrqJ2J3J3J3K0J9KLj2m1n3n3pK4L7
+6736a4L5J1J1k0j9oqK1K1L8Qk5k6j3j4m1m2j6J4M6M4ll3l2l2J1J0j9k0j3j3L7L7k5k5K6N7
+6715c2N4K5J3J3K0K1Qk3l7l7l9j1J6J4L0L0K1j0k3k3mlkkj9RM2M2J4j5l1%j6j7j4j4j8j8j4
+6694e0m5m6j5J6J7K9K8K9K9K8L0k1k1K0K0j1j0m3m3PPJ5J4M2M4k8n8n0K0M6M7M8M8j0o1m9
+6674B3j9jkJJljlkOQN8N9L8L8l3l3j3j3j4j3m4m2mM7Rk2k0J0M1J1jjj6j5j6j5mll4l4OOL6
+6650b3L5K8K7k3k4l1l3lkj5j5j5j5N0N0M9N0NMKJj2o3o1j2K2K2llj0J9L2j9l1l1o4j2L4L4
+6628e6L8L6L2L3j9j8ooooj7j6J2J3jkkkk6k8LMQRRRL0L0L1L0J3J3j8j7j2j1m1m2monok1k1
+6604f2K9L0j9k0J1J2L8M0j1j1l5l4J6J6L4L6J3l7m5m4K3K2j7j7j8j8L5L4L5L5qqqqj2j3J8
+6583C2J8J2J3M1j0o5o3MLpqM2M3rqn9n9ooK4K5MML5L3pqO3O3N1N0k0k1k2k2n3n3nnnnj5j5
+6559DJ6J6k9k9k9k9K4K4K4K3J3J2J2J2P0O9M1l0o3l2lll5l5mmk9k8k9k8k0k0J2J2oK4M4j8
+6538e1j6J5K3K4k2k2k3k2J3J4N7K5j2p2p5j4%jL3L3K9K9kkK9K8k0n1n8LL8L8%%%%k2k2QQj6
+6516g6j6L4L5M7M8M8M7J3J3l9l8j9j9J1J2ononJ9J9l1l2k4k5OOL7L7PPK0K0Qn4p7j7J8J8K6
+6494F7N7M8n3p9m7m0j0K3qqK3Qk2mlK6K5k4k5ppppj9k0J0J0J0RL7L7Mk5rj0j5j5j4j5kjK9
+6470g3K9J5J6J5J6j5j3Nk6l4nK6K6L1Lk9k9k2QJ0k1J1M1L8RK0K0J7J6nl6j9j8J9K0j1j1M0
+6449H4M1L8L9Lk8k3n2j9J1J9J9N4Lo0o0n3n2%L2K3K5K7K7JJk9k9m7m8OL6L3L4K3pj0j0l1%
+6428B1Rk0kk%%L0L0K0K0Ok4l1l0lkk2k3QQLLLLK1K0pql1kM9M9Rm1m2m0m8j8L5O5K0l9l5l5
+6404g3o4o3j4j3L9L9QRmmJ2J1L3L3J7J8K1K1PPmmj7j6J9N0L7k4l0l0l2l4mmK6K6j1j1j1j1
+6381d5LKL3L2k6k7j3j2J1J1J1J1N3N4MLk1k1k1k1%%J%j2j1k8k7RJ0L8M0RRPQpl7n3PL8M0q
+6358E4qkjK5K4K0m1l7l6l1l1jjooM1M0J5m4m2j2RL9L9J1PPONj1j2j1j1poQP%%l0k9j0K1MM
+6333d0l6l6J5M7J4j5k7k7NNk5k5jjL0O1N6K7k6k4%JMk6k3PL7L5nl5l0l1%N1M9%KK%k9j9j9
+6310e2pK3O3O4J6J5j4j5j4j5PPk4k4J2J3k2n0l8l8l8l8J0M1K3K4J%JJJ0J0k0k0jjJKML5L3
+6287a5L3jjk8l0k6Mj4j3J1J1k0k0L4L3K0j0l0k9KL2L4L3j3j5l2l2KL2M3M2K9L0j7j8L3L4p
+6266A21pk1n0m1l9j1j2j0rK0K1K3K2K3K2l1l1l1l2PPL5L3Lm7j9k0oppoOPk4k3K7K7K8K7M0
+6244A5M2j0rj3j3j2j3POOPoonnj7j7m7m7J9K0J9J9RJ0J0RJ3J1J3J2mml3l5k9k9M2M1lllmO1
+6219B4O2M0j1j0j0j4j3J1J0m0l9KLL3L3PQk3k2K1K1j0rMLMMk7k6n5n7j2j1QO0O2L2jl1j4j4
+6197Cj5j5J4J4j5j6KJKKm9m8KKK0J9j1j1J5J5J6J5kkK9K7QQPQj0j0j0j0NNNMK9K9k2k1J6J6
+6172G1J6J7m9m8j7j8ppK3K3K2K2ql8o3lL1L2M3M4ppqrrqK0K0j1j0m3m2K8K8j7j7m7m8j4j3
+6150a28j0j0L9R9R8L9n1n1mmj3j3j3j3lkJKj7M4K7lj5j6J2M1N6nl6pk8k7k7k6KKKKK7K7K6
+6128B4K7j6j6J4J5k9k7k9k8l7l6kljM9P2P0K3K3k8k8rrrrrrj0j0J6J5j6j5J9J8J9J9MLk7k6
+6105hl3l3llJ7J6J6J7k5k5k5k5J3J3J4J3j1j1j2j1M6M5onooooJ0J0m1m1K2K2O8O9M8lm3m3
+6083B8j9J2K5k6p0m1j0j1j8j8J2J2L1L2L1L0j5j6j6j6J2J2J2J2KJKKJ9J9K0K0ononJ7J8J7
+6061A00J7k7k8k8k8J1J0k0j9J4J5j2j1J4O7N5K4j2j2j4j3nmmnK6K6k5k5m3m2m2m2kkK9K9O
+6040b2OONK6K7N7N8MMk7k6j1j0j1j1kknnNm6o4l5%%KKMNNMqqqqJ2J1J2J1J0RJ0RJ2J2j8j7
+6014a6ppopj2j3J5J5K8k3m2j2J4J3J6J5j1j1J9J9rqppk5NJ8l2j5J5K7k4m2RN6J05P5Mmlml
+5991A18l4l4l3l2l3l2M9M8M5M6j3o3n0k0j1K0L1L3K1j0k2K8J6j4POMNMNPPk4k3J4J3J2l9m0
+5970A2l8K7K8L2L2m0l9k1k3k3k2kjjjj4j3j4j4POPOl3l3l4l3L8L9QQlk%N0P1P0J3l8l4nON
+5946a6J7J8j3j2K9K9J5J4llPL7J2l9l6l5k8K1M2J0j2j3j5j4k7k7K3K2ONj0rqpK2K3M1M1L0
+5924A37m1n9n9PPONk4k5m8m9j8j8J1J0J1J1LKKKKLKKL0K9L0K9qqrqL2L2L2L2NMNMj7j8j7j7
+5899D4PQL5L5l8q9j01n1K0N1K3pJJJ5J4k2k1QRK2K1POj1j1K0J8N0M9kjk7k7LLJ5J4%jl1l1
+5876B8%jj2j3k7k8K1K0K0K1j3j3j1j3K4K6K5K5PPPPk1k1k1k0popnJ2J4j6j6j4j4L6L7QPL7
+5853I0L8MNMNj4j3m4m4l6l8k2k2jjj4j3K3P3P2K3j9j8k1k1m1m2j0j1L3L4M8M9j7j8J3J3l9
+5832Hl8p0p0K3K2K2K3J8J9J8J9NNk4k4J8J8J8J8MMpl5m0J1M8J8lkj9j8lmJ2J1J0J0J0J0l2
+5810A3l2llqqPPL0L1k0j9k1k1J0RMNJ9J9k8k8j4j3JJJJJ6J5%J%%N0N0qrn9n9j9j9j4m5rM2
+5785a27M2M2MMMNOPRPRL9K3k8l1J9L8L8LMm8m7k2k3PQK9L1O0O1m3m3j2j3mnk0j9l7l8k5OL2
+5762d8L2L3L4K0K0Rk1l2kL0L0k1k2ppPPK4pm2m2OORRRQj1j1m0m2j3j4K0K0J6O5P8Pl6l7m1
+5738Cm0k3k3nl6KLkkL1k0m6K5O7O7J9J9L3Km9m9k1RK0K0jl1l1jL0L0JJl0l1J9K0K6K7llK0
+5715D7J9Pk4n5n7pqKLL2L2L8L8j2j2j%j6j5jjj%j1j2KL1%jKJk7k9JKPQRRk0J1K7l2o9p0J9
+5690a34J8RJ0l8l7l9K2J8J8%%L0O0N3qm0l9k4L6L6k4l1l0L6L7J7J8J7J7OOk3k4jjJKK5N4K2
+5668G5l9p9q0PPJJ%JN3N2N2N2K0J9j1j1RRk2k1l1l1l2l0K6K4nmj7j8J3J2MNMMM1M1J1J0m8
+5645G4m8m7m9l2l2l3l2L1L1L2L1rqrrK1K2j0rNMNNk7k8QO8O0L0J8j3j4j4j5j5J0J1j9k0k2
+5622d8k2k1k2%JN2N1J%%JLMKMl0l0l1l0qpO0O0N4pK4K4oo6o2o3j9j9J2J1J7J6M7M7J1J1j9
+5599Cj9j3j2j0rl3K7L0l0m2J9L1L2K0K0K0K0pql8l7J6J5J4J6N7N8PPl3l3o3o2KLk4k5j2M8
+5578d5M4M4NOONl2l3%O1L4k6p5p6QO9L4L5kklkK3K2qpj4j4j3j4j6j4j6j6j0j0j1j0L7L6NO
+5554A1K8K7J4j6k3k4MNl0l2LL2L8L9j1j2j2m2m1j0J1M1P4M3j%nnkl2o4o3o0k9K2K3M3J2ll5
+5532h2JJ%jL1L0M7J7j3j2Lk7l4l4mK7Ok4n3k2J4J4M6M6rrrqj4j4J7J7J4J4J3J1K5nl6l7K6
+5510b7N5L8L7Rk1mml9l8qqONL7L7J8J7j2j3jjn0m8oK4QQN1N0kkm5p5k8k8%%L1K9J0J0RJ0k6
+5485A3k6NML3L4MLkln0n0kM8M9lj6j6j9j8k2k2K9K8L1L1j%j6m6n6pK9K9KKmlmmnnmnJJJJJ6
+5459a5J5Pk4j6L3N1K1k9l0K0J9k1k2k0k2k5k5n5n6L0K9L0K9l4l4L7L7OOPOj5j6J5J5popok4
+5437i6k3K7K7L5L4L5L5nmmn5n0k1j0j1K6K6K7K5QQRQKKk8k7m2m1RRPOk4k4ppN9N9N2qqqMn6
+5412b0l9rlkL0K9M4M4J4J3K1K1l0l0k3k2M9M8jkl1l2m0l9j0rj%j%j6j6J5J4kklkj4j3j4j4
+5389i8N5N5%o0n3k3K9K9K4N4K1l9LLn2n2j1j1M0M0K4K2opJ7J8j3j1JJL1L2K3K2K7l4k7k8l1
+5367A5l0j8j9J2J1LKKKLLLMJ7J9N0M9l1l0l1l1o5o7MMJ2J1M2M2mlmmPPPOl0l1l2l1K6K6OL7
+5342b9L3Mk5OM2M3k4k4k6Mj2j2j2j2j3j4J1j9j9J1M6M5L7OLL3M4ol1jml4o0o1QRJ4J5M2M4
+5320F2J6j3j4J7OORQopooK2K2Qk1mmk5OM6J6l7o8j8J3ppjjkjKKJKk9l1LL3J9K1K1K0J0k1l
+5294E9mJ%L1L0j6j6j7j6j5j4j3j1j7J3J2j6m8m9m1L0N8K8%%rK0K0rl2l3k1RLLL6L5L5L6j4
+5272D8j4J7J7j3j3l1l1l5K5L6L7Mn6q4q5k7L3oN5Q9K8m2m2j5j6m1m2J0Rj%j%l2l2j02j03j35
+5251e91j36k04k66m51o33j070j860l415n950n597K612O642M312K414J299Q60N15L68J84J38
+5240h29J38J31O9K9K8N6N5L0L0%jl4l5LO3O8O7L8L7j7p7m3m4L9M0P3J2j6j7K7K6N4om3m4M2
+5220e1M2P4J5k3k4k7k7LLKLjjjjnonnJ2J3J1J3j1j0j0j1J6J4J5J6PPk3k3k3k3PQK1K1K1K2
+5196E5k1k1qpk3n4l6J4M7J7OPl1l1j%K8K9K9K7K2K2K2K2j4j4j4j4j2j1J9J9K4K5k6k6k8k7
+5175A5NNJ8M9M4ok0j9PQl7l7nnJ0M0K1l0n9n9j3j2k3k3QPMMN5N4k9k9j4j4L2L2M5nk3k1K4
+5152DK5k6k5j2j1%%j6j6K5K5K5K4J1J0k1k0L4L3LMm4m3j4j3K8K6K6K6k1n1l3J8M5M6J8J9P
+5131A16QPQk6k5k6k5j9j8J2J1POo4o5m8m8K2K3M0L9M0L9j3j2m3m4l5l6nnNONNK7K7P8P7j0
+5109D1j0j0j1n4n5n5n5k9l0k9l0q0q0j11j10k00j99k78m60p54j221k015l699o239n529K357
+5095a8945O755M789K700J457R09O03M21K49J89J24J24O9O9N5N6N5N5P9P9M9M8L2L2j8j8m4
+5081b7m4j5j4j8j9J2J2J3J3J2J3k1k2L0K9lmlmj9j9L1L1J5J6J4J6J2J2J2J2OOOPK6K7l3q4
+5059C4k8K2K1K1j5j4m4m5m1m1k0L0M5J4MM%j%%kjjkL4L2L2L2nl5j6L4L5L6O6J7o1o1j3j3j4
+5036D0j4m3m5NNk2k2M8R8M1k9l2jk3k2m1m1m1m2lmK7K7M2M3J2J2n0n0JJJ0J1RN9O2J3k7k6
+5015a2m5m5OOK7K7K7K6k2k4k3k3K4K4K4K3rrqrj4j4j5j4rqonK5P5M6nk0j9k2k3POOPqrqqL9
+4990a1L8RQn1n1l7K3L6Mm5m5l6l6L5L5O8O8llKKj2j3opopl5l6J5J5lkkkj1j0K0K0M9M7J8J9
+4966F1K8K8kkl7l7pprqqpQJ0J0RJ0J0RJ0J8J9J8J8j7j8j4j4j1M9M2M2Mn7p0p0l9K1K0rl1k
+4943c2J1j8k0j9L0K9K1K1OOkjl2l2k4k3OPopj4M7L8k3n0k0K4N4K4K4J3J3M0M0oo7q0k0K6N5
+4921C9M6j4j7j6L0L1j5j4k5n4n0JK0K1k3k4PPJ6J6J5J5nnmnM5M6M6M6j7j7m8m7RRk1k1l7l8
+4899e2pqj6j7L1L0L4j6l9l8J8J9L3L3j0j2MMJ3J4j7j6N2N2j9j9m6m5NNK2K1OPLKk7k7K3K3
+4877B3K0K0M0j0l3l2nnl4l5NNL6O5M5nm5m6j7j8J3J2M6M7k4k5k6k5K4K4j7j8pK2K0l1k6k8
+4856d5j0L9N6K7pl7l7qk4k3k2k1J7J7M8M6L6L6j4j5k1k2k1k2OPk2k2K3N2J6l3k8LJ3J2k4k5
+4835d9PQJ0L9N2Jl4l4l6l7J4J4J4J4jkl2l2m1m0L1L0k2k3QQL4L4j6j6J6J7J7l4m5j4J6J6L1
+4813g7L2L1L1J0J0m0m0j0rj0j0J2J2J2J2M6M6mnJ3J3j8j7o3o4PPnnnnJ4J4M4M3%jj%kjjkK2
+4789C6K1k9k8m0l9rj0M1M0rqj0K0Mm8o9l9J5M5J9K0K1K2K6K6Mm5l6l5onj6L5N7N5J2J1j9k0
+4767A0j5j7j7j6J4J5J5J3jjn1q2m2QM9M9ppopQQk2k3ONL6L6M5M7M6M6j0j0j1j0lllmj6j5j6
+4743D1j6J4J3J4J4j2j3m2m2j0j0j0j0KKL3L2J1J2j8j7J2J3J4J3k5k4k5k5M4M4J2J3m4p4k9
+4723i3M2N1%MLj6j8j8j7K3K4K2K4MNMNPQk3n2n1jL7L6K5k6m4j5L4L3NNk3k1n3n3kjM9M9K3
+4700eK2K4K3L3L4j8j7k5k4k5k4KML0L1K5k6o4l4%jJ7J6rrk5k5NONNJKJ6J7L5L7L4j6j9k0p
+4677C1pM5M5K4k8jjj9j9q0q1n9qOORRj9j8L2L2N9N7QPPPN5N4K5k6m8m8j0j0m0m0llM8M7J3
+4654E8J4kkn7n5ooL4L3L5L4qql8l7k1k1ooK5K5J0RLKKLj8j8j8j8N3N2K3K3j7j6J4M4M5nno
+4630A47l2l2kkl4l4j7j9J8J7l2l3k1k0J0J0L8L8L5L5M0j0n3n1k5k4OO%JJ6J5l0l1k8k7j5L7
+4609a03N9N7L9L9j1j2m3m2m4m3k0k0nnO1O1J0J0L7L8kn2n7oL2L1KJm8m9k1k1N0N0M5M5qpk4
+4587B4n3l7J4M0J0K%J2M3N4Lo4o2k6K4K9j%K9K8k3j1J9Nk6opqpOOj8m8l2J9M6J6j5j5OPOO
+4564ek5k5k4k5J8J8J8J8j3j2J8J8L7L8n3n2OOOOJ6J4j4j5k2k3QQK5K5K4K5L3L3LLj0rk0q0
+4542co9L3L9L8K7l3JJK2K2k8k8OOPOJ1J0J1J1j9j8j9j8j1j0n8n8p4j3L0R1P8P7Mn6j9k0OP
+4519a0L7L8Jn9n8n8o6oO2O1J4J4NMMMM5M6J5J6l2l1l2l1K5K5K5K6o0n9L1L1K4K5k6k7mml3
+4498a8l5NMk5k4J4M5K5K5N2K1l3o3p0l9l6J5Q6Q4L5Nk3k3k3k1j9J2K5K5MLMLL4L4Lk8k1J1
+4476G3K1K2K2K3K0J9Rm3o2o2j0K1rl9j5j5J3J2k0k2J0RKKL1L2MNKKj0m1k1k3lK8K6lj3j3J3
+4454cJ2J9j1j1J9N6N6K4poopqQQll4j3J8J6j5k8k8n8n8oK5K7loK4L6L7J8J8J8J8J3J4j9n1
+4431A03m9n0m8n0KL2Lk7j6J5J4j6k7KJ5J4OPOPj3j3l0JqqK5K5L2L3J8j0jjnnj0m1k4K7K2r
+4408e2nK5N4N6j4j4l7l6l6l5k2RrrRRRJ0L8L8OOL8RmnNMMNJ3J3J3J3nnl6l5k7k8KLJ4J4J4
+4383A9J4QPk1k1j6J2K7K6K0K0L7PnmpoM3M4j1m1n0n0jL0L9Pm4m4j5j5j4j5J4J3Kk7j0K0KJ
+4360eJ0J0K9jl8oK1K3%l0l9m1k2K9M8M6J1m0k7KK8L0JJK3K2qpl6l4l5l5J2J3J3J3K2K4N4N3
+4338A34j8j9j8j9n5n5mnRJ0J0J0RRQRm6m7NNK8N8P0J9k7k8%%l8l7l5l5KN3M0J1n7n7k6k5J5
+4315a37O6N5K3%jklk6k7LLkkjkN2N1N0%l7l7l8m0k0k1L1L1L6L7O5O5ln4j12q0k3QqqJ7J8O8
+4292eO7L7L8OPk5k5ONOOk5k5m3m3j5j6L0%j7m7k8k9ML4K6K6L0L0kK9L1%k9KJ3J3qql9l7pq
+4268c5ppK0K1j1m2k6ML4L4K0qNPPk1k3QJJMLJ3J4J2J2K2pj9j9o1l2K3K2J8J6J7J8J0J0l8l8
+4245a8j6J5M7M8k3k2j0K1LKNMJ8J7L5Mm9m9m9n1m7m6j4J8M0M0P0J9k8l0J8J8J0J0J1J0qrl6
+4224b2l7j9J1oorrk7NK3K3K6K5N2N2M0Rool9l8m9n0k0j9j2j3JL1J8J8qrOL7L5OOOL4L5J4J4
+4200A23J3J2Qk2n5n4l4oM8M9J9J9l3o3j8J2NL5K6mj7j7k8n7m2m1k8k8NL5L9L8L8L7K5nJ2J2
+4179E8K7K7J3j7n4n4m3j2jjj2m2k1k1k3k3k9k9NL5L6L6L6L6K1j1k3k4K4K4K4K4k5k5NOJ4J4
+4158b5j7j6KLKLJ9J9JK9K7mj5j5l1l2kkk5k5NNJ2J1J4J4QL8N2N2J7J8KLm5m4OOk7k7l8l9o
+4134f7M5O2L2jl0k0J0J5l6m8KJ7J7j0j1NNL4L5QQk2k2m4m4l6L6N5K5nl5QL7L5L4J0J0k0k0
+4113G4j1j1j1j0nmj6j5j0L9M3M2nonnm7m5m7m6RRQRK9K9M1ql7l7j1j0llJ2J2J2J2K8K7K4K4
+4089G5ooj3j3j3j2n6n6j4L7RJ0j%QL9K0k8k6Nrm0l1M1Q6N6L0L0k2k3m1m0j3j3%k9n9k8J9M8
+4067g9L4L3%jj8J3JJL3L3j3j3j3j2l2l2l5mK0K0P1P2J2J2lll2l2kkk5k4j4J6L8Rk1k0j1K0
+4045cL2L2m8m7j6J4J2j9j8J2J0k1kjJ7J7J6J4M7J6LLj7j7j3j4m3PK7K7k9n9k9JJ9J8K1K1O
+4024dOOP%Jm8m8k2RK2N3K9k0noK4K5J0J0J6J6k2p3p3k3J8M9L2Krj0JJ%JnnML5Om3m2RM6M5
+3999B5jjRRJ0Rj9k0k0j9J6J4J5J5j1j0o0o2k1k1K7K8K4pOO7Q3Q3N2qo4l3k4k4j0j1j0j1k0
+3977Ek0k0k0PQPQpppoPQQQJKL1L2L2L2JKl1l0l1k9KKLKj8j8J3J2L1L1j9j9k1k1k2k1M7M6m
+3952A7mJJ%JJ2J2J3J2mmn1n0oN4Q5K4o6o5n5NJ7j4k3k3J5J4J5J5L6L4L6L5j7j7j5j6K0N1J7
+3930A12m4k7k7k8k9j3J7K9K7J4j7%%K1K1rrkkkkJ9J9j2j1l0k8JKk8k7nM5L1L2NNj3j2j3j2
+3907bNOONNMMMm7m8j7j8j8j9J2J2J6J5J6J6L3L3j6j4mK6RJ0QQOONk5k6Nj0rM1M1Ok4k6MK4
+3882F8pJ0J0Rk1k3Pj4m4k4K7M0M0L1%jjJ5j6m3m2OOL2L2jl2l0l1l1l2j5j4J5J6K9K9K9K9j2
+3860D6j2k9JNNk3k3l5l5NN7O6L8Ok5l4mml3l9qK3K3K5K4k4k6LLLLo4o5j5N5N4K3K3N2K3m7
+3837B1o3j4pqK6K6J0Rk0k1k6k7K4K4j4j4J6J7l4l3llM0M0M0M0k8k6k8k8ONNOJ6J6J5J6j7j6
+3815a2m7m7%%N0N1JKk9l0rrK0K1M1M1j0rKLk8k7L7L8PQk8k8KKn0n1K0K0M5M4J5J5j4j4j4j3
+3792A6k8k8K3K1N8N8l4l3j9j9j6j7jK7L9L9pn6r6o5J4J5J5J4kl2j4L7M4M4k4k3J8J8j5m5m6
+3771a20m7ML5Nk5k4PM6M6J7J7L9M0K7mj6j7J1J0jl1k9jK8K8J8j3k1k0RM0J4j7k9n9n6k6K7
+3750h8N8P3M3j1m2l2l1mml4l4J6J7L6L7NPm8m8j4J5J2J1J3J4j2j1j2j1JJ%Jj5j4j5j5RRL9
+3728g8M0pqK3K3mmookl2j3j4l5mK9K8P3P3J9j1nnppj5j5j6j4j1j2j0j0jL0J2J2K5K5J2j9m
+3705D9mnoK9K9jjk0k0k0k0j5j6nK6N5K6k7k6j0j0qpJ5M7M5J5j3m3m5j4mmkkK9L0ml5j0j2J6
+3682BJ7k9l1j7J3mml3l2l2l2K7P8M6nk4k4PQK4olll5l6K1K1KL2L6Ok6k7OOOOJ1J0J1Rj2j2
+3658b2l0%POQQJ0RK6mj3j1j5j5j4j5J4J4J2j8jjj7j6J4J4jjl0l1j8j8L3L3JJJ%K7K7mlk2k1
+3634g6k1k2k4k4K6K6O5O4O3J3l5l6l7l9qrK2K2O9P0kjj5j6J5l6m4j3l4l4rj0rrN5N4N6N5j5
+3612I7j4J5J6j0j0rj0k5k4NOl5l5l5l6QQK8lj7L2L3j8j8J2Rk2m6m6K3K3J1J1J1J1%j%%K5K6
+3590dK4K6J9K0j1j1k4k3POnnnnJ5J4l6l5rrJL1M5mk2QL1L1j7j8k4k4rrpql7l8j9k0j6j6J3
+3566a79O5L5L6j1j0MNL5L5J3l6j5j5J2J2ONj0j0PPPOJ4J4jjL6L5j5j4mmmmj7j6j7j5llM7M8
+3542H0K7K7k4k4k8k8LKK9K9J3J4k7k7k7k7n2n3k2k2L1L2L2L2L4L5NMj5j6J4J5n6n5noLLKL
+3520d5onnnK3K3N2N3j6j7j1m1j1L9J1j9l5l7J3J2RQK3K3l6l6poK4K4M2J2qK2JJKk9j4j4J0
+3497B4k0j9J0J8K0POl2l1J%K5N7L7j3j9j9n1n0JL1M5J6jjmlL7L7Ok5p5m4QL7J8j2k2k4j3j4
+3475e1j3j4L9L9Mk4k8k9%%NOLL4mmlkQPk2k3LLN4N2JJj4j4LMN3N2K7ll6l7k5k5ONL0K9J5J4
+3449A26m3m4m4j5K3K3Nm5n9k8j9j8nnJ2J3J4M4P6P6L0jL2L1J%l0l0l4l3klJ3J3j7j8MLMLL0
+3426H3L0k2k3j9m9n9j0L8L7M2M1j7j7m7m6rrK1K2MNMNl0l2jjJ6J5M5M5J8J8p4p2o3o2QRM3
+3404a13M3J3J3K0K1J9K1m6m6j6j7%jjjJ6J6j4j4j3j2k3n3m0J0J0J1N3N4K4K3J6J5J4J5M0L9
+3384I6l2l1l5l6N4N5M0L9l1o2o8j8K2K2jjjkk5k6k7k6K3K2pqRRk2k2K2K1K2K1KKJJK2K2K2
+3361F8K1k9l0K1K1j0j0j1j2l0o1m8J3L7L8rj0LLLKM9M9m2m1j0j0K1K0K0K0j0j1J5J4J5J4J5
+3340I8J6j5j6J2J1j9j9OOOOK0K0l1l0poopj9j9J2J1rj0rqJ2J3J4J3j6j6m6m7qrK1K2J%J%q
+3316e9rqqK5K5N0N1Mn6l9rj6j6J6J6ppK3K3jjl2l1%%L1L0J9K1l1k9o3o4j4j5rm1qN2M5J4N
+3293a23Nj2j2J9J8PPPQRRRROPk4k4jjN0M9J8J8j2m3j2L7K5ol9l8o9j9L6L6M0L8j8j6j7j7k
+3269c8ln0m9qM3O3L2J3J4j7j9l2l2j2L9M5J3MN5K1rl6oK1K2j7o6n6k6QL8J0J0J1J2j0j0j0
+3248c2j0LLL4L2J2J1n8o0m7m7LMj5j6J5J5k8k8K2K3MMk6n6o2j1JN2N0M9LK%J%%k9l0o9JJ1
+3225b69J0l6l6q4q5j55j56k22k22l89n32r48j495k808m935o511m6O778N176K844J446Q70M86
+3213a319L83K42K19J17J12N2K4K5M9j2K3K3M2M2K6l5lkK4K5J3J2M4j8l8r9j03m2K3K4K7K7
+3195g3nnnoj5j6L4L5mmmmJ1J1O0O1mmK3K2L0l1o8o7J1J1J0J1J4J3J4J3noM5M6J5J5n5n6l6
+3172C2l6poJ0RJ0J0J8J7J8J7kkn3n2KKJKM3M4pon5n4J6J6L1L2j8j8mml3l4k7k6MLN5N4K4K4
+3148E0MNNMk9k9M2M2k6k6k6k5J2J3J5J5LL4K5l7m0K0jl1l2l3J6J6LLLLM6M7mmm2m1K8K9J9
+3126G6J9j2j1j6j5m5m5J9J9j2j3ol5n3QK8K9JKK6K7mnONNNk7k7LKK9K8K9K9LLLLj3j3m3m2
+3102c0MMNMM9N1%%m4m3j2j3M4M5J5J4n7n6ppN3N4K4K4LMm6p7p3j4M2M1L3L3L4L3kkl2l3j1
+3079E4j2Pk3k9JJ1J3J3J3J1J2ol5m8m9k7k7O5O3K2K2K0K1L0Jj3j3j0j0j3j2nl6l3mL1O2M5
+3058A12M6K1rk2k3n2n2n1jJ4j6m5m4JL2J5J5K8K8k1k1KL1J4J5k0k0J3M2J9J9l0l0j4j4j3j3
+3038d4ML4M5M5K9jn3n2m0J0J3l8m2RK8K8K0K0Pk2k8k9K0J9j0j1j0j1rrrropK4K4k0k0J0J0
+3016h1J8J7M6M6J9j2NN6M7J7n7q8noK3K3ppl7l6QQQQJ2J2J3J2j%l1l0o2o1QP9N8K8J9J9j8
+2993G0j9J1J2j2j1j2j2ONk5k4J2J4j6j7%%%%QPk4k3noK5K5QQQQj8j6j8j8J4J3J4J2j0j1j1
+2970b8j1M4M6J5J5j6j6J5J4KKm9m8k6k6NMJ6J5M5M6NMNNl9m0qrk2k3k3k3M8M8ll3k3K8N5O
+2947B2k1k0OPL0L1L1L1m0l9j0rL3L3l8l7JJm8m9j8j9J4M4L8Qm2m2j8J1M6M5L8L9L9L9j6j6
+2926A05j6j6l7l6n5k4L9L9RJ0qrO2O3K2K2J0k2p7p8l7J4j2j2ppk2QK2K1POj3J8K4ml3lQQK5
+2903A4ll5l6ppPPj0K1nnRL9Jk9k8Lkk%%rrm1m1K4on7k6J4J4J6J6M4M3O1K9J7J6j6j6KLKKj4
+2878@j5j4j3m3j1JJmmk1RJ3J3J6J5K3K3J9K0J0l9k8JJ2J1J2J3J2J2M2M3j3j3m0m0k0L1N3N2
+2856A39pppqj4j4j5j4k0k0m6m7PN8N7Pm6m5rM2M8J9j2j2j5j6j4j6QRN8N9k0k0J1J1J8J8J7
+2835A42J6j8m8o0rN0N0M3k8o7o7k8K2M5M6J7J6k6n8l2L8J3l8k1QL2L3j6j7J6J5J6J5l6l6l4
+2815fl6J7J8j4L6K5k6m1j2l7l7nmK6K6mml5l5l5l5N2N2N1N2KJKJL9L9j1j1l3l1kk%JJ8j0k5
+2792c3NJ6J6K4K4K2K2Pk3k3PJ9J8j1m1j7J4J2j8poqr%%%Jj1j0j1j0onK5K4nmklNL4M6mj3j4
+2767D7j5j5k7KL1L2k0p1p2k0L6L7K0N1K1rJ0J0nnm9k0L1O2L1Jk2n2n2k2J0M0N2N3Kk8m0l9
+2746dk5NL8L8mlmmpok4PJ2J1J4J3OOOOj2j2j0rk5OL9M0K0J9Pk4j9j8J0J0LLk8k7l7l6J3J3
+2722Gk3k4k4k3j8j7N3N4RRJ1J2K8N9K6l4n6k7PL7K5K4po7m7J3K3qm3m5NMk1k0k1k0K0K1j0
+2700a08j0KJN3N2llK7K7%%j%RJ0RRkkkkj4j5j4j5LMLMn7n8pqQQPQkkkjJ4J4J6J6j1K0L6k3
+2673bj5j4J1J2K6K6k5k3l5l6J5J5J0J0k0k1O7O7J7J6MMk6k6k4k3PPk8k9JJK7K6K6K5k2n2j7
+2651a8L3O4J3ool1l1l0l1POPPMNNLL6L5LLk8n8p0j9LLOOJ7J7J7J6J6J6j4j3ppK3K4LK%jl1
+2626aq3n1%kK9J5J5%jN1M9K1K2k9l0n9o0J0J1M3M3L8M0L0k1q0q1m9%K5N4N4K4L0%m1l9K7K8
+2604C2j3j4J7J7L0L0o1o0m4m4QRK7N9P0K1l1jM7J6qpj0j0k4k4k4k3PPK6lKN3N1%n2n1k5k3
+2582b3K6K7K6K7JJJJj2j2j1j2J5J5J3J2Mm7m7ML6L5RRj8j7j7j8k1k1k2k2K0J9J9J9qql8l8
+2560g3JKJJ%jj%%Jl0l0QPk3n3l4J7L8L7MMMMN1N0M9N1j5j5j1j2j6L5K4pj6j6L3L3j6j5o6o5
+2536f0L0K9K8L0j2j2j0j0JL2M3qn3n1j3L7J7J7K0J9RRk2k2j2j2j2j2K6K6mnJ7J6mK7J2l9k6
+2514D6NooK5K6k3k2K7K8J4J4on6j4J7mmpqqqL0L1L0L0rrrrl2l2l2l1MMLLj4j5J5J4J4J4j6
+2490A4j6l5l5j4L8L3L2L7L6j8j9J2J2k3k2QQK7K7k3k4n2n1J0O1L9L9J1J2K9K9j0o2l7J4J4
+2470A01l7n1jjkj3j3j4j4%JL0L0j%k0Q%n0l1M1Q4Q6M8lj9j8k2k2k6k6k6k5j5j6j6j5qqJ9J9
+2447d6K3k7n0m9L1L0L1L1JKJJk7k8K4K3QQQP%%l0l1k2k3M8M9K3K4K5K4%%j%J1J1m0m0j0j0
+2424A0rrL6L7PPj5j4J6l5o6l7J4J4K7K6mm%JL1L1l0l0k8l0K5K6K4K6j2j3j2j1J5J7l4l4j1
+2403d8j1pqqM3L1%kkmmONOMk7k9KJRRL8L9L6L7MMk5n5o6j6J2J3J5J6j4j2J5J7NNNNQPPPj8
+2376E5j8j8j8%j%%J%JJJ%JJJ1J1QRj0m0n1n2nK5RQJ7J7J7J7M6M7J8n3n5k4j5j4%L0J3J2J5
+2352A7J4j6j5J5J5Kk9n1n3ml%%j9J2J7j4j0K1L6O6O7L6j5m4k8k7nK4N5K5k1k1k1k1K8N9M0
+2331A32M0J8j3k6k6l4l5l2l2m8j9L4L4J4j4j8J3K4noK5J3j7j%ql8l8qj2j1jO9Q8L8K0K1p3
+2310F8p1l9rRRJ2J1J2J4j6j7j5j6J8M8J7J7j1j2qqrpK3K3j7o7p4m4PPJ8J8J8J8LLN5N3J9J9
+2287G9l1l1onM5M5l0l1l0l0m4m4j4j4K7K7K8K7L3L3LMJ3J3J3J3j0j0m0l9rrqrLKKKk0k0k0
+2264i2k0L1L1L1L0L3L2KKl5l6L6L5KKk9k9k1k1k2k2qqM2M2K7K8klOPj3o3o2j1K8K7MLK9L1
+2242D4J3l7rrj2j3j3j3J6J7J6J6%JK8K9j6m7l0J9N7Oj2j3j2j2J8J9m0l9J2J1M7M9m3m3LKL
+2220A3KOPOOj4j3J6J7k0j9m9n0J4J4on7n7k7PL7L4L4L6L6mnK6K5j8k0j9k0ONN2N3Mm7j1O1
+2197F1N0jKKj2j3j2j3k9l0J%j9j9J0J0NNL4O5O0J0n1q0l5L7K3k7l2l1poj4m3l9L3N9K9J9K0
+2175B2J1J1M0j1l4l4l6l7j3j3J7J8L5L4NNk7k9M1M3KLLKK4K4ooo0o0o0o0rrK2K1M3M2rqJ1
+2153d2J0m0m0KLN3N3M7M8J7J8J1J2j9m9j3L8K3pll4q6q4m8MM5M6O3O3qqj6j7J4J4J3J3l8l7
+2131B1k4k5k5k5QQRQl0l0K1K1L0K9jjK1K2qrQPk3k2L1L2KJl3l3l4l4J3J2j8j8L0L1K9j9k6
+2108d4NM4nn7k6M4M3NONNK0K1n0m9PQPQRJ1J1J0RRQRk0k1n0n1j3j3J8J7L0K9K6K6Nm6m4NO4
+2084C5O5j2o3n4k4Mk7k6k7LKK2K2qrMLMMM4M4J7J6M5P6N6Ol8l9m3m2%%N0N0j3j3j3j3j8j9
+2061G1m8m8k3k3O8O7K8K7k4k3l2l1j0m1k4K6M6M6N2N1l9m0n7n6k7k7J0J1J0J1l4l4l2J9O3
+2042f7O3J5J6J1J1j9j9jjN0N0k7k7k7k7J0J1J1J1KJL2L2l3l4l3l3j2j2j3j2K5K6K4K6K0J9
+2022F9K0J9KKKKLLMLpqpqrj0J7J7L4k7lN9N8m3p0m0J1J2lkJ7J7L2L2L5L6N0N0M7M6R8R7J20
+1998G77J20J44J44L37M78P94J179K125L970O724L420n600o350l421j739r68o23m07l06k19
+1987E79j17r3r3r6l4j9j8qpl9l8K0K0K1K0k1k1k1k2k7k9KKN8O0RR%%j5j6l9l9m0l9L4L5MN
+1965a3J1J0J1J1LLj2j3l1l2J9J9K0K2L7L7J5J5j6j5K0K1l1l0l4l4lmj9k0k0k0J4J4L2Lk5O
+1944b9J8J6k3k5K6K5ONJ5M6M8ll4J6Lm8m7LJ2j9j4J3%jKJLLK0j0k3k2ON%%%%lkK4K6L8PK4
+1919A08K4j4j4j4j4%Jkjk0n1l3l3noK5K5opJ0j9j4j3j3j4QL8K1K1NNLLL3Ll1l0m1m1j1j0K6
+1896i8K7K7K6QPqpJ8J7Ok3l6oLMK4ol7l8k5Oj0j0QL9M0J0J4M4N4Lm8m7j8J3L0L1L1k0k6k6
+1873AJJKKKLQRk1n0n3J8Q4N4K1K1J9J9rrj0rrrj0rj2j2j3j2l0l1J9J9M9N0K8k3%jmmK0K0K0
+1849A50K0l7l7l6l7k4k5NNK0K1K2K1nmmmNONOj7j6J5J4LKLLMMk6k6l2l1l3l2%%j%N9N8RQl1
+1823A0l0n9n8oM4M7M7O0O0K1l1m4j4mlonl5l5l0k9JJL9L9J8l2k5NJ5J5J1J0RJ0j3j2j2j3M6
+1801A2M8J7J7NNk5k6J5J5pn8o4o4l9L3O3L3MMJ3J4J4J4k5k4OMj4j4j5j5M6M5mnJ2J2J2J2R
+1779H5Rm1p1n3jL9L8J8J8j2j2j2j1m2m2J0J0J0RK5K5norrj0rmmlmK5K4K4K5k6k4NNJ5J6J5
+1756D0J6l2l1J7M9L0k0o1o0l9m0l9l9ooM5M5M6M7J5J6nnnnL6L8O7O8J2J1j8j9m8m8m8m7ll
+1734b9lkllllKKKKj9j8J0J0j6m7K5N5ONQPk8k8k6k7m2j3O3R4K7lj1j3pK4K0rl3o4m7LK4K5
+1710h3K7K8QQQPj0j0j1j0m7m7OL7K2K1K1K1J1j7l2l2k6k6j3J7M6M6J7J6l5l5n3k2K1K0K4K5
+1689e2QL9L8Ql8l7qK2L2LrpRJ1QRQk3k1Pj6j6j5j5M5M4nok9l0JL1M4ok6k5K7K8J5j6j3j3j3
+1665bj5k4k4k4k4j6j6L4L4L9L8RRJ6J6J6J7QRQRm0l9rrL5L5j6j5l6l6J3J5k2k2k3k2PPN8N7
+1642E5L9L8K3l9o6o5KJ%j%jKKKKK4K4noJ1J1J1J2J7J8J8J8k9k9JKJ3J4j6j7j0j0j0j1j7j8
+1619A0j6j8j4j4J7J6K5K6nmJ8J9J9J9J5J4jo3n8n7k8L2O3Lo2lK7K7l9m0j7j7J3J3K4K4N0N1
+1598F9O6Nk9K%%KLk7k7LLJ9J9n3n2l3l4l4l4J2J1J2J1N6N4MNKKk9k7%j%%nmmmOOk4k4K4K4
+1573b5N4N4RRRRkkjkm5m5m3m5J0J0M0L9L5L5NNk8k7k8k7l6l7poL9L9P2J2J7J7j8j8KKk8k8
+1550B5M2M2J3J2L6L6j7p8q7k6KLK4l6n0k0MML7L6oppqK3K1rqJ3J3j7j6LKJLL2L2%%k4n3m3
+1526e3J7Nk6k3RMMOOQPN3N5K7l4n0m8j0rj0rK8K7K7K8J0J0j7j7l5K4M1M1j4j3j4j3j1j0j0
+1504A1j0K6K5K6K6onl6l6l5l6ooK4K4K3K3mmmmL4L3MLMMm7m6p0p1n4OO4O3L7L6ONm4m5k0j9
+1480a01L1L2onnnmmmmL7L7NPklkkl1l2jkj0j1j1j1M1M1M0M1l2l2kkj8j8k4L7J8j3j0K1M0M0
+1456F1J2J2k5k6n5n5NOL6L5k5k6k6k6L1L2L2L1K6K7nml1l0l0l1NOL2L2L6j5l7l6J0J0onk0
+1434c7k0L1L0K4K5k4k3oM4O4L3l5l4k2k1%jj5j5j7j7j7j7j7j6J3J4J7J7l3l3J2J3J3J2opM3
+1413b8M3N8N8l4l3K1K1K1K2KLLKm4m4p3p5j6j7N2N1Nm5m9j8j5j4j2j3J5J5O2O2L8j2j3j4j3
+1392b8j3J8J8nnJ0Rk8k8k9k8kjJ4J4K4K4k6k7k3k3K8K8J8J9j1j2K2K3K5l4j9j9PQk3k3ppM4
+1370f8M5K8L0OPm0l9m2J8j%J8J8J9J7m0m2j1j2J1J0nnJ6J6%Jrj0K1K1j4j4J6J7K0K2K2K1j0
+1348E8j1l7l6m4J7J3J4K4K4onk1k2PPJ2j9j0N1N7lj6j6k2k2k2k2%J%JJKJJj2j3LLQQk3k2K4
+1323f7K5nl6k6L4M6J5j1j2KKKKk9k9K9K9N9N9J8J7l3l3KKL2L2MLm4m5n6pN5N5L7L7l4l4k1
+1301G6k0k0k1j7j9L1L2M2M2K0l1m7m7n0n0K6K6ml5j6L4N3N5K3K2k8k8l7l7J4J2klmlj3j3J7
+1280b0J7OOPOj2j1j3j2k1k2RRL3L2j6j8OOOMl4l5j5L5L4LK3K4l7l5l7l7J4J4M4M3%jjjl4l6
+1257f7l5l5PQQPK1K0K0K1M5M6M6M7j5j4m5m4j3j3j3j2rqK1K1k4k5NOK4K6K6K5NNMNm9m8m9
+1234d9m9j5j4L6L7lkklK2K1M9N1Qk2l6J4J5l5p1m1%Jk8k7j3j4j1M0P7P6K9L0nnonRRk2k2K7
+1211E1K8mlJ2J3M2M3k3k4n3n4l8l9L1L1j%jjJ%L1L1j5j4j2j3j0J9L3j8n4k6NNK0J9J9K0OO
+1188F3L6L6%j%jK6K5k5k5k2k1K6K6J8l3l5l5L8L7ln3n8k7LL2L5j6n2k3jjL1L0J0J0k0k1J5
+1166B4J4J5J4j3j4L6L7K2K1qrj9k0j9j9k3k2QQPPk4k3k8k9JJLLNOJ0L9K9l1k0J0L8M0J5J6
+1144A08j5j5nnmnj9j9j9j8NNOMj4j5m2m1l6K5P8P8L4k7q3q4k8k9K2K2M6M6J6J5J6J6j4j3r
+1122a7qK2K1j%jjL2L2j7j7NL6K4l7n5k5MMJ0J0onqpqqRRk2k1klkkj7j6J4J4pon7n8J4J4L0
+1097a30K9rrK1K1J1J0k0k0rrrrK4K4K3K4J8J7J7J8rrK2K1M2M2j4p6q2q2l6l6K7K7J2J2MMK5
+1075g3oOO6O4Lrj0j4j4oonpj3j3j3j3j0rj0rM1M1M0M1k8k8k1n3n4PL8Ql1l1kkllllN3N3LK
+1050c6KLk5k4k0M1L8L6rpk4k4j8j8J3J2llmlqpK2K3k9k9K2K2M4M2M3M4lllll2l3l3l1J7J6
+1027Hj2j3N1N2KJk3k2PQM1M0j0j0m1m2j2j1k8l0KJL4L3j7j6onl6l6k9k9KJj2j2J9J8PQPQK0
+1003h2K1N1N0J7J7n4n3l2l1J9K0K2K2k8k8JKJKJ7J7j3j4j4j5K5P4O1J0k9l0n8o0rrRRQRL3
+981d2L3j8j8k6k6k6k6K7K6OL7O7J7k3k3JJ%JK0K0K0K1n3n1J8J7L0L0L0L0POPOK2K1K1K2m2
+959A90m2m2m2j9j9j6j4%O0N9km6p4p6m5K3Q5N1N2J9J9j2j1LLk8k7j6j6J3M4K0m1k2QJ7J6J8
+938I0J9j8j8j9k0j0l9k7L4%%NLJ1J1l9l9J6J7J7J6k9l0l1l0n5n6K0Q1N8K8k5k4k5n5k1M0O2
+916h2O2norqK1K2K3K5onqpl7l8J1J1J2J1KKm9m9L4L5j7j6RRRRj2j2j2j3j4j4N7N6lmlmNNM
+891ANK2K1l0k8j7j6j7j7J9J9M8N0J3J4n3n2%O1M4J4nmn5n5l7pJ4m7l5K6N9N8nnmnL0L1jjk3
+868C0n3m2J9O1L2KLk0j9j9j9k7k7k7k7M9M9k1k2RQJ1J1J8M9L5k5l0k9J3J2J8m1n4k4j4J7J9
+847g5j2m2m2j4j4L9M0L9L9L8L7j3j3j0j1J8K0j4j3J5M6L8k3l7l6mln4q3l3K8O0N9O0JMMj8
+826B1j7QR%n9o0JL9M0J3J3j6j8j7j7J2J2M1M3J0J0RQk2n2j8M1O7O7m0m0k0j9J1J1RJ0J0J0
+804A10j5j4j4j5rrK4K3N8Q8P4J4o5o5l9l9k3k4PPj0rm0l9RRk2k1J4J4J4J3J0J0J1J0NOk6k5
+782Gk0k1K9N8O2Jj3j3l2l2l1l2k6k6k2k2j4M7O2O2L2L3j9j9j1j2J9J9J2J2J2J2noonkjl1l2
+760B6J8J8Qk2m5J6N0N1kkkjJ8J8j2j2l0l0JJNNNNk6k6k6k5j4j4Pk4m8J3Q4Q3M2k0l6l6l1l1
+737d1J8J9L0L0M6M6j3j2k8k8n7n6k6k7J4J4jkqqK3K2L4L4NOJ2M3N8lm3p3o3lL8L8k9k8MMj1
+714b2j2JKJJK9L1k0j9j0j1K0J9J4J5J4J4j2j2J9J8j9k0nmj%%%j2j2j1j2J5J4J5J5j8j7k8l0
+691e0m0K0L3Lj2j2j4j4LKKLL1L2J6J6J0J0k0k0NPOPKLk7k7K5K6N6N6j9j9k0j9ONOOl1l1l0
+668hl1PPQPLMLLQRk2k2ppopj5j4j4j5QPL5L5ro0o0rK0K0K3K3P2P1M1k9k2k2j1j1j3j2j3j3
+643c8K7K7llK6K6J1J1m2m2k2K8M2J1j8J3J1j9m7m8j5L6K2k9n0j9J1J0j2j2J9J8J5J5%jJ6J6
+622iJ5J6J6J5j4j5l8m0J1J1L2L2J7J7ooJ0Rj5j6o2o3l6J5N7N7J4J4j6j7J3J3J3J3k5k4k4k4
+601d0nmK5N4N5o%jNNm6m5l9l9J2J2nnonJ1J1M3M2NL5N3qppj1j1j6j6j7j6k6k6MMlml4l4LK
+575a01LLppppJ7J7J7J7l4l4llk6k6M6M5M3M2J2J2L1L0m0m0m2m2K9K8j7j7j7j7J8J9J8J8L1
+554IL2JKQPQQj6j6J5J5NNNNlmmln0m9JJrrqpRM0Rn0m0K1P3P4LLk8k8k9k8k8k7J5M5M5J5oo
+527C1k4OJ5J5j3j3j2j1jK9L9Qo0n9m7Nnl6J7M7K9K8k4k5ONj0j1J8J7J4j8%%NMOOJ6M5R7R7
+504B36Om5j7j7l0l0j%j7j7j5j5k0J1J1j9k5k5K4N4K4oJ2J3l6l6kK8K7K7jjj2j2m1l9qK2NO
+481A9OONOqqJ0j9j9J0qpj8j8j8j7l7l6l4J6M7M7J1m0m8LO0K9J%J8j3qK2LMrrqrJ7J8Mk7k4
+457h0k5K2K2K4pj8j8kK9M0L9K4oJ1J1klK8K8PQPPj4j5j4j4k9k8K3K2K3K3j0m1k8k8JL2J2j9
+434D2l1k9j2j2j2j2j5j6j6j5J2J2j8j8j1j0M0M0L0K9K9K9MMm6m6QRk2k2k0k0J0J1J2J2M1L9
+413A0ll2j6j7lmmlK1K1J9J8J5j6o5o7l5J6J7J7NML5L5NNk3K7L0L0JKrl9k2k2J2J2J2J1lmn
+389a2mQQk1k2k1k0K7K7K6k4n7pN7K7J5J7llllookmPL8K1l0l0%J1J1OOMNml4l3mJ7J7j1j1k
+364b2jmmK4ooK3J5J6Nk4j8J1M2M2j7m7m7j7K3K3K5K5m3m2k4K8N3K4rqrl9n2kll3kK9L1Jk8
+340f7KK0K0k7k6j9J2K5K6LLLLk3k2m0rk0j9J6M7P1P1K0j1k1k1n3n4K8K8m4m3%JLMRO1P5M6
+318G8Nm6m6Lj5j5L6L6L0jj4j4onnnj5j4J5J5pqK3K3NOONK2K1rrl6l5l4l5K7K5K6K7NOk5k5
+293B1j7j7j8j7rrqrj9j8L2L2J3J3j7j8%j%jj3j3L7L8j6j6j6j5nnnnJ5J5jK8K0J9K0K1M0M0
+270A16N5K5n0q0l5l3k4k4k1K9O6O7O8O8rm0n3n3k7k7k6k8%jM8M8Rk2mmj0rj0rj1j3j3j2k9
+249g8k9M1M2N1N1J%KKk8k9k9l0K0J9llmlm9m9M3M2O5O6L2l0o7l7J4J3QQL7O8L8k2J3J4k6k6
+226A48k7k6opopk6k6MMk5k5OPL7O9L4k6klook8k8k9k9Rk1l8K2K4K5K7K8k0k0L0L1J4J4j6j6
+203F4J1J2J2J1LMLMPQk2k3j3j3j3j3qppqK4K4K4K4j7j7m8m6RQQRl9m0k6L6O7L7Nk6k8l0jj
+178c2K4K3oolnmmL6L8l4l2k1k2qK2J7J6J7J9ooooQQL8L8j5j4m6m4KKKKJ0J0RRK1j0k4k2RR
+153A3J0RJ0RRR%%j%l4l4J6J6K4K4k6k7RQRRMNLLk5n4oK3K1rk2k2Jl1o0l0L1L2L1j9k9k8J9
+128a00J9k7k7j3J7K8K7L0K9J7J7J6O7M1j0J8J9pn8n8pNNm2m1k9l0ML5M7M6L5Ok8k8k8l0J6
+107a9J6j2j3j1J9K0j2k0k1K7K6K0j0ONK0j0k4k2nmnnONK3qj4j3J4J5k5k6j4J7L2Lrrk4k4P
+84g8PKKKKQQK1N1K4K5J4j7k1k1k0k0l6mRM0M0J0kjk7k5pl8l5nQRPL7K1J9K4K5ooJ5J4L2KJ
+58A10Jj3m2k5OJ8J7K8K7k6n7klK2K2k0r1p9l0K1K0ppj5j4l2jJ2J3J4J5L1L1L2L0j6j7lK7J8
+36A5K0K1K2nmn5n4n9n9N3N3M2M1J2J1mnnmjjjjJ1J0j9k0o9p0K1K2J4J5M3M3pl5j7o8o3PL5
+13a15L5NNONK3K3K3K3J2J1j8j9k3k4M5M7K8K7k3k3l3l2lkJ5J5J2J2j5o5n5k4j9j8J3J4L1L1
+-8e0L1L0QRQQK7K7K8k2n9qJ1J1KJk8k9j5j7j6j6kkkkrj0pqj6J5L0k2lM7L2Lj0j0qqk0L1M9
+-33IK0M8M8J5J4m4p3l5J6%jKLj5j5m5m6M6M5M5M6m0m0l9m0L1L1L0L1k3k3K7K7k8k7KLL0L0
+-55F5K6K7pn7p5m6KLL4L4lkjlJ3J4J4J4M2M2K0l1n1n2n1n2o4j4M8M9K1K2rrJ9J9K0J9K7K7
+-77I4k4k4kkl2l1lkklJ1J1j9j9NNONJ9J7J9J9J8J9J9J8j6j7j6j7m2m1K8K9L7L8j3j4k5k5k4
+-100Dk2J6M5K8k4n3n3j8L3M8jl7pJ2J1J3J2%jl0l1J3J4J1J1J0l7l0JK8l%K9K4K4K7K7L7L7
+-121A68L6j5OPm7m7j5j4m5m3m4m5j3j4N1N0J%NNm6m6klM8M8L5L6OOK0K0j0j0K5K6K5K6oom
+-144A75mK2N2L4j7k6k6l0k9l9m0ppK2N2J3l7m2m3m2m4L1N9M2qk2k2OOj4j3J7J7N5N6mn5l9
+-165D9J3jl0l1jK7K7j8o7l8J3K8K8L0L1J9J9j2j1n2n2k1k2NMMMJ%L0K9J4J3J4J3J0J0J1J0
+-186A00qpqpNOONk2k2k2k3k1k2k2k2L4L5L0L1O3J2rK2J3j8KJj3j3j3j3J1J0PQJ0m1p9p7n8
+-209a29J4O2L2k3k3K6K6NNNMk2k3K7K7k3k4k4k4K1K1K0K0J2J2j8j8OOL2L3K2k9l1l0kkkkl0
+-231d1l0o0o0K9K9K9K9J6J6j4j4J5J5J5J4l1l2J9K0k6k5NNk1k0J0J0N4N3K4K4K4K4nnK4N5
+-252A74J7l3l4lk3k4%Jl0l1j6j8J3J2J0J0J0J0PQPPK9K8k2n3o2j2Pk4m4j3L5Nj9k0RQK2K1
+-274c1K1K1kjkjn0n2k9K1K5K4lkJJKJJKJJk4k5NOK7K6OL6M6mnmK5K6k6k5KKJKK4K3ppOOOO
+-301A03NMMNqqpqk5k5k6k4KKKKn3n3kjj5j5J6J6J5J4J5J4J9K0J8J9J5J6j6j5m4m5j5j4kjk
+-325i8jOOP4P3Om5o2l3JKL3O2K1m9p5p6p4k4JL2Q5Q4O3J4j2j1J8J8jL0M1rn2n1J5J6NMm5m6
+-348e4K4K4K3K4J0J0k1k0J4J5J4J4L3L3l8l9o1o0j1j1J8J8M7M9opook0j9k0k0j4j4J6J6K2
+-368b3K2K1K1qqqqPQL8L8j3j3j3j3j1j0K0K0j0rj0rrqM2M3j0rrrJ1J2M0j1l5l6J0J0Qk3k2
+-392B4Q%%KKrrrrK0J9l1l0lkJ0L8J5j6k4k6j7J3M3M4J6j4k8k7j0j1K0J9L6L7K2r%l0o4l4p
+-415c1l8j8j7pK3L7L7PPPQJ0J0k4n3j9j9j0K1K5nlK7jjJJK6K8PL8L0k0m0m1l9l9qpJ2M2K4
+-438a2K2j1m2j2J8opK6K4J2J1j7j5mK6M0M0j9j8J2M3K4k7m4j3j4j3j2j1%%%%QQQPj9j8k0j9
+-461d4j2j3j2j3lkJ1P3L9J1k0j8j0rM1M1qrrqL0K9m0p0n4PM2M0QQPQrqrrL0L1J3m7p7p8RJ0
+-485a03N4N3J7m2m7m7%jL2L1JJj4j3j4j3M0M1M3j7qrj2j3j9j9N1N1J5J4j6j6LKN0M9K6l6k0
+-507I5J0j6m7K2K3l8l9J3J2llK7K7K9K9k2k1k2k2k2k2l3l4mmj7j7N3N3M8M7lmrrL8L8j3p3
+-528F7q5n6J5J5M6M8PQk3k3rqpqL3L3L3L3j6j7j6j6j3j3j2j3MMLMj0rJ9K0l0k8%L1M2qk5N
+-551B5J2J2J4J3l6l7l5l6MMMMK5K5k5k6RRRRj3j3L8O8M4pk8k7k1k2n1n2pqK3K3L3L4L2L4Q
+-574G1Pm3m2n5n6m7K5N3K3k7k6nnnnPON8N8L4L5NNk4k5p1p2k4K6O9O7L8L9l3l3m3m5OOj0j0
+-597f8K0l0p3m2J2M2PQRRK7K6mmj6j5J5J4J5J5j6j5jjL0L0l1l1jjK0K1j0j0jj%jppM4M3N5
+-620G6N5j5m7l4J6N4K3k1k0k3k2k0k0m6m7%N0Q7N8j0l9m4j2M0J1m2m0jjl2K0O4L5n5n6j1j1
+-641h0M0L9J8J9J6J7m2p2n2jK6N7M1j0j3j2j6j6l5l6noonM4M5O2O4L9j2l7o8m1j2k0n0l1l1
+-662a82j7j7j8L4P1M1QRQk2l4J7Q9Q9K2K2m7m7MMRQk2n2l7J4M9K1j2j2j3j4K2K1k8k9L6L5
+-683C0OOj2j3J8J9%%j5j5J1J1J1J1j2j3j2j3k3k3k4k4pqK2K3L6L5L3L3Nm6j7j7j5j4j6j5j6
+-704f0j6j6j6J0J0noN5N3MMJJJJk1k2QQL0L1k0j9j4j2JKk9l0JJOOK1K1k5k5NNK7K6k3k3ll
+-729d9K7K6J5J5J4J5j6j5j6j5j4j4%JJ9J8l1l1j1j1L9L9J8J8l2l2m9m9KKN6N6K2K3Jm8l7p
+-750e1LLL6L4L7L6j5j4j4j5J6J6l2l3j6j7L3L4NMj1j1j1j1nmnnL9M0jn1j8J0OPPQQPLMLLK3
+-775H5K2QPK5K4onj4j4m4m4n3n3k3k3L1L0%%J6J6M3M3Km9n1k2K4K4k5k5K5K6K4K6l4l3l3l4
+-797h4J6J7j4j5j1j2j1j2%jjjppppL1L1KLK1N3L2j6k0k0PPK4K3Mm7l3mK7K7J3J4J4J3OPk5
+-821C7k4J%JJJ6J6j5j4kkkkj4j5j4j5j5j4J5J6L0K8M5J5m0p0p0m0J7M8L3L3J8K0J9J9MLJK
+-843G0Rk2n3n2l3lJ1J1j7j7Lk8l7pK3K4K2qqK3M1M1N9L0j4j4m6m5QQL8O9M9km3m3nnK3K3N8
+-866A41K7oom3m4m1m0l3kJ2M1M6J5MMk4k5k4k3ppK3K3J5J6j4j5qqqqj2j1k8KM5M4J6J7J1J1
+-889G6J0J1%j%jQQk2k3n1n1l8qj2j2K0K1j%j8J3J3J3kK8K5K6K8K8j3j4J8J7%%%%k0k1j8j9
+-912A8J3M2M3J3NOj9o9o9p1m3m3ooqM3N7Oj3j3RJ0pK2N2N1K1j0j6j5j6j8l7l8L4L3J4J4J3
+-933BJ4J6J7J6J7NNk6k5l3l2lkKKj5J5L9M1J1J2mmJ5j6n7k6QL8N3N3M2J1n5n5k3Ollkkj8j8
+-957A8j8j7L5L6NOk9k9k7K0N5K4k7k6NOONnnnnRRk2k1k9k9M2M1qqn4n5k3K8M6J7K9K8K7K7
+-980H2j0rqqNL5J8l2j9J1j9m8m9JK2K1mmmmN1N3L0k1m2m2m2m3o9l7K5P5O5J4nnK2K4K3K3J
+-1003G7JJJopopk9k7k7k7J3M3K6k4k2PNk5l2kjl1l3J8L5MJ4J3J2J1J%l0l0ppK3K3mmmmK6K5
+-1028a7mnn0m9JJLMN4N4K9L0%jj8j8j4j4l7K4j0j0k5k4k4k4J8J9J8J8nnnnooO1O0L4k7m2m3
+-1051f0n9o0m2J8O7O8N5oj4j4J3J3j5j5L6L4KKk7k9L5L5l5l5l1l2k7k8l6K4M1M1M4M4M4M5
+-1071I6J8J7l2l3j3j2j3j2KKKKQQQQK6K6K1K2Qn4n3PM5M5k2k1l1l1K0K0j3j4j4j3k1k1K8L0
+-1093D6j2j2j2j1MNMNlkllj0j1j1j1J2J2J1J1qprqRJ0QJ0j2j1j2j2llK7K6J6J5j4j5JJJ%K8
+-1118D7K7k4k4%jjjj8j7J2J1m2m3m3m3J9J9J9J9j5j6J4J5L7L7L6L7k1k1k0k1l4l4J7J7KKL3
+-1139a9L1M1M0RJ0K1K2K1K1l5l6l5l5j4j5J7J6popoQQRQJJKJn0m9M0M2j9j9j7j9K6K7lmj7
+-1162A0j6j8j7L9L8j1j2RRL6L5Lm7l7oJ5J5J7J7MNk3k3m3NK9K9MLLMOOk5k4l5l5l5l5onno
+-1186a23kjK9K8M3M1J2J2kkkkK2K1K2K2QQl1q1o8j9%JK9K9K8K9OPPOnoooPQPQ%%%%mllmjj
+-1214F8kjk8k8KKk0k1RRK8L0kjqrqqj6j6J4J3K8K9kkl5l3mmJKk9k9J7J7J7J7l0l0%%J7J6J7
+-1239a3J5J1J1RRMk5rrJ6J6j5m5k6Nj5j4k0j9L1L1M5M4J3j8k5MJ7J6j1j2j1j0j6j6J3J3K7
+-1260B1lj6j5J6J7L4Lj7j7l4mL3O5P6K5k4n5m1J0K8lj3j2JKk8k9jj%jk3k4k4k4j1j1L7L8L4
+-1282INqqj8j8J3J2L6L7Nk5j9J1K2K2j5j6j6j5jjj7J1J6J6j3j2rpqqNNOMNNNNjkmlK8kmK6
+-1308E9%k9j1j1K0K1K0K0nonoLKKKj9k0j9j9J8J8J9J8KLKKk5k6m1j3MMk2k2K4P4M4oj1j1j3
+-1331D1j4k0j9J0RpnppQPPQJ1J0J3J3rK2K3ropl7l6n8k7PL8P8M8nl6k5OL7L7K7K6ponl5m9
+-1356E0m8rj0k8JL0jj2j2ooooLLLLJ5J6j3j4j7J3K6K5J4J4J4J5k9k8%Kk1k2k2k2QQQQJ3J3
+-1380b7J3J2j1j2J7J6%k9k9%J1J2J3J3J9K0K0J9J2J3J2J2rrQk3q0p9m6j6J6M7L2L2K3K5K4
+-1400G1K4nnonKKj2m2m3m4nM6L3Lk2OLLNNppk6ML0%%L1K8kj4j4llmlnonnJ5J5J4J3j6m5k9
+-1426c0k9j4j5J6J6MNL5L4mmmmJ5J5Kk8l4l4k3PJ6J7j3j2j6j6j6j5j%%%K4K4K4K4K2K0Rk2
+-1449ekkmmrrK2K1L2L3j9j8j3j3J8J8k1k1k0k1jkjjJ4J4J3J3j3j4j4j4NMMNk1k0J0J0J5J5
+-1472a6J5J4NMMNl1k9l0l0K3K2K3K2LLLLk2k4PPJ0Rj9k0OPOPJ4J5J6J5j9k0j9j9k7k6K4K4
+-1496c5OOPOJ4J6j5j4k8k7KLJ3J4J3J3j5j4j5j5l3l4J7J7L0K9L0K8J7J7j3j4j4j4j5j4k2k2
+-1517g5M8M6J9j2k6
+-1519@
+##END=	
+##END=	
