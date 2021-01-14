@@ -1,0 +1,129 @@
+
+  Mnova   02241612342D
+
+  9  9  0  0  0  0  0  0  0  0999 V2000
+    0.0000   91.6667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2169   87.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2169   79.1667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   75.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.2169   79.1667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.2169   87.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4338   91.6667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6506   87.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4338  100.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+M  ZZC   1 2
+M  ZZC   2 1
+M  ZZC   3 6
+M  ZZC   4 5
+M  ZZC   5 4
+M  ZZC   6 3
+M  ZZC   7 7
+M  ZZC   8 8
+M  END
+
+>  <NMREDATA_VERSION>
+1.1\
+
+>  <NMREDATA_ID>
+Path=acetophenon_98-86-2.nmredata.sdf\
+
+>  <NMREDATA_SOLVENT>
+CDCl3\
+
+>  <NMREDATA_TEMPERATURE>
+294\
+
+>  <NMREDATA_FORMULA>
+C8H8O\
+
+>  <NMREDATA_SMILES>
+\
+
+>  <NMREDATA_INCHI>
+\
+
+>  <NMREDATA_ASSIGNMENT>
+2, 128.2817, 1\
+H2, 7.9403, H1\
+1, 137.0485, 2\
+6, 128.2817, 3\
+H6, 7.9403, H3\
+5, 128.5531, 4\
+H5, 7.4426, H4\
+4, 133.1028, 5\
+H4, 7.5417, H5\
+3, 128.5531, 6\
+H3, 7.4426, H6\
+7, 198.1461, 7\
+8, 26.6222, 8\
+H8, 2.5815, H8\
+
+>  <NMREDATA_J>
+
+>  <NMREDATA_1D_1H>
+Larmor=600.133706048414\
+Spectrum_Location=file:\
+MD5=\
+Pulseprogram=zg30\
+2.5535-2.6097, S=s, L=H8, N=3, E=622178.78, J=\
+7.8772-8.0021, S=m, L=H2, H6, N=1, 1, E=395961.50, J=\
+7.5054-7.5813, S=m, L=H4, N=1, E=195487.24, J=\
+7.3784-7.4758, S=m, L=H5, H3, N=1, 1, E=402065.12, J=\
+
+>  <NMREDATA_1D_13C>
+Larmor=150.91940830899\
+Spectrum_Location=file:\
+MD5=\
+Pulseprogram=zgpg30\
+198.1461, L=7, I=14019.44, E=48555.69, W=0.0090\
+137.0485, L=1, I=15527.51, E=54004.96, W=0.0089\
+133.1028, L=4, I=53580.71, E=163524.05, W=0.0073\
+128.5531, L=5, 3, I=105704.85, E=339428.95, W=0.0087\
+128.2817, L=2, 6, I=121448.02, E=443625.84, W=0.0089\
+26.6222, L=8, I=46310.94, E=157812.44, W=0.0089\
+
+>  <NMREDATA_1D_13C#2>
+Larmor=150.91940830899\
+Spectrum_Location=file:\
+MD5=\
+Pulseprogram=deptsp135\
+
+>  <NMREDATA_2D_1H_NJ_1H>
+Larmor=600.133608096715\
+CorType=COSY\
+Spectrum_Location=file:\
+MD5=\
+Pulseprogram=cosygpmfqf\
+
+>  <NMREDATA_2D_13C_1J_1H>
+Larmor=600.132700585\
+CorType=HSQC-EDITED\
+Spectrum_Location=file:\
+MD5=\
+Pulseprogram=hsqcedetgpsisp2.3\
+
+>  <NMREDATA_2D_13C_NJ_1H>
+Larmor=600.133780819\
+CorType=HMBC\
+Spectrum_Location=file:\
+MD5=\
+Pulseprogram=hmbcgplpndqf\
+
+>  <MNOVA_PROC_TEMPLATES>
+NMREDATA_1D_1H=undefined\
+NMREDATA_1D_13C=undefined\
+NMREDATA_1D_13C#2=undefined\
+NMREDATA_2D_1H_NJ_1H=undefined\
+NMREDATA_2D_13C_1J_1H=undefined\
+NMREDATA_2D_13C_NJ_1H=undefined\
+
+$$$$
