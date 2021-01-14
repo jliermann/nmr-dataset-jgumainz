@@ -1,0 +1,22 @@
+[
+    {
+        "groupName": "Übungsblatt 5",
+        "children": [
+            {
+                "file": "./107-02-8/ex.json",
+                "title": "Aufgabe 2: C3H4O",
+                "view": "Exercise"
+            },
+            {
+                "file": "./123-73-9/ex.json",
+                "title": "Aufgabe 3: C8H8O",
+                "view": "Exercise"
+            },
+            {
+                "file": "./123-73-9/ex.json",
+                "title": "Aufgabe 4: C3H5ClO",
+                "view": "Exercise"
+            }
+        ]
+    }
+]
