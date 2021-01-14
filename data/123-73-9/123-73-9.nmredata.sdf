@@ -1,0 +1,120 @@
+
+  Mnova   04051617102D
+
+  6  5  0  0  0  0  0  0  0  0999 V2000
+   48.9111   44.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   69.3467   44.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   79.5644   26.5085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  100.0000   26.5085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   38.6933   61.9040    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   38.6933   26.5085    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  6  1  0  0  0  0
+M  ZZC   1 1
+M  ZZC   2 2
+M  ZZC   3 3
+M  ZZC   4 4
+M  ZZC   5 5
+M  ZZC   6 1a
+M  END
+
+>  <NMREDATA_VERSION>
+1.1\
+
+>  <NMREDATA_ID>
+Path=trans-crotonaldehyd_123-73-9.nmredata.sdf\
+
+>  <NMREDATA_SOLVENT>
+CDCl3\
+
+>  <NMREDATA_TEMPERATURE>
+294.00140380859375\
+
+>  <NMREDATA_FORMULA>
+C4H6O\
+
+>  <NMREDATA_SMILES>
+\
+
+>  <NMREDATA_INCHI>
+\
+
+>  <NMREDATA_ASSIGNMENT>
+1, 194.0291, 1\
+2, 134.5322, 2\
+H2, 6.1055, H2\
+3, 154.1953, 3\
+H3, 6.8465, H3\
+4, 18.6538, 4\
+H4, 1.9948, H4\
+1a, 9.4566, 6\
+
+>  <NMREDATA_J>
+
+>  <NMREDATA_1D_1H>
+Larmor=600.133706048414\
+Spectrum_Location=file:\
+MD5=\
+Pulseprogram=zg30\
+9.4318-9.4799, S=d, L=1a, N=1, E=80661.98, J=7.99\
+6.7958-6.8885, S=dq, L=H3, N=1, E=160466.41, J=15.55,6.86\
+6.0641-6.1457, S=ddq, L=H2, N=1, E=86252.73, J=15.49,7.98,1.63\
+1.9698-2.0185, S=dd, L=H4, N=3, E=336110.83, J=6.85,1.66\
+
+>  <NMREDATA_1D_13C>
+Larmor=150.91940830899\
+Spectrum_Location=file:\
+MD5=\
+Pulseprogram=zgpg30\
+194.0291, L=1, I=15316.24, E=73436.11, W=0.0132\
+154.1953, L=3, I=12523.96, E=124347.46, W=0.0250\
+134.5322, L=2, I=24587.79, E=85341.27, W=0.0096\
+18.6538, L=4, I=28038.25, E=103084.64, W=0.0096\
+
+>  <NMREDATA_1D_13C#2>
+Larmor=150.91940830899\
+Spectrum_Location=file:\
+MD5=\
+Pulseprogram=deptsp135\
+
+>  <NMREDATA_2D_1H_NJ_1H>
+Larmor=600.133608096715\
+CorType=COSY\
+Spectrum_Location=file:\
+MD5=\
+Pulseprogram=cosygpmfqf\
+
+>  <NMREDATA_2D_13C_1J_1H>
+Larmor=600.132700585\
+CorType=HSQC-EDITED\
+Spectrum_Location=file:\
+MD5=\
+Pulseprogram=hsqcedetgpsisp2.3\
+
+>  <NMREDATA_2D_13C_NJ_1H>
+Larmor=600.133780819\
+CorType=HMBC\
+Spectrum_Location=file:\
+MD5=\
+Pulseprogram=hmbcgplpndqf\
+
+>  <NMREDATA_2D_1H_D_1H>
+Larmor=600.132762488496\
+CorType=NOESY\
+Spectrum_Location=file:\
+MD5=\
+Pulseprogram=noesygpphpp\
+
+>  <MNOVA_PROC_TEMPLATES>
+NMREDATA_1D_1H=undefined\
+NMREDATA_1D_13C=undefined\
+NMREDATA_1D_13C#2=undefined\
+NMREDATA_2D_1H_NJ_1H=undefined\
+NMREDATA_2D_13C_1J_1H=undefined\
+NMREDATA_2D_13C_NJ_1H=undefined\
+NMREDATA_2D_1H_D_1H=undefined\
+
+$$$$
