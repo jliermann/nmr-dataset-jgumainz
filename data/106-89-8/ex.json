@@ -38,8 +38,8 @@
             },
             "display": {
                 "name": "hsqc",
-                "positiveColor": "red",
-                "negativeColor": "blue",
+                "positiveColor": "blue",
+                "negativeColor": "red",
                 "isPositiveVisible": true,
                 "isNegativeVisible": true
             }
