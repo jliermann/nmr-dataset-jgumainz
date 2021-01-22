@@ -18,31 +18,73 @@
         {
             "data": {},
             "source": {
-                    "original": [],
-                    "jcamp": null,
-                    "jcampURL": "./98-86-2/13c.dx"
+                "original": [],
+                "jcamp": null,
+                "jcampURL": "./98-86-2/13c.dx"
             },
             "display": {
-                    "name": "13c",
-                    "color": "#C10020",
-                    "isVisible": true,
-                    "isPeaksMarkersVisible": true,
-                    "isRealSpectrumVisible": true
-           }
+                "name": "13c",
+                "color": "#C10020",
+                "isVisible": true,
+                "isPeaksMarkersVisible": true,
+                "isRealSpectrumVisible": true
+            }
         },
         {
-                "data": {},
-                "source": {
-                    "original": [],
-                    "jcamp": null,
-                    "jcampURL": "./98-86-2/dept.dx"
-                },
-                "display": {
-                    "name": "dept",
-                    "color": "#CEA262",
-                    "isVisible": true,
-                    "isPeaksMarkersVisible": true,
-                    "isRealSpectrumVisible": true
+            "data": {},
+            "source": {
+                "original": [],
+                "jcamp": null,
+                "jcampURL": "./98-86-2/dept.dx"
+            },
+            "display": {
+                "name": "dept",
+                "color": "#00538A",
+                "isVisible": true,
+                "isPeaksMarkersVisible": true,
+                "isRealSpectrumVisible": true
+            }
+        },
+        {
+            "source": {
+                "original": [],
+                "jcamp": null,
+                "jcampURL": "./98-86-2/cosy.dx"
+            },
+            "display": {
+                "name": "cosy",
+                "positiveColor": "red",
+                "negativeColor": "blue",
+                "isPositiveVisible": true,
+                "isNegativeVisible": true
+            }
+        },
+        {
+            "source": {
+                "original": [],
+                "jcamp": null,
+                "jcampURL": "./98-86-2/hsqc.dx"
+            },
+            "display": {
+                "name": "hsqc",
+                "positiveColor": "red",
+                "negativeColor": "blue",
+                "isPositiveVisible": true,
+                "isNegativeVisible": true
+            }
+        },
+        {
+            "source": {
+                "original": [],
+                "jcamp": null,
+                "jcampURL": "./98-86-2/hmbc.dx"
+            },
+            "display": {
+                "name": "hmbc",
+                "positiveColor": "red",
+                "negativeColor": "blue",
+                "isPositiveVisible": true,
+                "isNegativeVisible": true
             }
         }
     ],
