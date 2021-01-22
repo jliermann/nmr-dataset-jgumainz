@@ -2,7 +2,6 @@
     "spectra": [
       {
         "data": {},
-        // "id": "8SXfn2TZ",
         "source": {
           "original": [],
           "jcamp": null,
@@ -13,13 +12,11 @@
           "color": "#c10020ff",
           "isVisible": true,
           "isPeaksMarkersVisible": true,
-          "isRealSpectrumVisible": true,
-        //   "isVisibleInDomain": true
+          "isRealSpectrumVisible": true
         }
       },
       {
         "data": {},
-        // "id": "6AgVKvKd",
         "source": {
           "original": [],
           "jcamp": null,
@@ -30,8 +27,7 @@
           "color": "#c10020ff",
           "isVisible": true,
           "isPeaksMarkersVisible": true,
-          "isRealSpectrumVisible": true,
-        //   "isVisibleInDomain": true
+          "isRealSpectrumVisible": true
         }
       }
     ],
