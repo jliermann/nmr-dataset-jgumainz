@@ -31,21 +31,6 @@
             }
         },
         {
-            "data": {},
-            "source": {
-                "original": [],
-                "jcamp": null,
-                "jcampURL": "./110-83-8/dept.dx"
-            },
-            "display": {
-                "name": "dept",
-                "color": "#00538A",
-                "isVisible": true,
-                "isPeaksMarkersVisible": true,
-                "isRealSpectrumVisible": true
-            }
-        },
-        {
             "source": {
                 "original": [],
                 "jcamp": null,
