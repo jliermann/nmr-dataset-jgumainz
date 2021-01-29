@@ -6,3 +6,4 @@
 - Exercise 3. [View in NMR Displayer](https://cheminfo.github.io/nmr-displayer/?sampleURL=https://jliermann.github.io/nmr-dataset-jgumainz/data/exercise3.json) | [JSON](./data/exercise3.json)
 - Exercise 4. [View in NMR Displayer](https://cheminfo.github.io/nmr-displayer/?sampleURL=https://jliermann.github.io/nmr-dataset-jgumainz/data/exercise4.json) | [JSON](./data/exercise4.json)
 - Exercise 5. [View in NMR Displayer](https://cheminfo.github.io/nmr-displayer/?sampleURL=https://jliermann.github.io/nmr-dataset-jgumainz/data/exercise5.json) | [JSON](./data/exercise5.json)
+- Exercise 6. [View in NMR Displayer](https://cheminfo.github.io/nmr-displayer/?sampleURL=https://jliermann.github.io/nmr-dataset-jgumainz/data/exercise6.json) | [JSON](./data/exercise6.json)
