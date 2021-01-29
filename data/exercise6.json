@@ -1,0 +1,17 @@
+[
+    {
+        "groupName": "Übungsblatt 6",
+        "children": [
+            {
+                "file": "./104-46-1/ex.json",
+                "title": "Aufgabe 1: C10H12O",
+                "view": "Exercise"
+            },
+            {
+                "file": "./930-68-7/ex.json",
+                "title": "Aufgabe 2: MW 96",
+                "view": "Exercise"
+            }
+        ]
+    }
+]
