@@ -1,0 +1,121 @@
+
+  Mnova   08011618202D
+
+  8  8  0  0  0  0  0  0  0  0999 V2000
+  -81.8182   10.4973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -72.7273    5.2486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -72.7273   -5.2486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -81.8182  -10.4973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -90.9091   -5.2486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -90.9091    5.2486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -63.6364   10.4973    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+ -100.0000  -10.4973    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+M  ZZC   1 2
+M  ZZC   2 1
+M  ZZC   3 6
+M  ZZC   4 5
+M  ZZC   5 4
+M  ZZC   6 3
+M  ZZC   7 7
+M  ZZC   8 8
+M  END
+
+>  <NMREDATA_VERSION>
+1.1\
+
+>  <NMREDATA_ID>
+Path=4-chlorphenol_106-48-9.nmredata.sdf\
+
+>  <NMREDATA_SOLVENT>
+DMSO\
+
+>  <NMREDATA_TEMPERATURE>
+294.0008850097656\
+
+>  <NMREDATA_FORMULA>
+C6H5ClO\
+
+>  <NMREDATA_SMILES>
+\
+
+>  <NMREDATA_INCHI>
+\
+
+>  <NMREDATA_ASSIGNMENT>
+2, 117.3600, 1\
+H2, 6.7636, H1\
+1, 156.7454, 2\
+6, 117.3600, 3\
+H6, 6.7636, H3\
+5, 129.5763, 4\
+H5, 7.1851, H4\
+4, 122.7572, 5\
+3, 129.5763, 6\
+H3, 7.1851, H6\
+H7, 9.6804, H7\
+
+>  <NMREDATA_J>
+
+>  <NMREDATA_1D_1H>
+Larmor=600.133706048414\
+Spectrum_Location=file:\
+MD5=\
+Pulseprogram=zg30\
+9.6045-9.7469, S=s, L=H7, N=1, E=108929.46, J=\
+6.7223-6.8076, S=m, L=H2, H6, N=1, 1, E=199306.40, J=\
+7.1459-7.2207, S=m, L=H5, H3, N=1, 1, E=189222.83, J=\
+
+>  <NMREDATA_1D_13C>
+Larmor=150.91940830899\
+Spectrum_Location=file:\
+MD5=\
+Pulseprogram=zgpg30\
+156.7454, L=1, I=7454.29, E=30394.64, W=0.0100\
+129.5763, L=5, 3, I=23222.08, E=85324.90, W=0.0098\
+122.7572, L=4, I=4751.09, E=19332.73, W=0.0111\
+117.3600, L=2, 6, I=20993.93, E=76337.72, W=0.0100\
+
+>  <NMREDATA_1D_13C#2>
+Larmor=150.91940830899\
+Spectrum_Location=file:\
+MD5=\
+Pulseprogram=deptsp135\
+
+>  <NMREDATA_2D_1H_NJ_1H>
+Larmor=600.133608096715\
+CorType=COSY\
+Spectrum_Location=file:\
+MD5=\
+Pulseprogram=cosygpmfqf\
+
+>  <NMREDATA_2D_13C_1J_1H>
+Larmor=600.132700585\
+CorType=HSQC-EDITED\
+Spectrum_Location=file:\
+MD5=\
+Pulseprogram=hsqcedetgpsisp2.3\
+
+>  <NMREDATA_2D_13C_NJ_1H>
+Larmor=600.133780819\
+CorType=HMBC\
+Spectrum_Location=file:\
+MD5=\
+Pulseprogram=hmbcgplpndqf\
+
+>  <MNOVA_PROC_TEMPLATES>
+NMREDATA_1D_1H=undefined\
+NMREDATA_1D_13C=undefined\
+NMREDATA_1D_13C#2=undefined\
+NMREDATA_2D_1H_NJ_1H=undefined\
+NMREDATA_2D_13C_1J_1H=undefined\
+NMREDATA_2D_13C_NJ_1H=undefined\
+
+$$$$
