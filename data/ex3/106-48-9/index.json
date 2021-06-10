@@ -1,0 +1,52 @@
+{
+  "spectra": [
+    {
+      "source": {
+        "jcampURL": "./data/ex3/106-48-9/13c.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./data/ex3/106-48-9/1h.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./data/ex3/106-48-9/cosy.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./data/ex3/106-48-9/dept.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./data/ex3/106-48-9/hmbc.jdx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./data/ex3/106-48-9/hsqc.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    }
+  ]
+}
