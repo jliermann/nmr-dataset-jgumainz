@@ -10,4 +10,9 @@ Spectra for Exercises and additional examples.
 
 Links to series
 
-* [data](https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://jliermann.github.io/nmr-dataset-jgumainz/toc_data.json)
+* [Übungsblatt 2](https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://jliermann.github.io/nmr-dataset-jgumainz/toc_10_ex2.json)
+* [Übungsblatt 3](https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://jliermann.github.io/nmr-dataset-jgumainz/toc_20_ex3.json)
+* [Übungsblatt 4](https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://jliermann.github.io/nmr-dataset-jgumainz/toc_30_ex4.json)
+* [Übungsblatt 5](https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://jliermann.github.io/nmr-dataset-jgumainz/toc_40_ex5.json)
+* [Übungsblatt 6](https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://jliermann.github.io/nmr-dataset-jgumainz/toc_50_ex6.json)
+* [Sonstige Übungen](https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://jliermann.github.io/nmr-dataset-jgumainz/toc_99_misc.json)
