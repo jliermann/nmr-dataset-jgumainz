@@ -2,7 +2,7 @@
   "spectra": [
     {
       "source": {
-        "jcampURL": "./99_misc/286-20-4/13c.dx"
+        "jcampURL": "./41_ex5-examples/20_Aufgabe 1b - Cyclohexenoxid/13c.dx"
       },
       "display": {
         "name": ""
@@ -10,7 +10,7 @@
     },
     {
       "source": {
-        "jcampURL": "./99_misc/286-20-4/1h.dx"
+        "jcampURL": "./41_ex5-examples/20_Aufgabe 1b - Cyclohexenoxid/1h.dx"
       },
       "display": {
         "name": ""

@@ -2,7 +2,7 @@
   "spectra": [
     {
       "source": {
-        "jcampURL": "./99_misc/2026-48-4/13c.dx"
+        "jcampURL": "./41_ex5-examples/60_Aufgabe 1f - Biphenyl/13c.dx"
       },
       "display": {
         "name": ""
@@ -10,7 +10,7 @@
     },
     {
       "source": {
-        "jcampURL": "./99_misc/2026-48-4/1h.dx"
+        "jcampURL": "./41_ex5-examples/60_Aufgabe 1f - Biphenyl/1h.dx"
       },
       "display": {
         "name": ""

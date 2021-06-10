@@ -1,0 +1,45 @@
+[
+  {
+    "id": "ertwyPJlhnmhqqX3r+nhTwx9d0A=",
+    "mf": "C8H8O2",
+    "idCodeHash": "6a9d61bcf9a3ceb39c0b4659e92d7460",
+    "file": "./41_ex5-examples/10_Aufgabe 1a - o-Anisaldehyd/index.json",
+    "title": "Aufgabe 1a - o-Anisaldehyd",
+    "selected": true
+  },
+  {
+    "id": "wWPxRka73idxT1HK4QiPsHwVObU=",
+    "mf": "C6H10O",
+    "idCodeHash": "0c040e49bbf171fdd75dbbc94458831f",
+    "file": "./41_ex5-examples/20_Aufgabe 1b - Cyclohexenoxid/index.json",
+    "title": "Aufgabe 1b - Cyclohexenoxid"
+  },
+  {
+    "id": "b03VR4MflVuA9RKDUQyz+cREHzQ=",
+    "mf": "C4H9Br",
+    "idCodeHash": "0391d02c6d34c77404772f31e896b6d9",
+    "file": "./41_ex5-examples/30_Aufgabe 1c - 2-Brombutan/index.json",
+    "title": "Aufgabe 1c - 2-Brombutan"
+  },
+  {
+    "id": "NtKXq3bkCz8sw01hCtZ9Tqp4FrE=",
+    "mf": "C5H13NO",
+    "idCodeHash": "b71b8e1b4dc942b82b278c47cccdca2f",
+    "file": "./41_ex5-examples/40_Aufgabe 1d - Valinol/index.json",
+    "title": "Aufgabe 1d - Valinol"
+  },
+  {
+    "id": "JPmKPOMZOF7kculXaazfWd7zUek=",
+    "mf": "C6H8O7",
+    "idCodeHash": "e3fd75a98ad6a0ff82d7e6bf2b84b17c",
+    "file": "./41_ex5-examples/50_Aufgabe 1e - Citronensäure/index.json",
+    "title": "Aufgabe 1e - Citronensäure"
+  },
+  {
+    "id": "Cjtx4NxB0IEh+TVR4yUDKzjH2aI=",
+    "mf": "C12H10",
+    "idCodeHash": "2ef6f33711f071044dee07cdf7e1841e",
+    "file": "./41_ex5-examples/60_Aufgabe 1f - Biphenyl/index.json",
+    "title": "Aufgabe 1f - Biphenyl"
+  }
+]
