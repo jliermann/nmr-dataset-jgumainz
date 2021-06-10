@@ -1,0 +1,20 @@
+{
+  "spectra": [
+    {
+      "source": {
+        "jcampURL": "./data/99_misc/286-20-4/13c.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./data/99_misc/286-20-4/1h.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    }
+  ]
+}
