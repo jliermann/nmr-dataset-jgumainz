@@ -4,6 +4,11 @@
     "folderName": "data",
     "children": [
       {
+        "groupName": "106-89-8",
+        "folderName": "106-89-8",
+        "children": []
+      },
+      {
         "groupName": "Übungsblatt 2",
         "folderName": "ex2",
         "children": [
@@ -153,10 +158,5 @@
         ]
       }
     ]
-  },
-  {
-    "groupName": "info",
-    "folderName": "info",
-    "children": []
   }
 ]
