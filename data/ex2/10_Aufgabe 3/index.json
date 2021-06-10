@@ -2,7 +2,7 @@
   "spectra": [
     {
       "source": {
-        "jcampURL": "./data/ex2/109-65-9/13c.dx"
+        "jcampURL": "./data/ex2/10_Aufgabe 3/13c.dx"
       },
       "display": {
         "name": ""
@@ -10,7 +10,7 @@
     },
     {
       "source": {
-        "jcampURL": "./data/ex2/109-65-9/1h.dx"
+        "jcampURL": "./data/ex2/10_Aufgabe 3/1h.dx"
       },
       "display": {
         "name": ""
@@ -18,7 +18,7 @@
     },
     {
       "source": {
-        "jcampURL": "./data/ex2/109-65-9/dept.dx"
+        "jcampURL": "./data/ex2/10_Aufgabe 3/dept.dx"
       },
       "display": {
         "name": ""

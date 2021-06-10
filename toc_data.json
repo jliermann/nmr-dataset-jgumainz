@@ -4,11 +4,11 @@
     "folderName": "ex2",
     "children": [
       {
-        "id": "Hcap6EpWKxVRYzMOGBCr3SYdc3Y=",
+        "id": "HEmh5f9cfTcdzSoAASnQjqvTtkg=",
         "mf": "C4H9Br",
         "idCodeHash": "236b3c4e9cae96fde9b5cc891bf35885",
-        "file": "./data/ex2/109-65-9/index.json",
-        "title": "ex2/109-65-9",
+        "file": "./data/ex2/10_Aufgabe 3/index.json",
+        "title": "ex2/10_Aufgabe 3",
         "selected": true
       }
     ]
@@ -18,18 +18,18 @@
     "folderName": "ex3",
     "children": [
       {
-        "id": "FgjGRfj9FIOzpqq+PVFhV8XEaTI=",
+        "id": "uQ56wfNuA8dkg2AbGlgM+6/KrXw=",
         "mf": "C6H5OCl",
         "idCodeHash": "7f8570d262d8419be21507dbe1609fd9",
-        "file": "./data/ex3/106-48-9/index.json",
-        "title": "ex3/106-48-9"
+        "file": "./data/ex3/10_Aufgabe 2/index.json",
+        "title": "ex3/10_Aufgabe 2"
       },
       {
-        "id": "M1eT4UCNZ0lvqbYHYg9I8GlV37I=",
+        "id": "Yy95HoD7PHzwAZKVAVQOqj4Odsw=",
         "mf": "C5H10O",
         "idCodeHash": "0e80ebd2a9a2eb6836a2ee31fab99854",
-        "file": "./data/ex3/107-87-9/index.json",
-        "title": "ex3/107-87-9"
+        "file": "./data/ex3/20_Aufgabe 3/index.json",
+        "title": "ex3/20_Aufgabe 3"
       }
     ]
   },
