@@ -2,7 +2,7 @@
   "spectra": [
     {
       "source": {
-        "jcampURL": "./40_ex5/110-83-8/13c.dx"
+        "jcampURL": "./40_ex5/20_Aufgabe 3/13c.dx"
       },
       "display": {
         "name": ""
@@ -10,7 +10,7 @@
     },
     {
       "source": {
-        "jcampURL": "./40_ex5/110-83-8/1h.dx"
+        "jcampURL": "./40_ex5/20_Aufgabe 3/1h.dx"
       },
       "display": {
         "name": ""
@@ -18,7 +18,7 @@
     },
     {
       "source": {
-        "jcampURL": "./40_ex5/110-83-8/cosy.dx"
+        "jcampURL": "./40_ex5/20_Aufgabe 3/cosy.dx"
       },
       "display": {
         "name": ""
@@ -26,7 +26,7 @@
     },
     {
       "source": {
-        "jcampURL": "./40_ex5/110-83-8/dept.dx"
+        "jcampURL": "./40_ex5/20_Aufgabe 3/dept.dx"
       },
       "display": {
         "name": ""
@@ -34,7 +34,7 @@
     },
     {
       "source": {
-        "jcampURL": "./40_ex5/110-83-8/hmbc.dx"
+        "jcampURL": "./40_ex5/20_Aufgabe 3/hmbc.dx"
       },
       "display": {
         "name": ""
@@ -42,7 +42,7 @@
     },
     {
       "source": {
-        "jcampURL": "./40_ex5/110-83-8/hsqc.dx"
+        "jcampURL": "./40_ex5/20_Aufgabe 3/hsqc.dx"
       },
       "display": {
         "name": ""
