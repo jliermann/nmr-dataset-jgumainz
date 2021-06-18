@@ -18,31 +18,7 @@
     },
     {
       "source": {
-        "jcampURL": "./40_ex5/30_Aufgabe 4/cosy.dx"
-      },
-      "display": {
-        "name": ""
-      }
-    },
-    {
-      "source": {
         "jcampURL": "./40_ex5/30_Aufgabe 4/dept.dx"
-      },
-      "display": {
-        "name": ""
-      }
-    },
-    {
-      "source": {
-        "jcampURL": "./40_ex5/30_Aufgabe 4/hmbc.dx"
-      },
-      "display": {
-        "name": ""
-      }
-    },
-    {
-      "source": {
-        "jcampURL": "./40_ex5/30_Aufgabe 4/hsqc.dx"
       },
       "display": {
         "name": ""
