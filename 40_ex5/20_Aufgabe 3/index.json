@@ -18,7 +18,23 @@
     },
     {
       "source": {
-        "jcampURL": "./40_ex5/20_Aufgabe 3/dept.dx"
+        "jcampURL": "./40_ex5/20_Aufgabe 3/cosy.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./40_ex5/20_Aufgabe 3/hmbc.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./40_ex5/20_Aufgabe 3/hsqc.dx"
       },
       "display": {
         "name": ""
