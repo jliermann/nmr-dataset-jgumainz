@@ -142,6 +142,26 @@
     ]
   },
   {
+    "groupName": "Übungsblatt 7",
+    "folderName": "60_ex7",
+    "children": [
+      {
+        "id": "FCm+DHkzLX5MHSPw5RN/9CmM5Ig=",
+        "mf": "C6H7N",
+        "idCodeHash": "6d12762db34ed554dfc70cd05689b825",
+        "file": "./60_ex7/10_Aufgabe 1/index.json",
+        "title": "Aufgabe 1"
+      },
+      {
+        "id": "U4RvAubmxqBs159+83pCPiAt95M=",
+        "mf": "C5H6O2",
+        "idCodeHash": "b737f6c099924a74d968d86c8e679a89",
+        "file": "./60_ex7/20_Aufgabe 2/index.json",
+        "title": "Aufgabe 2"
+      }
+    ]
+  },
+  {
     "groupName": "Sonstige Übungen",
     "folderName": "99_misc",
     "children": [

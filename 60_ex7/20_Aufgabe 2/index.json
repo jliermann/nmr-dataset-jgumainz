@@ -1,0 +1,44 @@
+{
+  "spectra": [
+    {
+      "source": {
+        "jcampURL": "./60_ex7/20_Aufgabe 2/13c.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./60_ex7/20_Aufgabe 2/1h.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./60_ex7/20_Aufgabe 2/cosy.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./60_ex7/20_Aufgabe 2/hmbc.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./60_ex7/20_Aufgabe 2/hsqc.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    }
+  ]
+}
