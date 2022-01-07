@@ -1,17 +1,17 @@
 [
   {
-    "id": "IR9jE0U8GelKia7oQEERpQEFxLA=",
+    "id": "E/PYVgIR1WUKuwUsWIgHr+dUKNs=",
     "mf": "C10H12O",
     "idCodeHash": "6407caea28e1396ba120634bb1b138c3",
-    "file": "./50_ex6/10_Aufgabe 1/index.json",
-    "title": "Aufgabe 1",
+    "file": "./50_ex6/10_Aufgabe_1/index.json",
+    "title": "Aufgabe_1",
     "selected": true
   },
   {
-    "id": "X8grXAD7CyOZgxQk9zD4yrAfvls=",
+    "id": "d4SQ7rsREiXy8LPfgozIwciDqq0=",
     "mf": "C6H8O",
     "idCodeHash": "0de3bea8f7e72eefa99f37d402739556",
-    "file": "./50_ex6/20_Aufgabe 2/index.json",
-    "title": "Aufgabe 2"
+    "file": "./50_ex6/20_Aufgabe_2/index.json",
+    "title": "Aufgabe_2"
   }
 ]

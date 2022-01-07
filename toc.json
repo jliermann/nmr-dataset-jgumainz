@@ -18,18 +18,18 @@
     "folderName": "20_ex3",
     "children": [
       {
-        "id": "PN+48ayGzsMIBCtE9ohK/WVxhS8=",
+        "id": "UAyQA5OPFr20EamATJXh9DiMXDA=",
         "mf": "C6H5OCl",
         "idCodeHash": "7f8570d262d8419be21507dbe1609fd9",
-        "file": "./20_ex3/10_Aufgabe 2/index.json",
-        "title": "Aufgabe 2"
+        "file": "./20_ex3/10_Aufgabe_2/index.json",
+        "title": "Aufgabe_2"
       },
       {
-        "id": "HBDAxsRF/05oREoLe0rLc4flMtA=",
+        "id": "12r7ZygnN/wvhcumr1+LZwfbuzY=",
         "mf": "C5H10O",
         "idCodeHash": "0e80ebd2a9a2eb6836a2ee31fab99854",
-        "file": "./20_ex3/20_Aufgabe 3/index.json",
-        "title": "Aufgabe 3"
+        "file": "./20_ex3/20_Aufgabe_3/index.json",
+        "title": "Aufgabe_3"
       }
     ]
   },
@@ -38,11 +38,11 @@
     "folderName": "30_ex4",
     "children": [
       {
-        "id": "hHAW9jBsd+E9RNgdB6RIYBk78rM=",
+        "id": "K0ZmnmonB4M5k5KhgtVUwdwJSww=",
         "mf": "C4H6O",
         "idCodeHash": "0d33ddbfb36dd813fbd529a537d5d36b",
-        "file": "./30_ex4/10_Aufgabe 2/index.json",
-        "title": "Aufgabe 2"
+        "file": "./30_ex4/10_Aufgabe_2/index.json",
+        "title": "Aufgabe_2"
       }
     ]
   },
@@ -51,25 +51,25 @@
     "folderName": "40_ex5",
     "children": [
       {
-        "id": "E05fxQ0ba+n159xbtVOudOHsgr4=",
+        "id": "gFkn+giinEo/9ckXLanB6z+6bJY=",
         "mf": "C3H4O",
         "idCodeHash": "7b0fe64fb05b4270b44579f6c4dd0293",
-        "file": "./40_ex5/10_Aufgabe 2/index.json",
-        "title": "Aufgabe 2"
+        "file": "./40_ex5/10_Aufgabe_2/index.json",
+        "title": "Aufgabe_2"
       },
       {
-        "id": "dcCaP88ZAH6UR9BY1QBmItX+I3I=",
+        "id": "7OxEZj4VIJpqBYoCkXrriHaXzJ0=",
         "mf": "C8H8O",
         "idCodeHash": "e4617999ccdccfc27ee8da157b5d8bdd",
-        "file": "./40_ex5/20_Aufgabe 3/index.json",
-        "title": "Aufgabe 3"
+        "file": "./40_ex5/20_Aufgabe_3/index.json",
+        "title": "Aufgabe_3"
       },
       {
-        "id": "KCQSAkRgu0bY7W0+UlRpcuLNIa8=",
+        "id": "V22nT1xsp3fQmHlcOeH04TOcHNg=",
         "mf": "C6H10",
         "idCodeHash": "37bda40ad086a34bedb633da0ffa5359",
-        "file": "./40_ex5/30_Aufgabe 4/index.json",
-        "title": "Aufgabe 4"
+        "file": "./40_ex5/30_Aufgabe_4/index.json",
+        "title": "Aufgabe_4"
       }
     ]
   },
@@ -78,46 +78,46 @@
     "folderName": "41_ex5-examples",
     "children": [
       {
-        "id": "ertwyPJlhnmhqqX3r+nhTwx9d0A=",
+        "id": "/2oRL/t1tVBS4/fiVgczRdGu5Uk=",
         "mf": "C8H8O2",
         "idCodeHash": "6a9d61bcf9a3ceb39c0b4659e92d7460",
-        "file": "./41_ex5-examples/10_Aufgabe 1a - o-Anisaldehyd/index.json",
-        "title": "Aufgabe 1a - o-Anisaldehyd"
+        "file": "./41_ex5-examples/10_Aufgabe_1a_-_o-Anisaldehyd/index.json",
+        "title": "Aufgabe_1a_-_o-Anisaldehyd"
       },
       {
-        "id": "wWPxRka73idxT1HK4QiPsHwVObU=",
+        "id": "KW8JOIh+oRDEdu0zrYjiUwKR7Qg=",
         "mf": "C6H10O",
         "idCodeHash": "0c040e49bbf171fdd75dbbc94458831f",
-        "file": "./41_ex5-examples/20_Aufgabe 1b - Cyclohexenoxid/index.json",
-        "title": "Aufgabe 1b - Cyclohexenoxid"
+        "file": "./41_ex5-examples/20_Aufgabe_1b_-_Cyclohexenoxid/index.json",
+        "title": "Aufgabe_1b_-_Cyclohexenoxid"
       },
       {
-        "id": "b03VR4MflVuA9RKDUQyz+cREHzQ=",
+        "id": "zAk9my+E1RyK8qbo4DQkfoy2yMQ=",
         "mf": "C4H9Br",
         "idCodeHash": "0391d02c6d34c77404772f31e896b6d9",
-        "file": "./41_ex5-examples/30_Aufgabe 1c - 2-Brombutan/index.json",
-        "title": "Aufgabe 1c - 2-Brombutan"
+        "file": "./41_ex5-examples/30_Aufgabe_1c_-_2-Brombutan/index.json",
+        "title": "Aufgabe_1c_-_2-Brombutan"
       },
       {
-        "id": "NtKXq3bkCz8sw01hCtZ9Tqp4FrE=",
+        "id": "iuUJIwYGVaA8qdv+Uw9yjnwRbLk=",
         "mf": "C5H13NO",
         "idCodeHash": "b71b8e1b4dc942b82b278c47cccdca2f",
-        "file": "./41_ex5-examples/40_Aufgabe 1d - Valinol/index.json",
-        "title": "Aufgabe 1d - Valinol"
+        "file": "./41_ex5-examples/40_Aufgabe_1d_-_Valinol/index.json",
+        "title": "Aufgabe_1d_-_Valinol"
       },
       {
-        "id": "JPmKPOMZOF7kculXaazfWd7zUek=",
+        "id": "SR7ZZvEgr22jNWC6HBoK2zJZvZk=",
         "mf": "C6H8O7",
         "idCodeHash": "e3fd75a98ad6a0ff82d7e6bf2b84b17c",
-        "file": "./41_ex5-examples/50_Aufgabe 1e - Citronensäure/index.json",
-        "title": "Aufgabe 1e - Citronensäure"
+        "file": "./41_ex5-examples/50_Aufgabe_1e_-_Citronensaeure/index.json",
+        "title": "Aufgabe_1e_-_Citronensaeure"
       },
       {
-        "id": "Cjtx4NxB0IEh+TVR4yUDKzjH2aI=",
+        "id": "UIirp3XNmZ+u0eAmabdkvPCmCYw=",
         "mf": "C12H10",
         "idCodeHash": "2ef6f33711f071044dee07cdf7e1841e",
-        "file": "./41_ex5-examples/60_Aufgabe 1f - Biphenyl/index.json",
-        "title": "Aufgabe 1f - Biphenyl"
+        "file": "./41_ex5-examples/60_Aufgabe_1f_-_Biphenyl/index.json",
+        "title": "Aufgabe_1f_-_Biphenyl"
       }
     ]
   },
@@ -126,18 +126,18 @@
     "folderName": "50_ex6",
     "children": [
       {
-        "id": "IR9jE0U8GelKia7oQEERpQEFxLA=",
+        "id": "E/PYVgIR1WUKuwUsWIgHr+dUKNs=",
         "mf": "C10H12O",
         "idCodeHash": "6407caea28e1396ba120634bb1b138c3",
-        "file": "./50_ex6/10_Aufgabe 1/index.json",
-        "title": "Aufgabe 1"
+        "file": "./50_ex6/10_Aufgabe_1/index.json",
+        "title": "Aufgabe_1"
       },
       {
-        "id": "X8grXAD7CyOZgxQk9zD4yrAfvls=",
+        "id": "d4SQ7rsREiXy8LPfgozIwciDqq0=",
         "mf": "C6H8O",
         "idCodeHash": "0de3bea8f7e72eefa99f37d402739556",
-        "file": "./50_ex6/20_Aufgabe 2/index.json",
-        "title": "Aufgabe 2"
+        "file": "./50_ex6/20_Aufgabe_2/index.json",
+        "title": "Aufgabe_2"
       }
     ]
   },
@@ -146,18 +146,18 @@
     "folderName": "60_ex7",
     "children": [
       {
-        "id": "Jw/ypBLF06j1NC6MR+B6KUTyaPY=",
+        "id": "9hQ0rkXXq20XGLQan7jdi6X+gZM=",
         "mf": "C6H7N",
         "idCodeHash": "f7da5c2932735cb6ce23836eee157124",
-        "file": "./60_ex7/10_Aufgabe 1/index.json",
-        "title": "Aufgabe 1"
+        "file": "./60_ex7/10_Aufgabe_1/index.json",
+        "title": "Aufgabe_1"
       },
       {
-        "id": "U4RvAubmxqBs159+83pCPiAt95M=",
+        "id": "nYzD4EiWTQ75aPTzdikZSg2i3AY=",
         "mf": "C5H6O2",
         "idCodeHash": "b737f6c099924a74d968d86c8e679a89",
-        "file": "./60_ex7/20_Aufgabe 2/index.json",
-        "title": "Aufgabe 2"
+        "file": "./60_ex7/20_Aufgabe_2/index.json",
+        "title": "Aufgabe_2"
       }
     ]
   },

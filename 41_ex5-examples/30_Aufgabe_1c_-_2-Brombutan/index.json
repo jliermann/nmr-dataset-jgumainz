@@ -1,0 +1,20 @@
+{
+  "spectra": [
+    {
+      "source": {
+        "jcampURL": "./41_ex5-examples/30_Aufgabe_1c_-_2-Brombutan/13c.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./41_ex5-examples/30_Aufgabe_1c_-_2-Brombutan/1h.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    }
+  ]
+}
