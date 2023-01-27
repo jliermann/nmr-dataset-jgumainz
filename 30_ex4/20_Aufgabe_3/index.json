@@ -2,7 +2,7 @@
   "spectra": [
     {
       "source": {
-        "jcampURL": "./30_ex4/20_Aufgabe_3/1+2-phenylethanol.dx"
+        "jcampURL": "./1+2-phenylethanol.dx"
       },
       "display": {
         "name": ""

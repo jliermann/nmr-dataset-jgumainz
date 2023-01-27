@@ -2,7 +2,7 @@
   "spectra": [
     {
       "source": {
-        "jcampURL": "./41_ex5-examples/50_Aufgabe_1e_-_Citronensaeure/13c.dx"
+        "jcampURL": "./13c.dx"
       },
       "display": {
         "name": ""
@@ -10,7 +10,7 @@
     },
     {
       "source": {
-        "jcampURL": "./41_ex5-examples/50_Aufgabe_1e_-_Citronensaeure/1h.dx"
+        "jcampURL": "./1h.dx"
       },
       "display": {
         "name": ""
