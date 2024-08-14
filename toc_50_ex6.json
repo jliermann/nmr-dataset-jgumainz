@@ -1,0 +1,28 @@
+[
+  {
+    "id": "Y9xNCMMiaB8HEGkwhMmXr197FzA=",
+    "mf": "C6H7N",
+    "idCodeHash": "f7da5c2932735cb6ce23836eee157124",
+    "file": "./50_ex6/10_Aufgabe_1/index.json",
+    "title": "Aufgabe_1",
+    "idCode": "gOx@@eLmXD@@@",
+    "selected": true
+  },
+  {
+    "id": "fLP71vJWvJJR9cbXX7t6V5LePLA=",
+    "mf": "C11H12O2",
+    "idCodeHash": "836dec4627c37db55f8ffa49b1891c41",
+    "file": "./50_ex6/20_Aufgabe_2/index.json",
+    "title": "Aufgabe_2",
+    "idCode": "dklD@@QIgUe]Mjf@@BJ`",
+    "noStereoIDCodeHash": "43877ff9d90e9336727d9aae265104ec"
+  },
+  {
+    "id": "j1kEHUxYHnODChdp0b3+da5jgME=",
+    "mf": "C6H8O",
+    "idCodeHash": "0de3bea8f7e72eefa99f37d402739556",
+    "file": "./50_ex6/25_Aufgabe_2_alt/index.json",
+    "title": "Aufgabe_2_alt",
+    "idCode": "gOq@@drm[ST@@"
+  }
+]

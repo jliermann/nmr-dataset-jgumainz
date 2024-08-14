@@ -1,0 +1,24 @@
+<svg id="mol6" xmlns="http://www.w3.org/2000/svg" version="1.1" width="99px" height="91px" viewBox="100 54 99 91">
+  <style> text {font-family: sans-serif;} #mol6 { pointer-events:none; } #mol6 .event  { pointer-events:all; } line { stroke-linecap:round; } polygon { stroke-linejoin:round; } </style>
+  <text x="108.55" y="73.49" stroke="none" font-size="14" fill="rgb(255,13,13)">O</text>
+  <text x="144.95" y="135.84" stroke="none" font-size="14" fill="rgb(0,0,0)">H</text>
+  <text x="180.95" y="115.06" stroke="none" font-size="14" fill="rgb(0,0,0)">H</text>
+  <line x1="126.28" y1="86.49" x2="119.6" y2="74.92" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="124.44" y1="90.51" x2="116.48" y2="76.72" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="150" y1="89.61" x2="162" y2="110.39" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="148.16" y1="93.63" x2="158.88" y2="112.19" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="124.44" y1="90.51" x2="150" y2="89.61" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="162" y1="110.39" x2="154.04" y2="124.18" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="162" y1="110.39" x2="179.95" y2="110.39" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line id="mol6:Bond:0" class="event" x1="126" y1="89.61" x2="114" y2="68.82" stroke-width="8" opacity="0" />
+  <line id="mol6:Bond:2" class="event" x1="150" y1="89.61" x2="162" y2="110.39" stroke-width="8" opacity="0" />
+  <line id="mol6:Bond:1" class="event" x1="126" y1="89.61" x2="150" y2="89.61" stroke-width="8" opacity="0" />
+  <line id="mol6:Bond:3" class="event" x1="162" y1="110.39" x2="150" y2="131.18" stroke-width="8" opacity="0" />
+  <line id="mol6:Bond:4" class="event" x1="162" y1="110.39" x2="186" y2="110.39" stroke-width="8" opacity="0" />
+  <circle id="mol6:Atom:0" class="event" cx="126" cy="89.61" r="8" opacity="0" />
+  <circle id="mol6:Atom:1" class="event" cx="150" cy="89.61" r="8" opacity="0" />
+  <circle id="mol6:Atom:2" class="event" cx="162" cy="110.39" r="8" opacity="0" />
+  <circle id="mol6:Atom:3" class="event" cx="114" cy="68.82" r="8" opacity="0" />
+  <circle id="mol6:Atom:4" class="event" cx="150" cy="131.18" r="8" opacity="0" />
+  <circle id="mol6:Atom:5" class="event" cx="186" cy="110.39" r="8" opacity="0" />
+</svg>
